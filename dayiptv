@@ -1,311 +1,210 @@
-#EXTM3U
-#EXTINF:-1,AR: 2M MONDE
-http://213.239.216.233:8000/live/1sn.ns1/skype/1516.ts
-#EXTINF:-1,AR: 2M MAROC HD
-http://213.239.216.233:8000/live/1sn.ns1/skype/5608.ts
-#EXTINF:-1,AR: TAMAZIGHT
-http://213.239.216.233:8000/live/1sn.ns1/skype/1312.ts
-#EXTINF:-1,AR: MEDIA 1 TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/989.ts
-#EXTINF:-1,AR: AL OULA TV INT
-http://213.239.216.233:8000/live/1sn.ns1/skype/2303.ts
-#EXTINF:-1,AR: ASSADISSA
-http://213.239.216.233:8000/live/1sn.ns1/skype/1313.ts
-#EXTINF:-1,AR: NUMIDIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3179.ts
-#EXTINF:-1,AR: ARRABIAA TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/3178.ts
-#EXTINF:-1,AR: ARRIADIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3150.ts
-#EXTINF:-1,AR: AL MAGHRIBIA NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/5693.ts
-#EXTINF:-1,AR: TUNISIE NAT 1
-http://213.239.216.233:8000/live/1sn.ns1/skype/1518.ts
-#EXTINF:-1,AR: TUNISIA NAT 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/1519.ts
-#EXTINF:-1,AR: ELHIWAR ETTOUNSI
-http://213.239.216.233:8000/live/1sn.ns1/skype/2559.ts
-#EXTINF:-1,AR: FIRST CHANNEL
-http://213.239.216.233:8000/live/1sn.ns1/skype/2563.ts
-#EXTINF:-1,AR: TOUNESNA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2564.ts
-#EXTINF:-1,AR: ATTESSIA TUNISIE
-http://213.239.216.233:8000/live/1sn.ns1/skype/2562.ts
-#EXTINF:-1,AR: HANNIBAL
-http://213.239.216.233:8000/live/1sn.ns1/skype/2560.ts
-#EXTINF:-1,AR: AL HIWAR TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/7025.ts
-#EXTINF:-1,AR: ZITOUNA TUNIS TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/2566.ts
-#EXTINF:-1,AR: NESSMA TUNISIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2561.ts
-#EXTINF:-1,AR: JANOUBIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2565.ts
-#EXTINF:-1,AR: AL MUSTAKILLAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/2569.ts
-#EXTINF:-1,AR: M TUNISIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2567.ts
-#EXTINF:-1,AR: AL INSEN TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/6199.ts
-#EXTINF:-1,AR: CARTHAGE TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/7312.ts
-#EXTINF:-1,AR: ALGERIE 3
-http://213.239.216.233:8000/live/1sn.ns1/skype/3319.ts
-#EXTINF:-1,AR: CANAL ALGERIE
-http://213.239.216.233:8000/live/1sn.ns1/skype/3318.ts
-#EXTINF:-1,AR: ENNAHAR TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/3335.ts
-#EXTINF:-1,AR: SAMIRA TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/3340.ts
-#EXTINF:-1,AR: DZAIR NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/3338.ts
-#EXTINF:-1,AR: ECHOUROUK
-http://213.239.216.233:8000/live/1sn.ns1/skype/5052.ts
-#EXTINF:-1,AR: DZAIER TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5048.ts
-#EXTINF:-1,AR: ENTV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5053.ts
-#EXTINF:-1,AR: TAMAZIGHT (ALG)
-http://213.239.216.233:8000/live/1sn.ns1/skype/5055.ts
-#EXTINF:-1,AR: MAGHARIBIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/5799.ts
-#EXTINF:-1,AR: EL HEDDAF TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5051.ts
-#EXTINF:-1,AR: EL FADJR TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/7026.ts
-#EXTINF:-1,AR: EL KHABAR KBC ALGERIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/6229.ts
-#EXTINF:-1,AR: AL BERBERE TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/6230.ts
-#EXTINF:-1,AR: AL BERBERE JEUNESSE
-http://213.239.216.233:8000/live/1sn.ns1/skype/6232.ts
-#EXTINF:-1,AR: EL BILAD TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5050.ts
-#EXTINF:-1,AR: AL BERBERE MUSIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/6231.ts
-#EXTINF:-1,AR: EL DJAZAIRIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/8843.ts
-#EXTINF:-1,AR: BAHIA TV ALG
-http://213.239.216.233:8000/live/1sn.ns1/skype/7027.ts
-#EXTINF:-1,AR: ISHTAR TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/16231.ts
-#EXTINF:-1,AR: RASHEED TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/3399.ts
-#EXTINF:-1,AR: NOOR DUBAI
-http://213.239.216.233:8000/live/1sn.ns1/skype/3397.ts
-#EXTINF:-1,AR: AL SUMARIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3432.ts
-#EXTINF:-1,AR: AL SHARQYIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3430.ts
-#EXTINF:-1,AR: AL SHARQIYA NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/3431.ts
-#EXTINF:-1,AR: AL JAZEERA DOC
-http://213.239.216.233:8000/live/1sn.ns1/skype/3396.ts
-#EXTINF:-1,AR: AL JADEED
-http://213.239.216.233:8000/live/1sn.ns1/skype/5536.ts
-#EXTINF:-1,AR:  NAT GEO
-http://213.239.216.233:8000/live/1sn.ns1/skype/5035.ts
-#EXTINF:-1,AR: MEKAMELEEN
-http://213.239.216.233:8000/live/1sn.ns1/skype/6663.ts
-#EXTINF:-1,AR: CIMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3357.ts
-#EXTINF:-1,AR: PANORAMA FOOD
-http://213.239.216.233:8000/live/1sn.ns1/skype/3360.ts
-#EXTINF:-1,AR: PANORAMA FILM
-http://213.239.216.233:8000/live/1sn.ns1/skype/3361.ts
-#EXTINF:-1,AR: PANORAMA DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3364.ts
-#EXTINF:-1,AR: PANORAMA DRAMA 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/3362.ts
-#EXTINF:-1,AR: FUTURE TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/3359.ts
-#EXTINF:-1,AR: LBC
-http://213.239.216.233:8000/live/1sn.ns1/skype/1792.ts
-#EXTINF:-1,AR: MBC 1
-http://213.239.216.233:8000/live/1sn.ns1/skype/993.ts
-#EXTINF:-1,AR: MBC 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/994.ts
-#EXTINF:-1,AR: MBC 3
-http://213.239.216.233:8000/live/1sn.ns1/skype/995.ts
-#EXTINF:-1,AR: MBC 4
-http://213.239.216.233:8000/live/1sn.ns1/skype/996.ts
-#EXTINF:-1,AR: LDC LEBANON
-http://213.239.216.233:8000/live/1sn.ns1/skype/5132.ts
-#EXTINF:-1,AR: MTV LEBANON
-http://213.239.216.233:8000/live/1sn.ns1/skype/5130.ts
-#EXTINF:-1,AR: NBN HD
-http://213.239.216.233:8000/live/1sn.ns1/skype/5133.ts
-#EXTINF:-1,AR: DUBAI TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/2165.ts
-#EXTINF:-1,AR: DUBAI ONE
-http://213.239.216.233:8000/live/1sn.ns1/skype/2166.ts
-#EXTINF:-1,AR: DUBAI ZAMAN
-http://213.239.216.233:8000/live/1sn.ns1/skype/3760.ts
-#EXTINF:-1,AR: AL HAYAT
-http://213.239.216.233:8000/live/1sn.ns1/skype/2163.ts
-#EXTINF:-1,AR: TV SYRIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/1496.ts
-#EXTINF:-1,AR: SYRIA DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/4015.ts
-#EXTINF:-1,AR: SAMA SYRIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/4016.ts
-#EXTINF:-1,AR: HALAB TODAY
-http://213.239.216.233:8000/live/1sn.ns1/skype/7030.ts
-#EXTINF:-1,AR: JORDAN SPORT
-http://213.239.216.233:8000/live/1sn.ns1/skype/5797.ts
-#EXTINF:-1,AR: JORDAN TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5796.ts
-#EXTINF:-1,AR: JORDAN ROUYA
-http://213.239.216.233:8000/live/1sn.ns1/skype/5798.ts
-#EXTINF:-1,AR: WANASAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/1000.ts
-#EXTINF:-1,AR: ABU DHABI TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/992.ts
-#EXTINF:-1,AR: AL ITEJAH TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/7046.ts
-#EXTINF:-1,AR: AL KAHERA WAL NAS
-http://213.239.216.233:8000/live/1sn.ns1/skype/7045.ts
-#EXTINF:-1,AR: AL KAHERA WAL NAS Â 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/7044.ts
-#EXTINF:-1,AR: AL MASRIYA
-http://213.239.216.233:8000/live/1sn.ns1/skype/7043.ts
-#EXTINF:-1,AR: AL OULA MASR
-http://213.239.216.233:8000/live/1sn.ns1/skype/7036.ts
-#EXTINF:-1,AR: AL THANYA
-http://213.239.216.233:8000/live/1sn.ns1/skype/7034.ts
-#EXTINF:-1,AR: PALESTINIAN TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/5788.ts
-#EXTINF:-1,AR: LIBYA TV
-http://213.239.216.233:8000/live/1sn.ns1/skype/6365.ts
-#EXTINF:-1,AR: ELMOURITANIA.2
-http://213.239.216.233:8000/live/1sn.ns1/skype/6288.ts
-#EXTINF:-1,AR: AL-MAJD-QURAN
-http://213.239.216.233:8000/live/1sn.ns1/skype/2932.ts
-#EXTINF:-1,AR: EL SHARQ
-http://213.239.216.233:8000/live/1sn.ns1/skype/3261.ts
-#EXTINF:-1,AR: KSA SUNNAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/2298.ts
-#EXTINF:-1,AR: ON DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2301.ts
-#EXTINF:-1,AR: SAUDI QURAN
-http://213.239.216.233:8000/live/1sn.ns1/skype/3128.ts
-#EXTINF:-1,AR: IQRAA
-http://213.239.216.233:8000/live/1sn.ns1/skype/3126.ts
-#EXTINF:-1,AR: AL RESALAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/3127.ts
-#EXTINF:-1,AR: MAZZIKA
-http://213.239.216.233:8000/live/1sn.ns1/skype/5884.ts
-#EXTINF:-1,AR: DREAM 1
-http://213.239.216.233:8000/live/1sn.ns1/skype/2164.ts
-#EXTINF:-1,AR: ROTANA CLASSIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/986.ts
-#EXTINF:-1,AR: ROTANA CLIP
-http://213.239.216.233:8000/live/1sn.ns1/skype/985.ts
-#EXTINF:-1,AR: ROTANA DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/983.ts
-#EXTINF:-1,AR: ROTANA KHALIJIAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/984.ts
-#EXTINF:-1,AR: AGHANI
-http://213.239.216.233:8000/live/1sn.ns1/skype/7032.ts
-#EXTINF:-1,AR: TOYOR JANNAH
-http://213.239.216.233:8000/live/1sn.ns1/skype/3119.ts
-#EXTINF:-1,AR: TOYOR BABY
-http://213.239.216.233:8000/live/1sn.ns1/skype/5886.ts
-#EXTINF:-1,AR: BARAEM
-http://213.239.216.233:8000/live/1sn.ns1/skype/3761.ts
-#EXTINF:-1,AR: MAJDKIDS
-http://213.239.216.233:8000/live/1sn.ns1/skype/3757.ts
-#EXTINF:-1,AR: JEEM EUROPE
-http://213.239.216.233:8000/live/1sn.ns1/skype/3759.ts
-#EXTINF:-1,AR: MODY KIDS
-http://213.239.216.233:8000/live/1sn.ns1/skype/3758.ts
-#EXTINF:-1,AR: NILE NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/1078.ts
-#EXTINF:-1,AR: TRT ARABIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/2185.ts
-#EXTINF:-1,AR: SKY NEWS ARABIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2182.ts
-#EXTINF:-1,AR: ECHOUROUK NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/3337.ts
-#EXTINF:-1,AR: BBC ARABIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/2186.ts
-#EXTINF:-1,AR: ALIKHBARIA SYRIA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2321.ts
-#EXTINF:-1,AR: AL MAYADEEN
-http://213.239.216.233:8000/live/1sn.ns1/skype/1512.ts
-#EXTINF:-1,AR: AL MANAR
-http://213.239.216.233:8000/live/1sn.ns1/skype/1517.ts
-#EXTINF:-1,AR: RT NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/5129.ts
-#EXTINF:-1,AR: ALJAZEERA ARABIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/2184.ts
-#EXTINF:-1,AR: ANN NEWS
-http://213.239.216.233:8000/live/1sn.ns1/skype/2187.ts
-#EXTINF:-1,AR: AL ARABIYA
-http://213.239.216.233:8000/live/1sn.ns1/skype/2183.ts
-#EXTINF:-1,AR: AL AQSA
-http://213.239.216.233:8000/live/1sn.ns1/skype/5840.ts
-#EXTINF:-1,AR: OTV LEBANON
-http://213.239.216.233:8000/live/1sn.ns1/skype/2158.ts
-#EXTINF:-1,AR: MBC MAX
-http://213.239.216.233:8000/live/1sn.ns1/skype/998.ts
-#EXTINF:-1,AR: MBC DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/999.ts
-#EXTINF:-1,AR: MBC VARIETY
-http://213.239.216.233:8000/live/1sn.ns1/skype/3901.ts
-#EXTINF:-1,AR: MBC ACTION
-http://213.239.216.233:8000/live/1sn.ns1/skype/997.ts
-#EXTINF:-1,AR: MBC MASR 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/1498.ts
-#EXTINF:-1,AR: MBC MASR
-http://213.239.216.233:8000/live/1sn.ns1/skype/1499.ts
-#EXTINF:-1,AR: MBC BOLLYWOOD
-http://213.239.216.233:8000/live/1sn.ns1/skype/1504.ts
-#EXTINF:-1,AR: MELODY CLASSIC
-http://213.239.216.233:8000/live/1sn.ns1/skype/5885.ts
-#EXTINF:-1,AR: ALHAYAT MUSLSALAT
-http://213.239.216.233:8000/live/1sn.ns1/skype/3903.ts
-#EXTINF:-1,AR: TOKTOK AFLAM
-http://213.239.216.233:8000/live/1sn.ns1/skype/3904.ts
-#EXTINF:-1,AR: CINEMA PRO
-http://213.239.216.233:8000/live/1sn.ns1/skype/3902.ts
-#EXTINF:-1,AR: ZEE ALWAN
-http://213.239.216.233:8000/live/1sn.ns1/skype/1494.ts
-#EXTINF:-1,AR: ZEE AFLAM
-http://213.239.216.233:8000/live/1sn.ns1/skype/1495.ts
-#EXTINF:-1,AR: ART AFLAM 1
-http://213.239.216.233:8000/live/1sn.ns1/skype/1509.ts
-#EXTINF:-1,AR: ART AFLAM 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/1510.ts
-#EXTINF:-1,AR: ART HEKAYAT 1
-http://213.239.216.233:8000/live/1sn.ns1/skype/1500.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://213.239.216.233:8000/live/1sn.ns1/skype/1501.ts
-#EXTINF:-1,AR: ROTANA AFLAM
-http://213.239.216.233:8000/live/1sn.ns1/skype/1502.ts
-#EXTINF:-1,AR: CBC
-http://213.239.216.233:8000/live/1sn.ns1/skype/1508.ts
-#EXTINF:-1,AR: CBC EXTRA
-http://213.239.216.233:8000/live/1sn.ns1/skype/1506.ts
-#EXTINF:-1,AR: CBC DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/1507.ts
-#EXTINF:-1,AR: CBC SOFRA
-http://213.239.216.233:8000/live/1sn.ns1/skype/7033.ts
-#EXTINF:-1,AR: NILE COMEDY
-http://213.239.216.233:8000/live/1sn.ns1/skype/1073.ts
-#EXTINF:-1,AR: NILE CULTURE
-http://213.239.216.233:8000/live/1sn.ns1/skype/1075.ts
-#EXTINF:-1,AR: NILE DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/1074.ts
-#EXTINF:-1,AR: NILE LIFE
-http://213.239.216.233:8000/live/1sn.ns1/skype/1076.ts
-#EXTINF:-1,AR: AL NAHAR AL YOUM
-http://213.239.216.233:8000/live/1sn.ns1/skype/7040.ts
-#EXTINF:-1,AR: AL NAHAR DRAMA
-http://213.239.216.233:8000/live/1sn.ns1/skype/7037.ts
-#EXTINF:-1,AR: ON SPORT HD
-http://213.239.216.233:8000/live/1sn.ns1/skype/5841.ts
-#EXTINF:-1,AR: DMC SPORTS
-http://213.239.216.233:8000/live/1sn.ns1/skype/6018.ts
-#EXTINF:-1,AR: NILE SPORT
-http://213.239.216.233:8000/live/1sn.ns1/skype/1077.ts
+#EXTINF:-1,(TR) BEYAZ TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/275.ts
+#EXTINF:-1,(TR) BEYAZ TV HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29896.ts
+#EXTINF:-1,(TR) BEYKENT TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5972.ts
+#EXTINF:-1,(TR) BJK TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2625.ts
+#EXTINF:-1,(TR) BLOOMBERG HT HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29901.ts
+#EXTINF:-1,(TR) BRT 1
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/7436.ts
+#EXTINF:-1,(TR) BRT 2
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/7437.ts
+#EXTINF:-1,(TR) BURSASPOR TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/89308.ts
+#EXTINF:-1,(TR) Berat TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/116563.ts
+#EXTINF:-1,(TR) CIFTCI TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/305.ts
+#EXTINF:-1,(TR) DAMLA TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1038.ts
+#EXTINF:-1,(TR) DEHA TV DENIZLI
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5963.ts
+#EXTINF:-1,(TR) DIYAR TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5962.ts
+#EXTINF:-1,(TR) DOST TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1053.ts
+#EXTINF:-1,(TR) EKINTURK TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1072.ts
+#EXTINF:-1,(TR) ER TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5964.ts
+#EXTINF:-1,(TR) EURO D
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1877.ts
+#EXTINF:-1,(TR) EUROSTAR
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1876.ts
+#EXTINF:-1,(TR) FENERBAHCE TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2028.ts
+#EXTINF:-1,(TR) FIL TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/8073.ts
+#EXTINF:-1,(TR) FLASH TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/267.ts
+#EXTINF:-1,(TR) FM TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1070.ts
+#EXTINF:-1,(TR) FOX TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/229.ts
+#EXTINF:-1,(TR) FOX TV HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29895.ts
+#EXTINF:-1,(TR) GAZIANTEP OLAY TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2114.ts
+#EXTINF:-1,(TR) GS TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2626.ts
+#EXTINF:-1,(TR) HABERAKS TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5971.ts
+#EXTINF:-1,(TR) HABERTURK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1960.ts
+#EXTINF:-1,(TR) HALK TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/278.ts
+#EXTINF:-1,(TR) KABE TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1125.ts
+#EXTINF:-1,(TR) KANAL 3 AFYON
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/286.ts
+#EXTINF:-1,(TR) KANAL 33
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5969.ts
+#EXTINF:-1,(TR) KANAL 42 KONYA
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2109.ts
+#EXTINF:-1,(TR) KANAL 58 SIVAS
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5975.ts
+#EXTINF:-1,(TR) KANAL 60
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5967.ts
+#EXTINF:-1,(TR) KANAL 7 AVRUPA
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2108.ts
+#EXTINF:-1,(TR) KANAL AVRUPA
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1122.ts
+#EXTINF:-1,(TR) KANAL B
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/276.ts
+#EXTINF:-1,(TR) KANAL D HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29893.ts
+#EXTINF:-1,(TR) KARADENIZ TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1061.ts
+#EXTINF:-1,(TR) KARDELEN TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1059.ts
+#EXTINF:-1,(TR) KEMAL SUNAL TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/3217.ts
+#EXTINF:-1,(TR) KIBRIS GENC TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/7439.ts
+#EXTINF:-1,(TR) KRAL 90 LAR TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132835.ts
+#EXTINF:-1,(TR) KRAL LOVE
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132832.ts
+#EXTINF:-1,(TR) KRAL POP AKUSTIK TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132838.ts
+#EXTINF:-1,(TR) KRAL POP ASK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132831.ts
+#EXTINF:-1,(TR) KRAL POP DANS
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132830.ts
+#EXTINF:-1,(TR) KRAL POP KONSER TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132837.ts
+#EXTINF:-1,(TR) KRAL POP PERFORMANS
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132833.ts
+#EXTINF:-1,(TR) KRAL TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/281.ts
+#EXTINF:-1,(TR) KRALPOP
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/238.ts
+#EXTINF:-1,(TR) LALEGUL TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1887.ts
+#EXTINF:-1,(TR) LINE TV BURSA
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2107.ts
+#EXTINF:-1,(TR) LOCA 1
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/563.ts
+#EXTINF:-1,(TR) LOCA 2
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/121878.ts
+#EXTINF:-1,(TR) LOCA 3
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/565.ts
+#EXTINF:-1,(TR) MAVI KARADENIZ
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/306.ts
+#EXTINF:-1,(TR) MC EU
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/14483.ts
+#EXTINF:-1,(TR) NR1 HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1866.ts
+#EXTINF:-1,(TR) NTV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/239.ts
+#EXTINF:-1,(TR) NTV HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/8465.ts
+#EXTINF:-1,(TR) DMAX
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/243.ts
+#EXTINF:-1,(TR) DMAX HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2106.ts
+#EXTINF:-1,(TR) SAT7 TURK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/94551.ts
+#EXTINF:-1,(TR) SHOW TV HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29892.ts
+#EXTINF:-1,(TR) SHOWMAX
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/3343.ts
+#EXTINF:-1,(TR) SIHHAT TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1874.ts
+#EXTINF:-1,(TR) SLTV ACTION HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/8344.ts
+#EXTINF:-1,(TR) SLTV GOLD HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/30447.ts
+#EXTINF:-1,(TR) SLTV KOMEDI HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/30448.ts
+#EXTINF:-1,(TR) SLTV PREMIUM HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/133813.ts
+#EXTINF:-1,(TR) SLTV SINEMA TURK HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/133353.ts
+#EXTINF:-1,(TR) SONY CHANNEL
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1047.ts
+#EXTINF:-1,(TR) STAR TV HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29897.ts
+#EXTINF:-1,(TR) TEK RUMELI TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/289.ts
+#EXTINF:-1,(TR) TGRT HABER
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/313.ts
+#EXTINF:-1,(TR) TLC
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/11970.ts
+#EXTINF:-1,(TR) TRT 1
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/256.ts
+#EXTINF:-1,(TR) TRT 1 HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/14487.ts
+#EXTINF:-1,(TR) TRT AVAZ
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/3625.ts
+#EXTINF:-1,(TR) TRT BELGESEL
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/261.ts
+#EXTINF:-1,(TR) TRT COCUK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/260.ts
+#EXTINF:-1,(TR) TRT DIYANET
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/3626.ts
+#EXTINF:-1,(TR) TRT HABER
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/3624.ts
+#EXTINF:-1,(TR) TRT MUZIK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/263.ts
+#EXTINF:-1,(TR) TRT OKUL
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/13241.ts
+#EXTINF:-1,(TR) TRT TURK
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/318.ts
+#EXTINF:-1,(TR) TV 100 BALIKESIR
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1118.ts
+#EXTINF:-1,(TR) TV 4
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/8617.ts
+#EXTINF:-1,(TR) TV 41
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/5966.ts
+#EXTINF:-1,(TR) TV 5
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/299.ts
+#EXTINF:-1,(TR) TV 52 ORDU
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1108.ts
+#EXTINF:-1,(TR) TV 8 HD+
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/29894.ts
+#EXTINF:-1,(TR) TV DEN AYDIN
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/7572.ts
+#EXTINF:-1,(TR) TV EM
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1935.ts
+#EXTINF:-1,(TR) TV KAYSERI
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1113.ts
+#EXTINF:-1,(TR) TV1 KAYSERI
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1116.ts
+#EXTINF:-1,(TR) TV8
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/237.ts
+#EXTINF:-1,(TR) TV8 INT
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1860.ts
+#EXTINF:-1,(TR) UCANKUS
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1042.ts
+#EXTINF:-1,(TR) ULUSAL KANAL
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/8154.ts
+#EXTINF:-1,(TR) VATAN TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/288.ts
+#EXTINF:-1,(TR) Seymen TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/1044.ts
+#EXTINF:-1,(TR) YABAN TV
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/272.ts
