@@ -1,463 +1,143 @@
-#EXTINF:
-
-#EXTINF:-1,FR: ALTICE STUDIO HD
-http://217.23.5.70:25461/live/anis/anis/13880.ts
-
-#EXTINF:-1,FR: AB1 HD
-http://217.23.5.70:25461/live/anis/anis/7460.ts
-
-#EXTINF:-1,FR: ARTE HD
-http://217.23.5.70:25461/live/anis/anis/1429.ts
-
-#EXTINF:-1,FR: BET HD
-http://217.23.5.70:25461/live/anis/anis/11019.ts
-
-#EXTINF:-1,FR: C8 HD
-http://217.23.5.70:25461/live/anis/anis/230.ts
-
-#EXTINF:-1,FR: CStar
-http://217.23.5.70:25461/live/anis/anis/173.ts
-
-#EXTINF:-1,FR: ELLE GIRL
-http://217.23.5.70:25461/live/anis/anis/1191.ts
-
-#EXTINF:-1,FR: EURONEWS
-http://217.23.5.70:25461/live/anis/anis/11015.ts
-
-#EXTINF:-1,FR: LCI
-http://217.23.5.70:25461/live/anis/anis/13853.ts
-
-#EXTINF:-1,FR: FRANCE 2 HD
-http://217.23.5.70:25461/live/anis/anis/168.ts
-
-#EXTINF:-1,FR: FRANCE 3 HD
-http://217.23.5.70:25461/live/anis/anis/169.ts
-
-#EXTINF:-1,FR: FRANCE 4 HD
-http://217.23.5.70:25461/live/anis/anis/170.ts
-
-#EXTINF:-1,FR: FRANCE 5 HD
-http://217.23.5.70:25461/live/anis/anis/1434.ts
-
-#EXTINF:-1,FR: FRANCE O HD
-http://217.23.5.70:25461/live/anis/anis/1433.ts
-
-#EXTINF:-1,FR: E! ENTERTAINEMENT HD
-http://217.23.5.70:25461/live/anis/anis/11017.ts
-
-#EXTINF:-1,FR: FASHIONTV
-http://217.23.5.70:25461/live/anis/anis/13860.ts
-
-#EXTINF:-1,FR: SUNDANCE FHD
-http://217.23.5.70:25461/live/anis/anis/13866.ts
-
-#EXTINF:-1,FR: HD1
-http://217.23.5.70:25461/live/anis/anis/1430.ts
-
-#EXTINF:-1,FR: M6 HD
-http://217.23.5.70:25461/live/anis/anis/1432.ts
-
-#EXTINF:-1,FR: NT1 HD
-http://217.23.5.70:25461/live/anis/anis/172.ts
-
-#EXTINF:-1,FR: Paramount Channel HD
-http://217.23.5.70:25461/live/anis/anis/11021.ts
-
-#EXTINF:-1,FR: PARIS PREMIERE HD
-http://217.23.5.70:25461/live/anis/anis/1425.ts
-
-#EXTINF:-1,FR: RTL9 HD
-http://217.23.5.70:25461/live/anis/anis/236.ts
-
-#EXTINF:-1,FR: RTS DEUX HD CH
-http://217.23.5.70:25461/live/anis/anis/241.ts
-
-#EXTINF:-1,FR: RTS UN HD CH
-http://217.23.5.70:25461/live/anis/anis/239.ts
-
-#EXTINF:-1,FR: TF1 HD
-http://217.23.5.70:25461/live/anis/anis/167.ts
-
-#EXTINF:-1,FR: TF1 SERIES FILMS SD
-http://217.23.5.70:25461/live/anis/anis/13862.ts
-
-#EXTINF:-1,FR: TEVA SD
-http://217.23.5.70:25461/live/anis/anis/13865.ts
-
-#EXTINF:-1,FR: TV BREIZH HD
-http://217.23.5.70:25461/live/anis/anis/13881.ts
-
-#EXTINF:-1,FR: TV8 MONT BLANC FHD
-http://217.23.5.70:25461/live/anis/anis/13861.ts
-
-#EXTINF:-1,FR: TMC HD
-http://217.23.5.70:25461/live/anis/anis/1416.ts
-
-#EXTINF:-1,FR: W9 HD
-http://217.23.5.70:25461/live/anis/anis/1431.ts
-
-#EXTINF:-1,FR: Weo HD
-http://217.23.5.70:25461/live/anis/anis/1428.ts
-
-#EXTINF:-1,FR:&nbsp; SCIENCE ET VIE TV HD
-http://217.23.5.70:25461/live/anis/anis/1130.ts
-
-#EXTINF:-1,FR: ANIMAUX HD
-http://217.23.5.70:25461/live/anis/anis/1415.ts
-
-#EXTINF:-1,FR: CHASSE ET PECHE
-http://217.23.5.70:25461/live/anis/anis/1134.ts
-
-#EXTINF:-1,FR: CRIME DIRICT HD
-http://217.23.5.70:25461/live/anis/anis/11896.ts
-
-#EXTINF:-1,FR: DISCOVERY HD
-http://217.23.5.70:25461/live/anis/anis/1413.ts
-
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
-http://217.23.5.70:25461/live/anis/anis/1135.ts
-
-#EXTINF:-1,FR: DISCOVERY FAMLY HD
-http://217.23.5.70:25461/live/anis/anis/13854.ts
-
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
-http://217.23.5.70:25461/live/anis/anis/13855.ts
-
-#EXTINF:-1,FR: NON STOP PEOPE
-http://217.23.5.70:25461/live/anis/anis/13863.ts
-
-#EXTINF:-1,FR: NATGEO WILD HD
-http://217.23.5.70:25461/live/anis/anis/1137.ts
-
-#EXTINF:-1,FR: NATIONAL GEO HD
-http://217.23.5.70:25461/live/anis/anis/1172.ts
-
-#EXTINF:-1,FR: PLANETE+ A&amp;E HD
-http://217.23.5.70:25461/live/anis/anis/1124.ts
-
-#EXTINF:-1,FR: PLANETE+ CI HD
-http://217.23.5.70:25461/live/anis/anis/1123.ts
-
-#EXTINF:-1,FR: PLANETE+ HD
-http://217.23.5.70:25461/live/anis/anis/1180.ts
-
-#EXTINF:-1,FR: RMC&nbsp; DECOUVERTE
-http://217.23.5.70:25461/live/anis/anis/1411.ts
-
-#EXTINF:-1,FR: SEASONS HD
-http://217.23.5.70:25461/live/anis/anis/1131.ts
-
-#EXTINF:-1,FR: TOUTE L'HISTOIRE
-http://217.23.5.70:25461/live/anis/anis/1179.ts
-
-#EXTINF:-1,FR: TREK TV HD
-http://217.23.5.70:25461/live/anis/anis/1129.ts
-
-#EXTINF:-1,FR: USHUAIA TV HD
-http://217.23.5.70:25461/live/anis/anis/1414.ts
-
-#EXTINF:-1,FR: VOYAGE HD
-http://217.23.5.70:25461/live/anis/anis/1182.ts
-
-#EXTINF:-1,FR: 13EME RUE HD
-http://217.23.5.70:25461/live/anis/anis/1424.ts
-
-#EXTINF:-1,FR: ACTION
-http://217.23.5.70:25461/live/anis/anis/1419.ts
-
-#EXTINF:-1,FR: TCM CINEMA HD
-http://217.23.5.70:25461/live/anis/anis/11020.ts
-
-#EXTINF:-1,FR: COMEDIE+ HD
-http://217.23.5.70:25461/live/anis/anis/242.ts
-
-#EXTINF:-1,FR: CANAL+ HD
-http://217.23.5.70:25461/live/anis/anis/1146.ts
-
-#EXTINF:-1,FR: CANAL+ DECALE HD
-http://217.23.5.70:25461/live/anis/anis/1145.ts
-
-#EXTINF:-1,FR: CANAL+ CINEMA HD
-http://217.23.5.70:25461/live/anis/anis/1423.ts
-
-#EXTINF:-1,FR: CANAL+ FAMILY HD
-http://217.23.5.70:25461/live/anis/anis/1422.ts
-
-#EXTINF:-1,FR: CINE+ PREMIER HD
-http://217.23.5.70:25461/live/anis/anis/1420.ts
-
-#EXTINF:-1,FR: CINE+ EMOTION HD
-http://217.23.5.70:25461/live/anis/anis/1421.ts
-
-#EXTINF:-1,FR: CANAL+ SERIES HD
-http://217.23.5.70:25461/live/anis/anis/1143.ts
-
-#EXTINF:-1,FR: CINE+ CLASSIC HD
-http://217.23.5.70:25461/live/anis/anis/1183.ts
-
-#EXTINF:-1,FR: CINE+ FRISSON HD
-http://217.23.5.70:25461/live/anis/anis/1185.ts
-
-#EXTINF:-1,FR: CINE+ FAMIZ HD
-http://217.23.5.70:25461/live/anis/anis/1139.ts
-
-#EXTINF:-1,FR: CINE FX HD
-http://217.23.5.70:25461/live/anis/anis/1184.ts
-
-#EXTINF:-1,FR:&nbsp; OCS CHOC HD
-http://217.23.5.70:25461/live/anis/anis/1141.ts
-
-#EXTINF:-1,FR:&nbsp; OCS CITY HD
-http://217.23.5.70:25461/live/anis/anis/1140.ts
-
-#EXTINF:-1,FR: OCS GEANT HD
-http://217.23.5.70:25461/live/anis/anis/1417.ts
-
-#EXTINF:-1,FR: OCS MAX HD
-http://217.23.5.70:25461/live/anis/anis/1418.ts
-
-#EXTINF:-1,FR: SERIE CLUB HD
-http://217.23.5.70:25461/live/anis/anis/11018.ts
-
-#EXTINF:-1,FR:&nbsp; SYFY HD
-http://217.23.5.70:25461/live/anis/anis/1427.ts
-
-#EXTINF:-1,FR: A LA CARTE 1
-http://217.23.5.70:25461/live/anis/anis/2241.ts
-
-#EXTINF:-1,FR: A LA CARTE 2
-http://217.23.5.70:25461/live/anis/anis/2240.ts
-
-#EXTINF:-1,FR: A LA CARTE 3
-http://217.23.5.70:25461/live/anis/anis/2239.ts
-
-#EXTINF:-1,FR: A LA CARTE 4
-http://217.23.5.70:25461/live/anis/anis/2238.ts
-
-#EXTINF:-1,FR: A LA CARTE 5
-http://217.23.5.70:25461/live/anis/anis/2237.ts
-
-#EXTINF:-1,FR: A LA CARTE 6
-http://217.23.5.70:25461/live/anis/anis/2227.ts
-
-#EXTINF:-1,FR: A LA CARTE 7
-http://217.23.5.70:25461/live/anis/anis/2226.ts
-
-#EXTINF:-1,FR: A LA CARTE 8
-http://217.23.5.70:25461/live/anis/anis/2225.ts
-
-#EXTINF:-1,FR: A LA CARTE 9
-http://217.23.5.70:25461/live/anis/anis/2224.ts
-
-#EXTINF:-1,FR: A LA CARTE 10
-http://217.23.5.70:25461/live/anis/anis/2223.ts
-
-#EXTINF:-1,FR: ORANGE CINE 1
-http://217.23.5.70:25461/live/anis/anis/10403.ts
-
-#EXTINF:-1,FR: ORANGE CINE 2
-http://217.23.5.70:25461/live/anis/anis/10402.ts
-
-#EXTINF:-1,FR: ORANGE CINE 3
-http://217.23.5.70:25461/live/anis/anis/10401.ts
-
-#EXTINF:-1,FR: ORANGE CINE 4
-http://217.23.5.70:25461/live/anis/anis/10400.ts
-
-#EXTINF:-1,FR: ORANGE CINE 5
-http://217.23.5.70:25461/live/anis/anis/10399.ts
-
-#EXTINF:-1,FR: ORANGE CINE 6
-http://217.23.5.70:25461/live/anis/anis/10398.ts
-
-#EXTINF:-1,FR:&nbsp; CANAL+ SPORT HD
-http://217.23.5.70:25461/live/anis/anis/379.ts
-
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://217.23.5.70:25461/live/anis/anis/1408.ts
-
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://217.23.5.70:25461/live/anis/anis/373.ts
-
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://217.23.5.70:25461/live/anis/anis/1407.ts
-
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-http://217.23.5.70:25461/live/anis/anis/375.ts
-
-#EXTINF:-1,FR: BEIN SPORT MAX 5
-http://217.23.5.70:25461/live/anis/anis/376.ts
-
-#EXTINF:-1,FR: BEIN SPORTS 1 HD Back-up
-http://217.23.5.70:25461/live/anis/anis/10479.ts
-
-#EXTINF:-1,FR: BEIN SPORTS 2 HD Back-up
-http://217.23.5.70:25461/live/anis/anis/10478.ts
-
-#EXTINF:-1,FR: BEIN SPORTS 3 HD Back-up
-http://217.23.5.70:25461/live/anis/anis/10477.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 10
-http://217.23.5.70:25461/live/anis/anis/10470.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 Back-up
-http://217.23.5.70:25461/live/anis/anis/10476.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 Back-up
-http://217.23.5.70:25461/live/anis/anis/10475.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 6
-http://217.23.5.70:25461/live/anis/anis/10474.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 7
-http://217.23.5.70:25461/live/anis/anis/10473.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 8
-http://217.23.5.70:25461/live/anis/anis/10472.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 9
-http://217.23.5.70:25461/live/anis/anis/10471.ts
-
-#EXTINF:-1,FR: EQUIDIA LIVE HD
-http://217.23.5.70:25461/live/anis/anis/442.ts
-
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://217.23.5.70:25461/live/anis/anis/381.ts
-
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://217.23.5.70:25461/live/anis/anis/382.ts
-
-#EXTINF:-1,FR: FOOT+ 24/24 HD
-http://217.23.5.70:25461/live/anis/anis/383.ts
-
-#EXTINF:-1,FR: GOLF+ HD
-http://217.23.5.70:25461/live/anis/anis/384.ts
-
-#EXTINF:-1,FR: INFOSPORT+ HD
-http://217.23.5.70:25461/live/anis/anis/380.ts
-
-#EXTINF:-1,FR: L'EQUIPE21
-http://217.23.5.70:25461/live/anis/anis/385.ts
-
-#EXTINF:-1,FR: MOTORSPORT TV
-http://217.23.5.70:25461/live/anis/anis/11016.ts
-
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://217.23.5.70:25461/live/anis/anis/377.ts
-
-#EXTINF:-1,FR: SFR Sport 2 HD
-http://217.23.5.70:25461/live/anis/anis/1410.ts
-
-#EXTINF:-1,FR: SFR Sport 3 HD
-http://217.23.5.70:25461/live/anis/anis/1409.ts
-
-#EXTINF:-1,FR: SFR Sport 5 HD
-http://217.23.5.70:25461/live/anis/anis/11543.ts
-
-#EXTINF:-1,FR: MULTISPORTS1
-http://217.23.5.70:25461/live/anis/anis/13878.ts
-
-#EXTINF:-1,FR: MULTISPORTS2
-http://217.23.5.70:25461/live/anis/anis/13877.ts
-
-#EXTINF:-1,FR: MULTISPORTS3
-http://217.23.5.70:25461/live/anis/anis/13876.ts
-
-#EXTINF:-1,FR: MULTISPORTS4
-http://217.23.5.70:25461/live/anis/anis/13875.ts
-
-#EXTINF:-1,FR: AB MOTEUR SD
-http://217.23.5.70:25461/live/anis/anis/13867.ts
-
-#EXTINF:-1,FR: EXTREME SPORTS
-http://217.23.5.70:25461/live/anis/anis/13869.ts
-
-#EXTINF:-1,FR: GIRONDINS TV
-http://217.23.5.70:25461/live/anis/anis/13870.ts
-
-#EXTINF:-1,FR: OL TV FHD
-http://217.23.5.70:25461/live/anis/anis/13871.ts
-
-#EXTINF:-1,FR: OM TV
-http://217.23.5.70:25461/live/anis/anis/13872.ts
-
-#EXTINF:-1,FR: TRACE SPORT STARS
-http://217.23.5.70:25461/live/anis/anis/13874.ts
-
-#EXTINF:-1,FR: CHERIE 25 HD
-http://217.23.5.70:25461/live/anis/anis/232.ts
-
-#EXTINF:-1,FR: NRJ 12
-http://217.23.5.70:25461/live/anis/anis/237.ts
-
-#EXTINF:-1,FR: M6 MUSIC&nbsp; HD
-http://217.23.5.70:25461/live/anis/anis/370.ts
-
-#EXTINF:-1,FR: MTV BASE
-http://217.23.5.70:25461/live/anis/anis/1177.ts
-
-#EXTINF:-1,FR: MTV HITS HD
-http://217.23.5.70:25461/live/anis/anis/1178.ts
-
-#EXTINF:-1,FR: NRJ 12 HD
-http://217.23.5.70:25461/live/anis/anis/1426.ts
-
-#EXTINF:-1,FR: NRJ HITS
-http://217.23.5.70:25461/live/anis/anis/371.ts
-
-#EXTINF:-1,FR: BOING HD
-http://217.23.5.70:25461/live/anis/anis/7461.ts
-
-#EXTINF:-1,FR: BOOMERANG HD
-http://217.23.5.70:25461/live/anis/anis/233.ts
-
-#EXTINF:-1,FR: Carton Network HD
-http://217.23.5.70:25461/live/anis/anis/238.ts
-
-#EXTINF:-1,FR: CANAL J HD
-http://217.23.5.70:25461/live/anis/anis/243.ts
-
-#EXTINF:-1,FR: DISNEY CHANNEL&nbsp; 1 HD
-http://217.23.5.70:25461/live/anis/anis/11014.ts
-
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://217.23.5.70:25461/live/anis/anis/369.ts
-
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://217.23.5.70:25461/live/anis/anis/11013.ts
-
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-http://217.23.5.70:25461/live/anis/anis/11011.ts
-
-#EXTINF:-1,FR: DISNEY XD HD
-http://217.23.5.70:25461/live/anis/anis/11012.ts
-
-#EXTINF:-1,FR: GINX
-http://217.23.5.70:25461/live/anis/anis/13859.ts
-
-#EXTINF:-1,FR: GAME ONE HD
-http://217.23.5.70:25461/live/anis/anis/234.ts
-
-#EXTINF:-1,FR: J ONE HD
-http://217.23.5.70:25461/live/anis/anis/1126.ts
-
-#EXTINF:-1,FR: MANGAS TV
-http://217.23.5.70:25461/live/anis/anis/318.ts
-
-#EXTINF:-1,FR: NICKELODEON
-http://217.23.5.70:25461/live/anis/anis/1125.ts
-
-#EXTINF:-1,FR: PIWI+ HD
-http://217.23.5.70:25461/live/anis/anis/1133.ts
-
-#EXTINF:-1,FR: Teletoon HD
-http://217.23.5.70:25461/live/anis/anis/11544.ts
-
-#EXTINF:-1,FR: DISNEY ORANGE 1
-http://217.23.5.70:25461/live/anis/anis/13858.ts
-
-#EXTINF:-1,FR: DISNEY ORANGE 2
-http://217.23.5.70:25461/live/anis/anis/13857.ts
-
-#EXTINF:-1,FR: DISNEY ORANGE 3
-http://217.23.5.70:25461/live/anis/anis/13856.ts
+#EXTM3U
+#EXTINF:-1,TR: 24 TV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107520.ts
+#EXTINF:-1,TR: 24 TV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107645.ts
+#EXTINF:-1,TR: 24 TV UHD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107518.ts
+#EXTINF:-1,TR: 360TV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107516.ts
+#EXTINF:-1,TR: 360TV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107644.ts
+#EXTINF:-1,TR: A2 HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107510.ts
+#EXTINF:-1,TR: A2 SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107641.ts
+#EXTINF:-1,TR: AHABER HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107507.ts
+#EXTINF:-1,TR: AHABER SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107639.ts
+#EXTINF:-1,TR: AKILLI TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107504.ts
+#EXTINF:-1,TR: AKTIF TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107503.ts
+#EXTINF:-1,TR: ANIMAL PLANET TR
+http://5.135.137.41:8000/live/mohamed1/mohamed/107355.ts
+#EXTINF:-1,TR: ASPOR HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107502.ts
+#EXTINF:-1,TR: ASPOR SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107637.ts
+#EXTINF:-1,TR: ATVHD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107496.ts
+#EXTINF:-1,TR: ATVSD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107632.ts
+#EXTINF:-1,TR: BABY FIRST HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107435.ts
+#EXTINF:-1,TR: BABY TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107434.ts
+#EXTINF:-1,TR: IZ TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107417.ts
+#EXTINF:-1,TR: KABE TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107416.ts
+#EXTINF:-1,TR: KANAL7 SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107619.ts
+#EXTINF:-1,TR: KANAL7HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107468.ts
+#EXTINF:-1,TR: KANAL7UHD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107617.ts
+#EXTINF:-1,TR: KANALDHD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107616.ts
+#EXTINF:-1,TR: KANALDSD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107615.ts
+#EXTINF:-1,TR: KEMAL SUNAL TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107415.ts
+#EXTINF:-1,TR: KOY TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107413.ts
+#EXTINF:-1,TR: KRAL FM
+http://5.135.137.41:8000/live/mohamed1/mohamed/107346.ts
+#EXTINF:-1,TR: KRAL POP AKUSTIK
+http://5.135.137.41:8000/live/mohamed1/mohamed/107345.ts
+#EXTINF:-1,TR: KRAL WORLD TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107342.ts
+#EXTINF:-1,TR: LIVE RADYO TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107334.ts
+#EXTINF:-1,TR: MEDINE TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107412.ts
+#EXTINF:-1,TR: NICKELODEON HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107407.ts
+#EXTINF:-1,TR: NTV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107457.ts
+#EXTINF:-1,TR: NTV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107611.ts
+#EXTINF:-1,TR: NTVSPOR HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107453.ts
+#EXTINF:-1,TR: NTVSPOR SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107609.ts
+#EXTINF:-1,TR: POWERTURKTV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107340.ts
+#EXTINF:-1,TR: POWERTURKTV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107589.ts
+#EXTINF:-1,TR: POWERTURKTV UHD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107588.ts
+#EXTINF:-1,TR: POWERTV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107337.ts
+#EXTINF:-1,TR: POWERTV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107587.ts
+#EXTINF:-1,TR: STARTV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107479.ts
+#EXTINF:-1,TR: STARTV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107624.ts
+#EXTINF:-1,TR: TARIM TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107389.ts
+#EXTINF:-1,TR: TAYTV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107387.ts
+#EXTINF:-1,TR: TAYTV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107597.ts
+#EXTINF:-1,TR: TRT 4K
+http://5.135.137.41:8000/live/mohamed1/mohamed/107536.ts
+#EXTINF:-1,TR: TRT HABER
+http://5.135.137.41:8000/live/mohamed1/mohamed/107531.ts
+#EXTINF:-1,TR: TRT1 HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107526.ts
+#EXTINF:-1,TR: TRT1 SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107649.ts
+#EXTINF:-1,TR: TRTSPOR HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107523.ts
+#EXTINF:-1,TR: TRTSPOR SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107647.ts
+#EXTINF:-1,TR: TURKMAX GURME HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107380.ts
+#EXTINF:-1,TR: TV4
+http://5.135.137.41:8000/live/mohamed1/mohamed/107378.ts
+#EXTINF:-1,TR: TV4 HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107377.ts
+#EXTINF:-1,TR: TV4 SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107595.ts
+#EXTINF:-1,TR: TV8 HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107464.ts
+#EXTINF:-1,TR: TV8 SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107614.ts
+#EXTINF:-1,TR: TV8HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107460.ts
+#EXTINF:-1,TR: TV8SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107612.ts
+#EXTINF:-1,TR: TVEM
+http://5.135.137.41:8000/live/mohamed1/mohamed/107374.ts
+#EXTINF:-1,TR: TVNET HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107372.ts
+#EXTINF:-1,TR: TVNET SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107593.ts
+#EXTINF:-1,TR: ULKETV HD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107368.ts
+#EXTINF:-1,TR: ULKETV SD
+http://5.135.137.41:8000/live/mohamed1/mohamed/107591.ts
+#EXTINF:-1,TR: ULUSAL KANAL
+http://5.135.137.41:8000/live/mohamed1/mohamed/107365.ts
+#EXTINF:-1,TR: YABAN TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107364.ts
+#EXTINF:-1,TR: YAT TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107363.ts
+#EXTINF:-1,TR: YOL TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107362.ts
+#EXTINF:-1,TR: ZIRAAT TV
+http://5.135.137.41:8000/live/mohamed1/mohamed/107361.ts
