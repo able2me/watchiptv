@@ -1,143 +1,93 @@
 #EXTM3U
-#EXTINF:-1,TR: 24 TV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107520.ts
-#EXTINF:-1,TR: 24 TV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107645.ts
-#EXTINF:-1,TR: 24 TV UHD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107518.ts
-#EXTINF:-1,TR: 360TV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107516.ts
-#EXTINF:-1,TR: 360TV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107644.ts
-#EXTINF:-1,TR: A2 HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107510.ts
-#EXTINF:-1,TR: A2 SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107641.ts
-#EXTINF:-1,TR: AHABER HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107507.ts
-#EXTINF:-1,TR: AHABER SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107639.ts
-#EXTINF:-1,TR: AKILLI TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107504.ts
-#EXTINF:-1,TR: AKTIF TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107503.ts
-#EXTINF:-1,TR: ANIMAL PLANET TR
-http://5.135.137.41:8000/live/mohamed1/mohamed/107355.ts
-#EXTINF:-1,TR: ASPOR HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107502.ts
-#EXTINF:-1,TR: ASPOR SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107637.ts
-#EXTINF:-1,TR: ATVHD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107496.ts
-#EXTINF:-1,TR: ATVSD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107632.ts
-#EXTINF:-1,TR: BABY FIRST HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107435.ts
-#EXTINF:-1,TR: BABY TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107434.ts
-#EXTINF:-1,TR: IZ TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107417.ts
-#EXTINF:-1,TR: KABE TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107416.ts
-#EXTINF:-1,TR: KANAL7 SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107619.ts
-#EXTINF:-1,TR: KANAL7HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107468.ts
-#EXTINF:-1,TR: KANAL7UHD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107617.ts
-#EXTINF:-1,TR: KANALDHD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107616.ts
-#EXTINF:-1,TR: KANALDSD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107615.ts
-#EXTINF:-1,TR: KEMAL SUNAL TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107415.ts
-#EXTINF:-1,TR: KOY TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107413.ts
-#EXTINF:-1,TR: KRAL FM
-http://5.135.137.41:8000/live/mohamed1/mohamed/107346.ts
-#EXTINF:-1,TR: KRAL POP AKUSTIK
-http://5.135.137.41:8000/live/mohamed1/mohamed/107345.ts
-#EXTINF:-1,TR: KRAL WORLD TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107342.ts
-#EXTINF:-1,TR: LIVE RADYO TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107334.ts
-#EXTINF:-1,TR: MEDINE TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107412.ts
-#EXTINF:-1,TR: NICKELODEON HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107407.ts
-#EXTINF:-1,TR: NTV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107457.ts
-#EXTINF:-1,TR: NTV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107611.ts
-#EXTINF:-1,TR: NTVSPOR HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107453.ts
-#EXTINF:-1,TR: NTVSPOR SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107609.ts
-#EXTINF:-1,TR: POWERTURKTV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107340.ts
-#EXTINF:-1,TR: POWERTURKTV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107589.ts
-#EXTINF:-1,TR: POWERTURKTV UHD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107588.ts
-#EXTINF:-1,TR: POWERTV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107337.ts
-#EXTINF:-1,TR: POWERTV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107587.ts
-#EXTINF:-1,TR: STARTV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107479.ts
-#EXTINF:-1,TR: STARTV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107624.ts
-#EXTINF:-1,TR: TARIM TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107389.ts
-#EXTINF:-1,TR: TAYTV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107387.ts
-#EXTINF:-1,TR: TAYTV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107597.ts
-#EXTINF:-1,TR: TRT 4K
-http://5.135.137.41:8000/live/mohamed1/mohamed/107536.ts
-#EXTINF:-1,TR: TRT HABER
-http://5.135.137.41:8000/live/mohamed1/mohamed/107531.ts
-#EXTINF:-1,TR: TRT1 HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107526.ts
-#EXTINF:-1,TR: TRT1 SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107649.ts
-#EXTINF:-1,TR: TRTSPOR HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107523.ts
-#EXTINF:-1,TR: TRTSPOR SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107647.ts
-#EXTINF:-1,TR: TURKMAX GURME HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107380.ts
-#EXTINF:-1,TR: TV4
-http://5.135.137.41:8000/live/mohamed1/mohamed/107378.ts
-#EXTINF:-1,TR: TV4 HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107377.ts
-#EXTINF:-1,TR: TV4 SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107595.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/70180.ts
+#EXTINF:-1,TR: TRT Haber HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53457.ts
+#EXTINF:-1,TR: TRT Turk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/64122.ts
+#EXTINF:-1,TR: TRT Avaz HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53441.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53442.ts
+#EXTINF:-1,TR: TRT Cocuk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53455.ts
+#EXTINF:-1,TR: TRT Diyanet HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53456.ts
+#EXTINF:-1,TR: TRT Muzik HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53458.ts
+#EXTINF:-1,TR: TRT World HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53459.ts
+#EXTINF:-1,TR: Kanal D HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53452.ts
+#EXTINF:-1,TR: ATV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53451.ts
+#EXTINF:-1,TR: Star TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53443.ts
+#EXTINF:-1,TR: Show TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53449.ts
+#EXTINF:-1,TR: Fox HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53453.ts
 #EXTINF:-1,TR: TV8 HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107464.ts
-#EXTINF:-1,TR: TV8 SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107614.ts
-#EXTINF:-1,TR: TV8HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107460.ts
-#EXTINF:-1,TR: TV8SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107612.ts
-#EXTINF:-1,TR: TVEM
-http://5.135.137.41:8000/live/mohamed1/mohamed/107374.ts
-#EXTINF:-1,TR: TVNET HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107372.ts
-#EXTINF:-1,TR: TVNET SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107593.ts
-#EXTINF:-1,TR: ULKETV HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107368.ts
-#EXTINF:-1,TR: ULKETV SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/107591.ts
-#EXTINF:-1,TR: ULUSAL KANAL
-http://5.135.137.41:8000/live/mohamed1/mohamed/107365.ts
-#EXTINF:-1,TR: YABAN TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107364.ts
-#EXTINF:-1,TR: YAT TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107363.ts
-#EXTINF:-1,TR: YOL TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107362.ts
-#EXTINF:-1,TR: ZIRAAT TV
-http://5.135.137.41:8000/live/mohamed1/mohamed/107361.ts
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53450.ts
+#EXTINF:-1,TR: TV8.5 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53461.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53428.ts
+#EXTINF:-1,TR: Kral TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53433.ts
+#EXTINF:-1,TR: Kanal 24
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53429.ts
+#EXTINF:-1,TR: TV 2 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53460.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/62066.ts
+#EXTINF:-1,TR: HaberTurk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53446.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53454.ts
+#EXTINF:-1,TR: Istanbul TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53444.ts
+#EXTINF:-1,TR: TV Net HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53462.ts
+#EXTINF:-1,TR: Ulke TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53463.ts
+#EXTINF:-1,TR: Yaban TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53464.ts
+#EXTINF:-1,TR: 360 TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53467.ts
+#EXTINF:-1,TR: A2 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53466.ts
+#EXTINF:-1,TR: A Haber HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/160971.ts
+#EXTINF:-1,TR: Nick JR HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/85000.ts
+#EXTINF:-1,TR: NTV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/84999.ts
+#EXTINF:-1,TR: Planet Cocuk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/84998.ts
+#EXTINF:-1,TR: TV 24 HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/84991.ts
+#EXTINF:-1,TR: ANT1 GR HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/84968.ts
+#EXTINF:-1,TR: Ulusal Kanal HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/84988.ts
+#EXTINF:-1,TR: Kral Pop HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53432.ts
+#EXTINF:-1,TR: Power TV HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53448.ts
+#EXTINF:-1,TR: Dream Turk HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53445.ts
+#EXTINF:-1,TR: TGRT Belgesel HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53436.ts
+#EXTINF:-1,TR: TGRT Haber HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53437.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/53470.ts
+#EXTINF:-1,TR: Nat Geo HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/85004.ts
+#EXTINF:-1,TR: Nat Geo People HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/85003.ts
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://176.9.120.202:25461/live/kujtatest/kujtatest/85002.ts
+#EXTINF:-1,TR: Fenerbahce TV
+http://176.9.120.202:25461/live/kujtatest/kujtatest/186720.ts
