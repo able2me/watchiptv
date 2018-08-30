@@ -1,127 +1,734 @@
-#EXTM3U
-#EXTINF:-1,▬ African Countries [AFR] ▬
-http://clientportal.link:8080/live/neri/neri123/16543.ts
-#EXTINF:-1,2S TV SN
-http://clientportal.link:8080/live/neri/neri123/13497.ts
-#EXTINF:-1,AIT International NG
-http://clientportal.link:8080/live/neri/neri123/13467.ts
-#EXTINF:-1,ANN 7 ZA
-http://clientportal.link:8080/live/neri/neri123/13487.ts
-#EXTINF:-1,Africable TV ML
-http://clientportal.link:8080/live/neri/neri123/13466.ts
-#EXTINF:-1,Africa 24 AFR
-http://clientportal.link:8080/live/neri/neri123/13498.ts
-#EXTINF:-1,Afrique Média CM
-http://clientportal.link:8080/live/neri/neri123/13480.ts
-#EXTINF:-1,BEN NG
-http://clientportal.link:8080/live/neri/neri123/13464.ts
-#EXTINF:-1,Channels TV NG
-http://clientportal.link:8080/live/neri/neri123/13462.ts
+#EXTINF:-1,2s TV SN
+http://mypanel.tv:8080/live/ash/ash/6839.ts
+#EXTINF:-1,AIT International HD NG
+http://mypanel.tv:8080/live/ash/ash/7952.ts
+#EXTINF:-1,Biafra 1 NG
+http://mypanel.tv:8080/live/ash/ash/15916.ts
+#EXTINF:-1,Biafra 2 NG
+http://mypanel.tv:8080/live/ash/ash/15915.ts
+#EXTINF:-1,Biafra 3 NG
+http://mypanel.tv:8080/live/ash/ash/15914.ts
+#EXTINF:-1,Biafra 4 NG
+http://mypanel.tv:8080/live/ash/ash/15913.ts
+#EXTINF:-1,ANN7 ZA
+http://mypanel.tv:8080/live/ash/ash/6828.ts
+#EXTINF:-1,Africa Cable TV ML
+http://mypanel.tv:8080/live/ash/ash/12100.ts
+#EXTINF:-1,Afrique Media CM
+http://mypanel.tv:8080/live/ash/ash/11298.ts
+#EXTINF:-1,Ben TV NG
+http://mypanel.tv:8080/live/ash/ash/8074.ts
+#EXTINF:-1,Channels Television NG
+http://mypanel.tv:8080/live/ash/ash/12124.ts
 #EXTINF:-1,CRTV CM
-http://clientportal.link:8080/live/neri/neri123/13456.ts
+http://mypanel.tv:8080/live/ash/ash/6821.ts
 #EXTINF:-1,Africa TV 3 SD
-http://clientportal.link:8080/live/neri/neri123/13478.ts
+http://mypanel.tv:8080/live/ash/ash/6833.ts
 #EXTINF:-1,Emmanuel TV NG
-http://clientportal.link:8080/live/neri/neri123/13477.ts
-#EXTINF:-1,Ebru TV KE
-http://clientportal.link:8080/live/neri/neri123/13481.ts
+http://mypanel.tv:8080/live/ash/ash/6770.ts
 #EXTINF:-1,GTV GH
-http://clientportal.link:8080/live/neri/neri123/13485.ts
+http://mypanel.tv:8080/live/ash/ash/6818.ts
 #EXTINF:-1,Gabon TV GA
-http://clientportal.link:8080/live/neri/neri123/13445.ts
+http://mypanel.tv:8080/live/ash/ash/12126.ts
 #EXTINF:-1,Joy News GH
-http://clientportal.link:8080/live/neri/neri123/13459.ts
-#EXTINF:-1,LC2 BJ
-http://clientportal.link:8080/live/neri/neri123/13458.ts
-#EXTINF:-1,‎Lamp Fall TV SN
-http://clientportal.link:8080/live/neri/neri123/13495.ts
-#EXTINF:-1,GoldMyne TV NG
-http://clientportal.link:8080/live/neri/neri123/13473.ts
-#EXTINF:-1,Nollywood Movies AFR
-http://clientportal.link:8080/live/neri/neri123/13474.ts
+http://mypanel.tv:8080/live/ash/ash/6784.ts
+#EXTINF:-1,Lamp Fall TV SN
+http://mypanel.tv:8080/live/ash/ash/6816.ts
+#EXTINF:-1,Nollywood AF
+http://mypanel.tv:8080/live/ash/ash/6782.ts
+#EXTINF:-1,Nollywood Movies AF
+http://mypanel.tv:8080/live/ash/ash/6781.ts
 #EXTINF:-1,ORTB TV BJ
-http://clientportal.link:8080/live/neri/neri123/13453.ts
-#EXTINF:-1,ORTM ML
-http://clientportal.link:8080/live/neri/neri123/13465.ts
-#EXTINF:-1,Olé TFM SN
-http://clientportal.link:8080/live/neri/neri123/13441.ts
-#EXTINF:-1,RTB TV BF
-http://clientportal.link:8080/live/neri/neri123/13440.ts
-#EXTINF:-1,RTG GN
-http://clientportal.link:8080/live/neri/neri123/13461.ts
+http://mypanel.tv:8080/live/ash/ash/6790.ts
+#EXTINF:-1,ORTM TV ML
+http://mypanel.tv:8080/live/ash/ash/6789.ts
+#EXTINF:-1,Ole TFM SN
+http://mypanel.tv:8080/live/ash/ash/6792.ts
+#EXTINF:-1,RTB TV (Burkina Faso) BF
+http://mypanel.tv:8080/live/ash/ash/12098.ts
 #EXTINF:-1,RTI 1 CI
-http://clientportal.link:8080/live/neri/neri123/13489.ts
+http://mypanel.tv:8080/live/ash/ash/6797.ts
 #EXTINF:-1,RTI 2 CI
-http://clientportal.link:8080/live/neri/neri123/13503.ts
-#EXTINF:-1,RTS1 SN
-http://clientportal.link:8080/live/neri/neri123/13502.ts
+http://mypanel.tv:8080/live/ash/ash/6796.ts
+#EXTINF:-1,RTS 1 SN
+http://mypanel.tv:8080/live/ash/ash/6799.ts
 #EXTINF:-1,Rave TV NG
-http://clientportal.link:8080/live/neri/neri123/13449.ts
+http://mypanel.tv:8080/live/ash/ash/6800.ts
 #EXTINF:-1,Sen TV SN
-http://clientportal.link:8080/live/neri/neri123/13451.ts
+http://mypanel.tv:8080/live/ash/ash/6805.ts
 #EXTINF:-1,TFM SN
-http://clientportal.link:8080/live/neri/neri123/13490.ts
-#EXTINF:-1,TFM Religions SN
-http://clientportal.link:8080/live/neri/neri123/13443.ts
+http://mypanel.tv:8080/live/ash/ash/6810.ts
 #EXTINF:-1,TPA AO
-http://clientportal.link:8080/live/neri/neri123/13472.ts
+http://mypanel.tv:8080/live/ash/ash/6787.ts
 #EXTINF:-1,TV Continental NG
-http://clientportal.link:8080/live/neri/neri123/13476.ts
-#EXTINF:-1,Télé Tchad TD
-http://clientportal.link:8080/live/neri/neri123/13452.ts
+http://mypanel.tv:8080/live/ash/ash/6814.ts
 #EXTINF:-1,Tele Congo CG
-http://clientportal.link:8080/live/neri/neri123/13484.ts
-#EXTINF:-1,Voxafrica AFR
-http://clientportal.link:8080/live/neri/neri123/13470.ts
-#EXTINF:-1,Walf TV SN
-http://clientportal.link:8080/live/neri/neri123/13454.ts
+http://mypanel.tv:8080/live/ash/ash/6783.ts
+#EXTINF:-1,VOX Africa AF
+http://mypanel.tv:8080/live/ash/ash/6776.ts
 #EXTINF:-1,Wazobia TV NG
-http://clientportal.link:8080/live/neri/neri123/13496.ts
+http://mypanel.tv:8080/live/ash/ash/6812.ts
 #EXTINF:-1,Adom TV GH
-http://clientportal.link:8080/live/neri/neri123/16268.ts
+http://mypanel.tv:8080/live/ash/ash/6837.ts
 #EXTINF:-1,Kessben TV GH
-http://clientportal.link:8080/live/neri/neri123/16269.ts
-#EXTINF:-1,Blue Nile Channel SD
-http://clientportal.link:8080/live/neri/neri123/16480.ts
+http://mypanel.tv:8080/live/ash/ash/12147.ts
 #EXTINF:-1,Kalsan TV SO
-http://clientportal.link:8080/live/neri/neri123/16593.ts
+http://mypanel.tv:8080/live/ash/ash/6815.ts
 #EXTINF:-1,Horn Cable TV SO
-http://clientportal.link:8080/live/neri/neri123/16590.ts
-#EXTINF:-1,Jubaland TV SO
-http://clientportal.link:8080/live/neri/neri123/16591.ts
-#EXTINF:-1,SBC International SO
-http://clientportal.link:8080/live/neri/neri123/16768.ts
+http://mypanel.tv:8080/live/ash/ash/12114.ts
 #EXTINF:-1,Africa TV 4 SD
-http://clientportal.link:8080/live/neri/neri123/16769.ts
+http://mypanel.tv:8080/live/ash/ash/6832.ts
 #EXTINF:-1,Somali Cable SO
-http://clientportal.link:8080/live/neri/neri123/16592.ts
-#EXTINF:-1,Somaliland National TV SO
-http://clientportal.link:8080/live/neri/neri123/16589.ts
+http://mypanel.tv:8080/live/ash/ash/6804.ts
+#EXTINF:-1,Somalia National TV SO
+http://mypanel.tv:8080/live/ash/ash/12117.ts
 #EXTINF:-1,Star TV SO
-http://clientportal.link:8080/live/neri/neri123/16588.ts
-#EXTINF:-1,Universal TV SO
-http://clientportal.link:8080/live/neri/neri123/16587.ts
+http://mypanel.tv:8080/live/ash/ash/12115.ts
 #EXTINF:-1,Africa TV 1 SD
-http://clientportal.link:8080/live/neri/neri123/16842.ts
+http://mypanel.tv:8080/live/ash/ash/6835.ts
 #EXTINF:-1,Africa TV 2 SD
-http://clientportal.link:8080/live/neri/neri123/16843.ts
-#EXTINF:-1,Somali National TV SO
-http://clientportal.link:8080/live/neri/neri123/16912.ts
-#EXTINF:-1,Africanews CG
-http://clientportal.link:8080/live/neri/neri123/17750.ts
-#EXTINF:-1,ESTV ET
-http://clientportal.link:8080/live/neri/neri123/17292.ts
-#EXTINF:-1,Telefishinka Caalamiga HD SO
-http://clientportal.link:8080/live/neri/neri123/17295.ts
-#EXTINF:-1,Telefishinka Caalamiga SO
-http://clientportal.link:8080/live/neri/neri123/17294.ts
-#EXTINF:-1,RTNC CG
-http://clientportal.link:8080/live/neri/neri123/17747.ts
-#EXTINF:-1,Biafra TV 2 NG
-http://clientportal.link:8080/live/neri/neri123/18230.ts
+http://mypanel.tv:8080/live/ash/ash/6834.ts
+#EXTINF:-1,Walta TV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12128.ts
+#EXTINF:-1,3ABN Kids AF
+http://mypanel.tv:8080/live/ash/ash/12095.ts
+#EXTINF:-1,ABN TV GH
+http://mypanel.tv:8080/live/ash/ash/12140.ts
+#EXTINF:-1,Abundant Grace TV GH
+http://mypanel.tv:8080/live/ash/ash/12145.ts
+#EXTINF:-1,ACTS TV GH
+http://mypanel.tv:8080/live/ash/ash/12142.ts
+#EXTINF:-1,ADBN (South Africa) AF
+http://mypanel.tv:8080/live/ash/ash/12094.ts
+#EXTINF:-1,Africa News AF
+http://mypanel.tv:8080/live/ash/ash/6831.ts
+#EXTINF:-1,Africa News 24 AF
+http://mypanel.tv:8080/live/ash/ash/12106.ts
+#EXTINF:-1,Africa 24 AF
+http://mypanel.tv:8080/live/ash/ash/6836.ts
+#EXTINF:-1,Africa News Network 7 (ANN7)  AF
+http://mypanel.tv:8080/live/ash/ash/12107.ts
+#EXTINF:-1,Afro Gospel (GH) AF
+http://mypanel.tv:8080/live/ash/ash/12092.ts
+#EXTINF:-1,Al Jazeera Mubasher AF
+http://mypanel.tv:8080/live/ash/ash/12093.ts
+#EXTINF:-1,Arara TV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12133.ts
+#EXTINF:-1,Arise News AF
+http://mypanel.tv:8080/live/ash/ash/12108.ts
+#EXTINF:-1,AYV TV Sierra Leone AF
+http://mypanel.tv:8080/live/ash/ash/12077.ts
+#EXTINF:-1,Bridge TV Classic AF
+http://mypanel.tv:8080/live/ash/ash/12156.ts
+#EXTINF:-1,Bridge TV Dance AF
+http://mypanel.tv:8080/live/ash/ash/12157.ts
+#EXTINF:-1,Canal Sport 1 AF
+http://mypanel.tv:8080/live/ash/ash/12167.ts
+#EXTINF:-1,Canal  Sport 2 AF
+http://mypanel.tv:8080/live/ash/ash/12166.ts
+#EXTINF:-1,Canal CVV International TV CD
+http://mypanel.tv:8080/live/ash/ash/12150.ts
+#EXTINF:-1,Canal2 Info (Cameroon) AF
+http://mypanel.tv:8080/live/ash/ash/12168.ts
+#EXTINF:-1,Catholic TV AF
+http://mypanel.tv:8080/live/ash/ash/12091.ts
+#EXTINF:-1,Christian  TV ( RTV ) AF
+http://mypanel.tv:8080/live/ash/ash/12120.ts
+#EXTINF:-1,Cine Plus GH
+http://mypanel.tv:8080/live/ash/ash/6824.ts
+#EXTINF:-1,DBS (Cameroon) AF
+http://mypanel.tv:8080/live/ash/ash/12125.ts
+#EXTINF:-1,Divin Amour TV FHD AF
+http://mypanel.tv:8080/live/ash/ash/12122.ts
+#EXTINF:-1,EBC 1 TV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12135.ts
+#EXTINF:-1,El Bilad TV (Algeria) AF
+http://mypanel.tv:8080/live/ash/ash/12090.ts
+#EXTINF:-1,Elohi TV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12132.ts
+#EXTINF:-1,Elshaddai Television Network (ETN) AF
+http://mypanel.tv:8080/live/ash/ash/12134.ts
+#EXTINF:-1,Equinoxe TV Cameroun AF
+http://mypanel.tv:8080/live/ash/ash/11343.ts
+#EXTINF:-1,Eri TV AF
+http://mypanel.tv:8080/live/ash/ash/12127.ts
+#EXTINF:-1,Faith TV AF
+http://mypanel.tv:8080/live/ash/ash/12089.ts
+#EXTINF:-1,GH Canada TV GH
+http://mypanel.tv:8080/live/ash/ash/12149.ts
+#EXTINF:-1,GHTV Abroad GH
+http://mypanel.tv:8080/live/ash/ash/12148.ts
+#EXTINF:-1,God TV AF
+http://mypanel.tv:8080/live/ash/ash/12080.ts
+#EXTINF:-1,Guinée TV AF
+http://mypanel.tv:8080/live/ash/ash/12099.ts
+#EXTINF:-1,Hadi TV 5 AF
+http://mypanel.tv:8080/live/ash/ash/12103.ts
+#EXTINF:-1,Igboro TV NG
+http://mypanel.tv:8080/live/ash/ash/12151.ts
+#EXTINF:-1,Impact TV (Burkina Faso) AF
+http://mypanel.tv:8080/live/ash/ash/12097.ts
+#EXTINF:-1,Info Burkina (Burkina Faso) AF
+http://mypanel.tv:8080/live/ash/ash/16668.ts
+#EXTINF:-1,Juice TV AF
+http://mypanel.tv:8080/live/ash/ash/12088.ts
+#EXTINF:-1,Kana TV (Ethiopian) AF
+http://mypanel.tv:8080/live/ash/ash/12136.ts
+#EXTINF:-1,Lagos TV NG
+http://mypanel.tv:8080/live/ash/ash/12121.ts
+#EXTINF:-1,Love World SAT ( South Africa ) AF
+http://mypanel.tv:8080/live/ash/ash/12087.ts
+#EXTINF:-1,LTV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12131.ts
+#EXTINF:-1,MiTV NG
+http://mypanel.tv:8080/live/ash/ash/12118.ts
+#EXTINF:-1,NBS Uganda AF
+http://mypanel.tv:8080/live/ash/ash/12110.ts
+#EXTINF:-1,Novelos TV AF
+http://mypanel.tv:8080/live/ash/ash/12165.ts
+#EXTINF:-1,NTA Network News NG
+http://mypanel.tv:8080/live/ash/ash/12109.ts
+#EXTINF:-1,NTV Uganda UG
+http://mypanel.tv:8080/live/ash/ash/12112.ts
+#EXTINF:-1,OG TV AF
+http://mypanel.tv:8080/live/ash/ash/12137.ts
+#EXTINF:-1,Omega Gospel TV AF
+http://mypanel.tv:8080/live/ash/ash/12104.ts
+#EXTINF:-1,Ouest TV AF
+http://mypanel.tv:8080/live/ash/ash/12101.ts
+#EXTINF:-1,Peace TV English AF
+http://mypanel.tv:8080/live/ash/ash/12085.ts
+#EXTINF:-1,Presence TV Channel (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12130.ts
+#EXTINF:-1,Resurrection TV GH
+http://mypanel.tv:8080/live/ash/ash/12146.ts
+#EXTINF:-1,Rhema TV ZA
+http://mypanel.tv:8080/live/ash/ash/12139.ts
+#EXTINF:-1,RTH TV2 Gospel AF
+http://mypanel.tv:8080/live/ash/ash/12102.ts
+#EXTINF:-1,RWANDA TV AF
+http://mypanel.tv:8080/live/ash/ash/12084.ts
+#EXTINF:-1,Salaam TV AF
+http://mypanel.tv:8080/live/ash/ash/12083.ts
+#EXTINF:-1,Salvation TV NG
+http://mypanel.tv:8080/live/ash/ash/12119.ts
+#EXTINF:-1,Sankofa TV GH
+http://mypanel.tv:8080/live/ash/ash/12144.ts
+#EXTINF:-1,SBC TV SO
+http://mypanel.tv:8080/live/ash/ash/12116.ts
+#EXTINF:-1,SBC TV UG
+http://mypanel.tv:8080/live/ash/ash/12111.ts
+#EXTINF:-1,Sikka TV AF
+http://mypanel.tv:8080/live/ash/ash/12138.ts
+#EXTINF:-1,Somali Africa TV4 SO
+http://mypanel.tv:8080/live/ash/ash/12113.ts
+#EXTINF:-1,Sound City TV AF
+http://mypanel.tv:8080/live/ash/ash/12082.ts
+#EXTINF:-1,Southern TV (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/12129.ts
+#EXTINF:-1,Studio 1 TV GH
+http://mypanel.tv:8080/live/ash/ash/12141.ts
+#EXTINF:-1,Tanasuh TV AF
+http://mypanel.tv:8080/live/ash/ash/12079.ts
+#EXTINF:-1,TBN TV AF
+http://mypanel.tv:8080/live/ash/ash/12078.ts
+#EXTINF:-1,Tempo Africa TV AF
+http://mypanel.tv:8080/live/ash/ash/12154.ts
+#EXTINF:-1,The Gambia Today GM
+http://mypanel.tv:8080/live/ash/ash/12153.ts
+#EXTINF:-1,Trace Africa AF
+http://mypanel.tv:8080/live/ash/ash/12164.ts
+#EXTINF:-1,Trace Gospel AF
+http://mypanel.tv:8080/live/ash/ash/12161.ts
+#EXTINF:-1,Trace Mizki AF
+http://mypanel.tv:8080/live/ash/ash/12163.ts
+#EXTINF:-1,Trace Naija AF
+http://mypanel.tv:8080/live/ash/ash/12162.ts
+#EXTINF:-1,Trace Sport Stars AF
+http://mypanel.tv:8080/live/ash/ash/12155.ts
+#EXTINF:-1,Trace Toca AF
+http://mypanel.tv:8080/live/ash/ash/12159.ts
+#EXTINF:-1,Trace Tropical AF
+http://mypanel.tv:8080/live/ash/ash/12158.ts
+#EXTINF:-1,Trace Urban AF
+http://mypanel.tv:8080/live/ash/ash/12160.ts
+#EXTINF:-1,TV5 Monde Amerique Latine AF
+http://mypanel.tv:8080/live/ash/ash/12081.ts
+#EXTINF:-1,TV7 Colmar AF
+http://mypanel.tv:8080/live/ash/ash/12086.ts
 #EXTINF:-1,TVC News NG
-http://clientportal.link:8080/live/neri/neri123/17751.ts
-#EXTINF:-1,EBC ET
-http://clientportal.link:8080/live/neri/neri123/17748.ts
-#EXTINF:-1,KTN News KE
-http://clientportal.link:8080/live/neri/neri123/17749.ts
+http://mypanel.tv:8080/live/ash/ash/12123.ts
+#EXTINF:-1,TVM 1 (Mozambique) AF
+http://mypanel.tv:8080/live/ash/ash/12096.ts
+#EXTINF:-1,TVM 2 Mozambique AF
+http://mypanel.tv:8080/live/ash/ash/12914.ts
+#EXTINF:-1,TVT International TG
+http://mypanel.tv:8080/live/ash/ash/12152.ts
+#EXTINF:-1,Vision 4 (Cameroon) AF
+http://mypanel.tv:8080/live/ash/ash/12169.ts
+#EXTINF:-1,West Africa TV (Guineenne) AF
+http://mypanel.tv:8080/live/ash/ash/12076.ts
+#EXTINF:-1,ADBN AF
+http://mypanel.tv:8080/live/ash/ash/6838.ts
+#EXTINF:-1,Alamanal (Sud) AF
+http://mypanel.tv:8080/live/ash/ash/6830.ts
+#EXTINF:-1,Ashoroqq (Sud) AF
+http://mypanel.tv:8080/live/ash/ash/6827.ts
+#EXTINF:-1,Afrique TV AF
+http://mypanel.tv:8080/live/ash/ash/6788.ts
+#EXTINF:-1,Afro Music AF
+http://mypanel.tv:8080/live/ash/ash/6829.ts
+#EXTINF:-1,Burkina Info AF
+http://mypanel.tv:8080/live/ash/ash/6775.ts
+#EXTINF:-1,Canal 255 AF
+http://mypanel.tv:8080/live/ash/ash/6825.ts
+#EXTINF:-1,Channels 24 AF
+http://mypanel.tv:8080/live/ash/ash/6826.ts
+#EXTINF:-1,Congo TV AF
+http://mypanel.tv:8080/live/ash/ash/6822.ts
+#EXTINF:-1,CNA TV AF
+http://mypanel.tv:8080/live/ash/ash/6823.ts
+#EXTINF:-1,Dabanga Sudan AF
+http://mypanel.tv:8080/live/ash/ash/6820.ts
+#EXTINF:-1,Diaspora 24 SN AF
+http://mypanel.tv:8080/live/ash/ash/6768.ts
+#EXTINF:-1,Digital Congo FHD AF
+http://mypanel.tv:8080/live/ash/ash/6769.ts
+#EXTINF:-1,EBC 1 TV  (Ethiopia) AF
+http://mypanel.tv:8080/live/ash/ash/6819.ts
+#EXTINF:-1,GTV Sport AF
+http://mypanel.tv:8080/live/ash/ash/6817.ts
+#EXTINF:-1,KTN AF
+http://mypanel.tv:8080/live/ash/ash/6771.ts
+#EXTINF:-1,Maisha TV AF
+http://mypanel.tv:8080/live/ash/ash/6778.ts
+#EXTINF:-1,Mourchid TV AF
+http://mypanel.tv:8080/live/ash/ash/6777.ts
+#EXTINF:-1,Mouride TV (Senegal) AF
+http://mypanel.tv:8080/live/ash/ash/6779.ts
+#EXTINF:-1,Music TV AF
+http://mypanel.tv:8080/live/ash/ash/6773.ts
+#EXTINF:-1,RTb AF
+http://mypanel.tv:8080/live/ash/ash/6795.ts
+#EXTINF:-1,RTNC AF
+http://mypanel.tv:8080/live/ash/ash/6786.ts
+#EXTINF:-1,RTP Africa AF
+http://mypanel.tv:8080/live/ash/ash/6794.ts
+#EXTINF:-1,RTS2 AF
+http://mypanel.tv:8080/live/ash/ash/6798.ts
+#EXTINF:-1,RTV AF
+http://mypanel.tv:8080/live/ash/ash/6793.ts
+#EXTINF:-1,Sat7 AF
+http://mypanel.tv:8080/live/ash/ash/6807.ts
+#EXTINF:-1,SNTV AF
+http://mypanel.tv:8080/live/ash/ash/6806.ts
+#EXTINF:-1,Sudan Drama AF
+http://mypanel.tv:8080/live/ash/ash/6801.ts
+#EXTINF:-1,Sudan 24 FHD AF
+http://mypanel.tv:8080/live/ash/ash/6802.ts
+#EXTINF:-1,Somali TV AF
+http://mypanel.tv:8080/live/ash/ash/6803.ts
+#EXTINF:-1,STV AF
+http://mypanel.tv:8080/live/ash/ash/6774.ts
+#EXTINF:-1,Tele Chad TV AF
+http://mypanel.tv:8080/live/ash/ash/6772.ts
+#EXTINF:-1,Tele-Sud AF
+http://mypanel.tv:8080/live/ash/ash/6811.ts
+#EXTINF:-1,TM2 TV AF
+http://mypanel.tv:8080/live/ash/ash/6809.ts
+#EXTINF:-1,Touba TV AF
+http://mypanel.tv:8080/live/ash/ash/6791.ts
+#EXTINF:-1,TV Mana AF
+http://mypanel.tv:8080/live/ash/ash/6813.ts
+#EXTINF:-1,Universal TV AF
+http://mypanel.tv:8080/live/ash/ash/6780.ts
+#EXTINF:-1,Walf TV SN AF
+http://mypanel.tv:8080/live/ash/ash/6808.ts
+#EXTINF:-1,|AF|2STV|SENEGAL|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5093.ts
+#EXTINF:-1,|AF|Africa.24
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5092.ts
+#EXTINF:-1,|AF|Africa.TV1
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5091.ts
+#EXTINF:-1,|AF|Africa.TV2
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5090.ts
+#EXTINF:-1,|AF|Africa.TV3
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5089.ts
+#EXTINF:-1,|AF|Africa.TV4
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5088.ts
+#EXTINF:-1,|AF|AFRICABLE.3
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5087.ts
+#EXTINF:-1,|AF|CINE PLUS
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5086.ts
+#EXTINF:-1,|AF|CRTV|Cameroun|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5085.ts
+#EXTINF:-1,|AF|DTV|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5084.ts
+#EXTINF:-1,|AF|REALNOLLY.TV|Nigeria|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5083.ts
+#EXTINF:-1,|AF|Ghana-Channel.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5082.ts
+#EXTINF:-1,|AF|HORN.CABLE.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5081.ts
+#EXTINF:-1,|AF|Kalsan.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5080.ts
+#EXTINF:-1,|AF|MAISHA.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5079.ts
+#EXTINF:-1,|AF|MOURCHID|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5078.ts
+#EXTINF:-1,|AF|MUSIC.SENEGALE
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5077.ts
+#EXTINF:-1,|AF|Nollywood.NG
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5074.ts
+#EXTINF:-1,|AF|NOLLYWOOD.MOVIES
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5076.ts
+#EXTINF:-1,|AF|NOLLYWOOD.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5075.ts
+#EXTINF:-1,|AF|NOVELAS.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5073.ts
+#EXTINF:-1,|AF|ORTM|Mali|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5072.ts
+#EXTINF:-1,|AF|ORTB|Benin|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5071.ts
+#EXTINF:-1,|AF|RTG|GUINE|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5070.ts
+#EXTINF:-1,|AF|RTI2|COTE D'IVOIR|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5069.ts
+#EXTINF:-1,|AF|RTNC
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5068.ts
+#EXTINF:-1,|AF|RTS1||Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5067.ts
+#EXTINF:-1,|AF|RTS2|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5066.ts
+#EXTINF:-1,|AF|SEN.TV|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5065.ts
+#EXTINF:-1,|AF|Sudan.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5064.ts
+#EXTINF:-1,|AF|TELECONGO
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5063.ts
+#EXTINF:-1,|AF|TFM.OLE|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5062.ts
+#EXTINF:-1,|AF|TFM.RELIGIONS|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5061.ts
+#EXTINF:-1,|AF|TFM.ROKU|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5060.ts
+#EXTINF:-1,|AF|TFM|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5059.ts
+#EXTINF:-1,|AF|AMEN_tv|Congo|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5058.ts
+#EXTINF:-1,|AF|TOUBA.MONDEBI
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5057.ts
+#EXTINF:-1,|AF|TOUBA|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5056.ts
+#EXTINF:-1,|AF|TPA.ANGOLA
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5055.ts
+#EXTINF:-1,|AF|TV5_MONDE_AFRIQUE
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5053.ts
+#EXTINF:-1,|AF|TVC.NEWS
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5052.ts
+#EXTINF:-1,|AF|S2|Cote d'Ivoire|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5054.ts
+#EXTINF:-1,|AF|VOX.AFRIQUE
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5051.ts
+#EXTINF:-1,|AF|WALF.TV|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5050.ts
+#EXTINF:-1,|AF|RTI1|COTE D'IVOIR|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/5094.ts
+#EXTINF:-1,|AF|A2i.TV|Senegal|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7963.ts
+#EXTINF:-1,|AF|ADOM.TV|Ghana|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8002.ts
+#EXTINF:-1,|AF|CHANNELS.24.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8008.ts
+#EXTINF:-1,AF_Africa_Cable_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7942.ts
+#EXTINF:-1,AF_Africa_TV_4
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8009.ts
+#EXTINF:-1,|AF|AFRO.MUSIC
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7983.ts
+#EXTINF:-1,|AF|AIT.INTER|Nigeria|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7982.ts
+#EXTINF:-1,|AF|ANN.7.SOUTH.AFRICA
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7998.ts
+#EXTINF:-1,|AF|Ben_TV|GHANA|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7948.ts
+#EXTINF:-1,AF_Blue_Nile
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7947.ts
+#EXTINF:-1,|AF|Channels24|Nigeria|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7980.ts
+#EXTINF:-1,AF_Crtv (Cameroun)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7951.ts
+#EXTINF:-1,|AF|DIASPORA.24|SENEGAL|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7965.ts
+#EXTINF:-1,|AF|TRACE.AFRICA
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7985.ts
+#EXTINF:-1,|AF|TRACE.TROPICAL
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7968.ts
+#EXTINF:-1,AF_Equinoxe_TV ( Cameroun )
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7967.ts
+#EXTINF:-1,|AF|ERITREA.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8018.ts
+#EXTINF:-1,|AF|GHTV(Ghana)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7932.ts
+#EXTINF:-1,|AF|AF.GTV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7934.ts
+#EXTINF:-1,|AF|HCTV(Somalia)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7952.ts
+#EXTINF:-1,AF_Horn_Cable_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7986.ts
+#EXTINF:-1,AF_Kalsan_TV  ( Somali )
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8015.ts
+#EXTINF:-1,|AF|LOVE.WORLD|NIGERIA|
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7990.ts
+#EXTINF:-1,AF_Mana_Maputo
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7991.ts
+#EXTINF:-1,|AF|MFM.TV.NEGERIA
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7975.ts
+#EXTINF:-1,AF_MOURCHID_TV (Senegal)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8004.ts
+#EXTINF:-1,AF_MUSIC_TV_SENEGAL
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7999.ts
+#EXTINF:-1,AF_Nollywood_French
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7992.ts
+#EXTINF:-1,AF_Nollywood_Movies
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7994.ts
+#EXTINF:-1,AF_Ortm_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7937.ts
+#EXTINF:-1,AF.RTNC
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7978.ts
+#EXTINF:-1,|AF|SNTV.SOMALI
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8013.ts
+#EXTINF:-1,|AF|SBC ( Somalia )
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7970.ts
+#EXTINF:-1,|AF|SOMALI.CABLE
+http://iptvpro.vision-new.org:8789/live/nabila/123456/8014.ts
+#EXTINF:-1,AF_Sound_City_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7996.ts
+#EXTINF:-1,|AF|STAR.TV ( Somalia )
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7987.ts
+#EXTINF:-1,AF_TELE_CONGO
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7960.ts
+#EXTINF:-1,AF_TFM_HD (Senegal)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7961.ts
+#EXTINF:-1,AF_TFM_OLE (Senegal)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7974.ts
+#EXTINF:-1,AF_Tfm_Regional (Senegal)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7997.ts
+#EXTINF:-1,|AF|TM2 ( Mali )
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7940.ts
+#EXTINF:-1,AF_TOUBA_MONDE_BI
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7954.ts
+#EXTINF:-1,AF_TOUBA_TV (Senegal)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7953.ts
+#EXTINF:-1,AF_TPA_ANGOLA
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7966.ts
+#EXTINF:-1,AF_Trace (Nigeria)
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7945.ts
+#EXTINF:-1,AF_TVC_News
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7971.ts
+#EXTINF:-1,AF_VOX_AFRIQUE_FRENCH
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7944.ts
+#EXTINF:-1,|AF|GOSPEL.MUSIC.TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7977.ts
+#EXTINF:-1,AF_WAZOBIA_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7976.ts
+#EXTINF:-1,AF_Wisal_Hausa_TV
+http://iptvpro.vision-new.org:8789/live/nabila/123456/7969.ts
+#EXTINF:-1,IT-TV8
+http://iptvpro.vision-new.org:8789/live/nabila/123456/3775.ts
+#EXTINF:-1,AF: 2S TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18088.ts
+#EXTINF:-1,AF: 2STV (Senegal)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18087.ts
+#EXTINF:-1,AF: 2STV Plus 1 (Senegal)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18086.ts
+#EXTINF:-1,AF: Adom TV (Ghana)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18085.ts
+#EXTINF:-1,AF: Africa News Network 7
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18084.ts
+#EXTINF:-1,AF: Africa News Network 7 HD
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18083.ts
+#EXTINF:-1,AF: AFRICA TV1
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18096.ts
+#EXTINF:-1,AF: AFRICA TV2
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18095.ts
+#EXTINF:-1,AF: AFRICA TV3
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18094.ts
+#EXTINF:-1,AF: AFRICA TV4
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18093.ts
+#EXTINF:-1,AF: AFRICA24
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18092.ts
+#EXTINF:-1,AF: Africable
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18082.ts
+#EXTINF:-1,AF: Africanews
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18081.ts
+#EXTINF:-1,AF: Afrique Media
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18080.ts
+#EXTINF:-1,AF: AIT International HD
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18079.ts
+#EXTINF:-1,AF: Alamanal (Sudan)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18078.ts
+#EXTINF:-1,AF: Alazhar Touba
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18077.ts
+#EXTINF:-1,AF: Ashoroqq (Sudan)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18076.ts
+#EXTINF:-1,AF: Ben TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18075.ts
+#EXTINF:-1,AF: Burkina Info
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18074.ts
+#EXTINF:-1,AF: Canal 255
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18073.ts
+#EXTINF:-1,AF: Channels 24
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18072.ts
+#EXTINF:-1,AF: Channels Television (Nigeria)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18071.ts
+#EXTINF:-1,AF: CRTV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18070.ts
+#EXTINF:-1,AF: CRTV TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18069.ts
+#EXTINF:-1,AF: Dabanga (Sudan)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18068.ts
+#EXTINF:-1,AF: Diaspora24
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18067.ts
+#EXTINF:-1,AF: Digital Congo
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18066.ts
+#EXTINF:-1,AF: EBC Ethiopia
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18065.ts
+#EXTINF:-1,AF: Emmanuel TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18064.ts
+#EXTINF:-1,AF: Equinoxe TV Cameroun
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18063.ts
+#EXTINF:-1,AF: ESTV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18062.ts
+#EXTINF:-1,AF: ETV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18061.ts
+#EXTINF:-1,AF: GRTS TV Gambia
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18060.ts
+#EXTINF:-1,AF: Horn Cable TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18058.ts
+#EXTINF:-1,AF: JUBALAND TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18057.ts
+#EXTINF:-1,AF: Kalsan TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18056.ts
+#EXTINF:-1,AF: Kedu TV (Nigeria)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18055.ts
+#EXTINF:-1,AF: KTN News HD (Kenya)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18054.ts
+#EXTINF:-1,AF: Lamp Fall
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18053.ts
+#EXTINF:-1,AF: MAISHA-TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18052.ts
+#EXTINF:-1,AF: Mouride TV (Senegal)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18051.ts
+#EXTINF:-1,AF: MUSIC TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18050.ts
+#EXTINF:-1,AF: Nollywood Movies
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18049.ts
+#EXTINF:-1,AF: NTV (Uganda)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18048.ts
+#EXTINF:-1,AF: NTV Kenya
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18047.ts
+#EXTINF:-1,AF: Ole TFM
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18046.ts
+#EXTINF:-1,AF: ortm
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18045.ts
+#EXTINF:-1,AF: Ortm TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18044.ts
+#EXTINF:-1,AF: Quran Hidayah (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18043.ts
+#EXTINF:-1,AF: Rave TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18042.ts
+#EXTINF:-1,AF: RTb
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18041.ts
+#EXTINF:-1,AF: RTi1 Cote d'ivoire
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18040.ts
+#EXTINF:-1,AF: RTI2
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18091.ts
+#EXTINF:-1,AF: RTi2 Cote d'ivoire
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18039.ts
+#EXTINF:-1,AF: RTNC
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18038.ts
+#EXTINF:-1,AF: RTNC (Congo)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18037.ts
+#EXTINF:-1,AF: RTS1
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18036.ts
+#EXTINF:-1,AF: SBC SOMALI TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18035.ts
+#EXTINF:-1,AF: SCBC TV (South Africa)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18034.ts
+#EXTINF:-1,AF: SEN TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18033.ts
+#EXTINF:-1,AF: SN 2STV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18032.ts
+#EXTINF:-1,AF: SN 2STV (1)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18031.ts
+#EXTINF:-1,AF: SN Alazhar Touba
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18030.ts
+#EXTINF:-1,AF: SN Alazhar Touba TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18029.ts
+#EXTINF:-1,AF: SN Diaspora24
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18028.ts
+#EXTINF:-1,AF: SN Kedu TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18027.ts
+#EXTINF:-1,AF: SN Lamp Fall
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18026.ts
+#EXTINF:-1,AF: SN Lamp Fall (backup)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18025.ts
+#EXTINF:-1,AF: SN MUSIC TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18024.ts
+#EXTINF:-1,AF: SN MUSIC TV (backup)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18023.ts
+#EXTINF:-1,AF: SN RTS1
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18022.ts
+#EXTINF:-1,AF: SN RTS1 (1)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18021.ts
+#EXTINF:-1,AF: SN RTS1 (2)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18020.ts
+#EXTINF:-1,AF: SN RTS2
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18019.ts
+#EXTINF:-1,AF: SN TFM
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18018.ts
+#EXTINF:-1,AF: SN TFM RELIGIONS
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18017.ts
+#EXTINF:-1,AF: SN Walf tv
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18016.ts
+#EXTINF:-1,AF: Somali Cable
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18015.ts
+#EXTINF:-1,AF: Somali HD
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18014.ts
+#EXTINF:-1,AF: Somaliland Nationa TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18013.ts
+#EXTINF:-1,AF: Spark (Uganda)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18012.ts
+#EXTINF:-1,AF: Star TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18011.ts
+#EXTINF:-1,AF: STV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18090.ts
+#EXTINF:-1,AF: Stv2 Cameroun
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18010.ts
+#EXTINF:-1,AF: Sudan 24
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18009.ts
+#EXTINF:-1,AF: Sudan Drama
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18008.ts
+#EXTINF:-1,AF: Sudan TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18007.ts
+#EXTINF:-1,AF: TCHAD
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18006.ts
+#EXTINF:-1,AF: Tele Congo
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18005.ts
+#EXTINF:-1,AF: Tele Tchad
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18004.ts
+#EXTINF:-1,AF: TFM HD
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18003.ts
+#EXTINF:-1,AF: TM2 MALI
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18002.ts
+#EXTINF:-1,AF: TV CONTINENTAL NIGERIA
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18001.ts
+#EXTINF:-1,AF: TVC News (Nigeria)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18000.ts
+#EXTINF:-1,AF: UNIVERSAL TV (Somalia)
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/17999.ts
+#EXTINF:-1,AF: Walf tv
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/17998.ts
+#EXTINF:-1,AF: Wazobia TV
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/18089.ts
