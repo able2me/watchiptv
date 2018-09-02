@@ -1,4 +1,4 @@
-BEIN
+
 ext,BN Sports 1 HD,http://163.172.62.63:8000/live/fazeel/fazeel/1455.ts
 ext,BN Sports 2 HD,http://163.172.62.63:8000/live/fazeel/fazeel/1456.ts
 ext,BN Sports 3 HD,http://163.172.62.63:8000/live/fazeel/fazeel/1457.ts
@@ -23,7 +23,6 @@ ext,BN SPORTS 9HD Backup,http://163.172.62.63:8000/live/fazeel/fazeel/3502.ts
 ext,BN SPORTS 10HD Backup,http://163.172.62.63:8000/live/fazeel/fazeel/3503.ts
 ext,BN SPORTS 11HD Backup,http://163.172.62.63:8000/live/fazeel/fazeel/3504.ts
 ext,BN SPORTS 12HD Backup,http://163.172.62.63:8000/live/fazeel/fazeel/3505.ts
-UK
 ROK.uk,UK: ROK,http://163.172.62.63:8000/live/fazeel/fazeel/4171.ts
 RTENewsNow.ie,UK: RTE News,http://163.172.62.63:8000/live/fazeel/fazeel/4073.ts
 3e.ie,UK: 3e,http://163.172.62.63:8000/live/fazeel/fazeel/4071.ts
@@ -109,3 +108,49 @@ GEOTV.uk,UK: Geo TV,http://163.172.62.63:8000/live/fazeel/fazeel/2011.ts
 ext,UK: Geo Kahani,http://163.172.62.63:8000/live/fazeel/fazeel/2009.ts
 ext,UK: Animal-Planet-HD,http://163.172.62.63:8000/live/fazeel/fazeel/1361.ts
 AnimalPlanet.uk,UK: Animal Planet,http://163.172.62.63:8000/live/fazeel/fazeel/2013.ts
+#EXTINF:-1,NG: TV Continental
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/907.ts
+#EXTINF:-1,NG: ROK TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/905.ts
+#EXTINF:-1,NG: Rave TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/904.ts
+#EXTINF:-1,NG: Lagos TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/903.ts
+#EXTINF:-1,NG: Igboro TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/902.ts
+#EXTINF:-1,NG: FAME TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/901.ts
+#EXTINF:-1,NG: Biafra 2
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/900.ts
+#EXTINF:-1,NG: BEN TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/899.ts
+#EXTINF:-1,NG: AIT International HD
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/898.ts
+#EXTINF:-1,LoveWorldSAT ( South Africa )
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/868.ts
+#EXTINF:-1,I24 News English
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/867.ts
+#EXTINF:-1,GH: Sankofa TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/897.ts
+#EXTINF:-1,GH: Resurrection TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/896.ts
+#EXTINF:-1,GH: Kessben TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/895.ts
+#EXTINF:-1,GH: Joy News TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/894.ts
+#EXTINF:-1,GH: GTV ( Ghana )
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/893.ts
+#EXTINF:-1,GH: GH Canada TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/892.ts
+#EXTINF:-1,GH: Cine Plus Africa
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/891.ts
+#EXTINF:-1,GH: ACTSTV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/890.ts
+#EXTINF:-1,GH: ABUNDANT GRACE TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/889.ts
+#EXTINF:-1,GH: ABN TV
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/888.ts
+#EXTINF:-1,Arise News tv
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/856.ts
+#EXTINF:-1,AF: TVC
+http://163.172.210.178:8000/live/1304169sa0W90y/326bID10042439/886.ts
