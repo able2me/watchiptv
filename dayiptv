@@ -1,95 +1,49 @@
 #EXTM3U
-#EXTINF:-1,TR:24_TV
-http://212.8.243.126:8000/live/faris735/330584/783.ts
-#EXTINF:-1,TR:ATV
-http://212.8.243.126:8000/live/faris735/330584/801.ts
-#EXTINF:-1,TR:A_Haber
-http://212.8.243.126:8000/live/faris735/330584/800.ts
-#EXTINF:-1,TR:A_SPOR
-http://212.8.243.126:8000/live/faris735/330584/809.ts
-#EXTINF:-1,TR:BBC_Earth
-http://212.8.243.126:8000/live/faris735/330584/4971.ts
-#EXTINF:-1,TR:CNN_TURK
-http://212.8.243.126:8000/live/faris735/330584/807.ts
-#EXTINF:-1,TR:DIGIMAX_2
-http://212.8.243.126:8000/live/faris735/330584/770.ts
-#EXTINF:-1,TR:DISNEY
-http://212.8.243.126:8000/live/faris735/330584/2512.ts
-#EXTINF:-1,TR:DREAM_TURK
-http://212.8.243.126:8000/live/faris735/330584/2516.ts
-#EXTINF:-1,TR:DREAM_TV
-http://212.8.243.126:8000/live/faris735/330584/2515.ts
-#EXTINF:-1,TR:EURO_STAR
-http://212.8.243.126:8000/live/faris735/330584/2508.ts
-#EXTINF:-1,TR:FASHIONE_Ben_HD
-http://212.8.243.126:8000/live/faris735/330584/2510.ts
-#EXTINF:-1,TR:FB_TV
-http://212.8.243.126:8000/live/faris735/330584/2638.ts
-#EXTINF:-1,TR:FLASH_TV
-http://212.8.243.126:8000/live/faris735/330584/7920.ts
-#EXTINF:-1,TR:FOX_HD
-http://212.8.243.126:8000/live/faris735/330584/2505.ts
-#EXTINF:-1,TR:HaberTurk
-http://212.8.243.126:8000/live/faris735/330584/796.ts
-#EXTINF:-1,TR:HALK_TV
-http://212.8.243.126:8000/live/faris735/330584/2517.ts
-#EXTINF:-1,TR:KANAL_7
-http://212.8.243.126:8000/live/faris735/330584/806.ts
-#EXTINF:-1,TR:Kanal_D
-http://212.8.243.126:8000/live/faris735/330584/793.ts
-#EXTINF:-1,TR:Kanal_Urfa
-http://212.8.243.126:8000/live/faris735/330584/7923.ts
-#EXTINF:-1,TR:KRAL
-http://212.8.243.126:8000/live/faris735/330584/7921.ts
-#EXTINF:-1,TR:Loca_1
-http://212.8.243.126:8000/live/faris735/330584/772.ts
-#EXTINF:-1,TR:Loca_2
-http://212.8.243.126:8000/live/faris735/330584/773.ts
-#EXTINF:-1,TR:Loca_3
-http://212.8.243.126:8000/live/faris735/330584/774.ts
-#EXTINF:-1,TR:NR_1
-http://212.8.243.126:8000/live/faris735/330584/4033.ts
-#EXTINF:-1,TR:NTV
-http://212.8.243.126:8000/live/faris735/330584/805.ts
-#EXTINF:-1,TR:NTV_SPOR
-http://212.8.243.126:8000/live/faris735/330584/2637.ts
-#EXTINF:-1,TR:NUMBER_ONE_TURK
-http://212.8.243.126:8000/live/faris735/330584/2514.ts
-#EXTINF:-1,TR:POWER_TURK
-http://212.8.243.126:8000/live/faris735/330584/803.ts
-#EXTINF:-1,TR:Show_TV
-http://212.8.243.126:8000/live/faris735/330584/791.ts
-#EXTINF:-1,TR:TRT_1
-http://212.8.243.126:8000/live/faris735/330584/786.ts
-#EXTINF:-1,TR:TRT_Arabic
-http://212.8.243.126:8000/live/faris735/330584/4533.ts
-#EXTINF:-1,TR:TRT_BELGESEL
-http://212.8.243.126:8000/live/faris735/330584/2520.ts
-#EXTINF:-1,TR:TRT_COCUK
-http://212.8.243.126:8000/live/faris735/330584/2521.ts
-#EXTINF:-1,TR:TRT_DIYANET
-http://212.8.243.126:8000/live/faris735/330584/2522.ts
-#EXTINF:-1,TR:TRT_HABER_HD
-http://212.8.243.126:8000/live/faris735/330584/802.ts
-#EXTINF:-1,TR:TRT_HD
-http://212.8.243.126:8000/live/faris735/330584/785.ts
-#EXTINF:-1,TR:TRT_MUZIK
-http://212.8.243.126:8000/live/faris735/330584/2513.ts
-#EXTINF:-1,TR:TRT_OKUL
-http://212.8.243.126:8000/live/faris735/330584/2511.ts
-#EXTINF:-1,TR:TRT_SPOR
-http://212.8.243.126:8000/live/faris735/330584/784.ts
-#EXTINF:-1,TR:TRT_Turk
-http://212.8.243.126:8000/live/faris735/330584/2527.ts
-#EXTINF:-1,TR:TV2
-http://212.8.243.126:8000/live/faris735/330584/782.ts
-#EXTINF:-1,TR:TV_10
-http://212.8.243.126:8000/live/faris735/330584/2518.ts
-#EXTINF:-1,TR:TV_8
-http://212.8.243.126:8000/live/faris735/330584/2569.ts
-#EXTINF:-1,TR:TV_8.5_Spor
-http://212.8.243.126:8000/live/faris735/330584/4619.ts
-#EXTINF:-1,TR:ULKE
-http://212.8.243.126:8000/live/faris735/330584/7922.ts
-#EXTINF:-1,TR:Yaban
-http://212.8.243.126:8000/live/faris735/330584/4594.ts
+#EXTINF:-1,BN Sports 1 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1455.ts
+#EXTINF:-1,BN Sports 2 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1456.ts
+#EXTINF:-1,BN Sports 3 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1457.ts
+#EXTINF:-1,BN Sports 4 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1458.ts
+#EXTINF:-1,BN Sports 5 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1459.ts
+#EXTINF:-1,BN Sports 6 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1460.ts
+#EXTINF:-1,BN Sports 7 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1461.ts
+#EXTINF:-1,BN Sports 8 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1462.ts
+#EXTINF:-1,BN Sports 9 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1463.ts
+#EXTINF:-1,BN Sports 10 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1464.ts
+#EXTINF:-1,BN Sports 11 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1499.ts
+#EXTINF:-1,BN Sports 12 HD
+http://163.172.62.63:8000/live/fazeel/fazeel/1500.ts
+#EXTINF:-1,BN SPORTS 1HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3494.ts
+#EXTINF:-1,BN SPORTS 2 HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3495.ts
+#EXTINF:-1,BN SPORTS 3HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3496.ts
+#EXTINF:-1,BN SPORTS 4HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3497.ts
+#EXTINF:-1,BN SPORTS 5HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3498.ts
+#EXTINF:-1,BN SPORTS 6HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3499.ts
+#EXTINF:-1,BN SPORTS 7 HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3500.ts
+#EXTINF:-1,BN SPORTS 8HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3501.ts
+#EXTINF:-1,BN SPORTS 9HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3502.ts
+#EXTINF:-1,BN SPORTS 10HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3503.ts
+#EXTINF:-1,BN SPORTS 11HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3504.ts
+#EXTINF:-1,BN SPORTS 12HD Backup
+http://163.172.62.63:8000/live/fazeel/fazeel/3505.ts
