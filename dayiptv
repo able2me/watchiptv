@@ -511,3 +511,118 @@ http://54.36.168.168:8000/live/zizo18040/54544452/8078.ts
 http://54.36.168.168:8000/live/zizo18040/54544452/8079.ts
 #EXTINF:-1,DE:ZDF_info
 http://54.36.168.168:8000/live/zizo18040/54544452/8080.ts
+#EXTM3U
+#EXTINF:-1,[AFR] Africa TV 1
+http://134.19.181.172:8000/live/fff5/fff5/1745.ts
+#EXTINF:-1,[AFR] Africa TV 2
+http://134.19.181.172:8000/live/fff5/fff5/2009.ts
+#EXTINF:-1,[AFR] Africa TV 3
+http://134.19.181.172:8000/live/fff5/fff5/2010.ts
+#EXTINF:-1,[AFR] Africa TV 4
+http://134.19.181.172:8000/live/fff5/fff5/1751.ts
+#EXTINF:-1,[AFR] Amhara TV
+http://134.19.181.172:8000/live/fff5/fff5/1804.ts
+#EXTINF:-1,[AFR] Ben Nigeria
+http://134.19.181.172:8000/live/fff5/fff5/2130.ts
+#EXTINF:-1,[AFR] ESTV
+http://134.19.181.172:8000/live/fff5/fff5/205.ts
+#EXTINF:-1,[AFR] ETV
+http://134.19.181.172:8000/live/fff5/fff5/1638.ts
+#EXTINF:-1,[AFR] Eritrea TV
+http://134.19.181.172:8000/live/fff5/fff5/266.ts
+#EXTINF:-1,[AFR] Horn Cable
+http://134.19.181.172:8000/live/fff5/fff5/1963.ts
+#EXTINF:-1,[AFR] Kalsan
+http://134.19.181.172:8000/live/fff5/fff5/1938.ts
+#EXTINF:-1,[AFR] Kana TV
+http://134.19.181.172:8000/live/fff5/fff5/235.ts
+#EXTINF:-1,[AFR] Nollywood
+http://134.19.181.172:8000/live/fff5/fff5/2131.ts
+#EXTINF:-1,[AFR] Oromia TV
+http://134.19.181.172:8000/live/fff5/fff5/676.ts
+#EXTINF:-1,[AFR] RTD Djibouti
+http://134.19.181.172:8000/live/fff5/fff5/2257.ts
+#EXTINF:-1,[AFR] SLNTV
+http://134.19.181.172:8000/live/fff5/fff5/1939.ts
+#EXTINF:-1,[AFR] SNTV
+http://134.19.181.172:8000/live/fff5/fff5/753.ts
+#EXTINF:-1,[AFR] Somali Cable
+http://134.19.181.172:8000/live/fff5/fff5/528.ts
+#EXTINF:-1,[AFR] Somaliland (SLN TV)
+http://134.19.181.172:8000/live/fff5/fff5/754.ts
+#EXTINF:-1,[AFR] Southern Ethiopia TV
+http://134.19.181.172:8000/live/fff5/fff5/1654.ts
+#EXTINF:-1,[AFR] Tigrai TV
+http://134.19.181.172:8000/live/fff5/fff5/2622.ts
+#EXTINF:-1,[AFR] Universal Somali
+http://134.19.181.172:8000/live/fff5/fff5/755.ts
+#EXTINF:-1,AF: ERI TV (Eritrea)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/12503.ts
+#EXTINF:-1,AF: BTV (Nigeria)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4906.ts
+#EXTINF:-1,AF: ANN7 (sud africa)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13353.ts
+#EXTINF:-1,AF: Dabanga Tv (Sudan)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13356.ts
+#EXTINF:-1,AF: Somali Cable (Somalia)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13355.ts
+#EXTINF:-1,AF: ZBC (Zimbabwe)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13354.ts
+#EXTINF:-1,AF: Africable (Mali)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4907.ts
+#EXTINF:-1,AF: Afrique Media (PanAfrican)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4908.ts
+#EXTINF:-1,AF: CRTV (Cameroon)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4909.ts
+#EXTINF:-1,AF: Equinoxe TV (Cameroon)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4911.ts
+#EXTINF:-1,AF: CRT TV NEWS (Cameroon)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4912.ts
+#EXTINF:-1,AF: ORTM (Mali)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4914.ts
+#EXTINF:-1,AF: RTNC 1 (Congo)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4917.ts
+#EXTINF:-1,AF: 2STV (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4894.ts
+#EXTINF:-1,AF: IBN TV (Tanzania)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4895.ts
+#EXTINF:-1,AF: STV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4896.ts
+#EXTINF:-1,AF: Diaspora 24 (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4904.ts
+#EXTINF:-1,AF: Lamp Fall TV (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4900.ts
+#EXTINF:-1,AF: MUSIC TV (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4898.ts
+#EXTINF:-1,AF: RTI 2 (Cote d'Ivoire)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4893.ts
+#EXTINF:-1,AF: RTS 1 (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4888.ts
+#EXTINF:-1,AF: RTI 1 (Cote d'Ivoire)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4889.ts
+#EXTINF:-1,AF: TM2 (Mali)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4890.ts
+#EXTINF:-1,AF: RTS 2 (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4891.ts
+#EXTINF:-1,AF: SEN TV (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4885.ts
+#EXTINF:-1,AF: TFM (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4903.ts
+#EXTINF:-1,AF: TFM Religion (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4886.ts
+#EXTINF:-1,AF: Tv Continental (Nigeria)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/8955.ts
+#EXTINF:-1,AF: Wazobia TV (Nigeria)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/8956.ts
+#EXTINF:-1,AF: Walf tv (Senegal)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4905.ts
+#EXTINF:-1,AF: Tele Congo (Congo)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4918.ts
+#EXTINF:-1,AF: Tele Tchad
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4919.ts
+#EXTINF:-1,AF: TVM1 (Mosambique)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4920.ts
+#EXTINF:-1,AF: AFRICA24
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/3140.ts
+#EXTINF:-1,AF: TVM International (Mosambique)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/3282.ts
