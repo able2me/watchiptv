@@ -242,10 +242,6 @@ http://145.239.0.158:8080/live/mehmet/mehmet123/8779.ts
 http://145.239.0.158:8080/live/mehmet/mehmet123/8786.ts
 #EXTINF:-1,DE:VIVA HD
 http://145.239.0.158:8080/live/mehmet/mehmet123/8768.ts
-#EXTINF:-1,DE:XITE HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8772.ts
-#EXTINF:-1,DE:Spiegel Geschichte
-http://145.239.0.158:8080/live/mehmet/mehmet123/8755.ts
 #EXTINF:-1,DE ZDF NEO
 http://149.202.196.91:8000/live/orangetech/stream/657.ts
 #EXTINF:-1,DE ZDF
@@ -260,8 +256,6 @@ http://149.202.196.91:8000/live/orangetech/stream/228.ts
 http://149.202.196.91:8000/live/orangetech/stream/100.ts
 #EXTINF:-1,DE SuperRTL
 http://149.202.196.91:8000/live/orangetech/stream/102.ts
-#EXTINF:-1,DE SAT1 GOLD
-http://149.202.196.91:8000/live/orangetech/stream/103.ts
 #EXTINF:-1,DE SAT1
 http://149.202.196.91:8000/live/orangetech/stream/104.ts
 #EXTINF:-1,DE RTL2
@@ -270,23 +264,23 @@ http://149.202.196.91:8000/live/orangetech/stream/105.ts
 http://149.202.196.91:8000/live/orangetech/stream/106.ts
 #EXTINF:-1,DE KABEL 1
 http://149.202.196.91:8000/live/orangetech/stream/107.ts
+#EXTINF:-1,DE PRO 7
+http://149.202.196.91:8000/live/orangetech/stream/115.ts
+#EXTINF:-1,DE 3Sat
+http://149.202.196.91:8000/live/orangetech/stream/116.ts
+#EXTINF:-1,DE N24
+http://149.202.196.91:8000/live/orangetech/stream/110.ts
+#EXTINF:-1,DE SAT1 GOLD
+http://149.202.196.91:8000/live/orangetech/stream/103.ts
 #EXTINF:-1,DE Nickelodeon
 http://149.202.196.91:8000/live/orangetech/stream/108.ts
 #EXTINF:-1,DE KIKA
 http://149.202.196.91:8000/live/orangetech/stream/109.ts
-#EXTINF:-1,DE N24
-http://149.202.196.91:8000/live/orangetech/stream/110.ts
 #EXTINF:-1,DE PRO 7 MAXX
 http://149.202.196.91:8000/live/orangetech/stream/111.ts
 #EXTINF:-1,DE VIVA
 http://149.202.196.91:8000/live/orangetech/stream/112.ts
 #EXTINF:-1,DE Eurosport
 http://149.202.196.91:8000/live/orangetech/stream/114.ts
-#EXTINF:-1,DE PRO 7
-http://149.202.196.91:8000/live/orangetech/stream/115.ts
-#EXTINF:-1,DE 3Sat
-http://149.202.196.91:8000/live/orangetech/stream/116.ts
 #EXTINF:-1,DE DMAX
 http://149.202.196.91:8000/live/orangetech/stream/117.ts
-#EXTINF:-1,DE EuroNews Europe
-http://149.202.196.91:8000/live/orangetech/stream/118.ts
