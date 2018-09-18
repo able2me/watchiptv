@@ -23,73 +23,291 @@ http://31.154.95.26:25461/live/dokpal/cisco2006/182.ts
 http://31.154.95.26:25461/live/dokpal/cisco2006/183.ts
 #EXTINF:-1,beIN SPORTS 12 HD 1080
 http://31.154.95.26:25461/live/dokpal/cisco2006/184
-#EXTINF:-1,DE| DAS ERSTE
-http://79.124.49.242:1958/live/melisa5/5melisa/17846.ts
-#EXTINF:-1,DE| DAS ERSTE HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17845.ts
-#EXTINF:-1,DE| ZDF
-http://79.124.49.242:1958/live/melisa5/5melisa/17844.ts
-#EXTINF:-1,DE| SAT 1
-http://79.124.49.242:1958/live/melisa5/5melisa/17831.ts
-#EXTINF:-1,DE| PROSIEBEN
-http://79.124.49.242:1958/live/melisa5/5melisa/17825.ts
-#EXTINF:-1,DE| VOX
-http://79.124.49.242:1958/live/melisa5/5melisa/17833.ts
-#EXTINF:-1,DE| 3SAT
-http://79.124.49.242:1958/live/melisa5/5melisa/17842.ts
-#EXTINF:-1,DE| ZDF HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17843.ts
-#EXTINF:-1,DE| RTL
-http://79.124.49.242:1958/live/melisa5/5melisa/17829.ts
-#EXTINF:-1,DE| SUPER RTL
-http://79.124.49.242:1958/live/melisa5/5melisa/17815.ts
-#EXTINF:-1,DE| RTL CRIME HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17745.ts
-#EXTINF:-1,DE| RTL HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17828.ts
-#EXTINF:-1,DE| RTL2
-http://79.124.49.242:1958/live/melisa5/5melisa/17827.ts
-#EXTINF:-1,DE| RTL LIVING
-http://79.124.49.242:1958/live/melisa5/5melisa/17744.ts
-#EXTINF:-1,DE| RTL PASSION
-http://79.124.49.242:1958/live/melisa5/5melisa/17743.ts
-#EXTINF:-1,DE| RTLII HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17826.ts
-#EXTINF:-1,DE| RTLPLUS
-http://79.124.49.242:1958/live/melisa5/5melisa/17746.ts
-#EXTINF:-1,DE| SAT 1 GOLD
-http://79.124.49.242:1958/live/melisa5/5melisa/17820.ts
-#EXTINF:-1,DE| SAT 1 HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17830.ts
-#EXTINF:-1,DE| 3SAT HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17841.ts
-#EXTINF:-1,DE| MTV HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17739.ts
-#EXTINF:-1,DE| SYFY HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17769.ts
-#EXTINF:-1,DE| TLC
-http://79.124.49.242:1958/live/melisa5/5melisa/17741.ts
-#EXTINF:-1,DE| VOX HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17832.ts
-#EXTINF:-1,DE| N-TV
-http://79.124.49.242:1958/live/melisa5/5melisa/17838.ts
-#EXTINF:-1,DE| N-TV HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17837.ts
-#EXTINF:-1,DE| N24 DOKU
-http://79.124.49.242:1958/live/melisa5/5melisa/17836.ts
-#EXTINF:-1,DE| PROSIEBEN FUN HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17822.ts
-#EXTINF:-1,DE| PROSIEBEN HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17824.ts
-#EXTINF:-1,DE| PROSIEBEN MAXX
-http://79.124.49.242:1958/live/melisa5/5melisa/17823.ts
-#EXTINF:-1,DE| SIXX
-http://79.124.49.242:1958/live/melisa5/5melisa/17821.ts
-#EXTINF:-1,DE| SKY SPORT AUSTRIA HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17691.ts
-#EXTINF:-1,DE| SKY SPORT BUNDESLIGA 1
-http://79.124.49.242:1958/live/melisa5/5melisa/17702.ts
-#EXTINF:-1,DE| SKY SPORT BUNDESLIGA 1 HD
-http://79.124.49.242:1958/live/melisa5/5melisa/17712.ts
-#EXTINF:-1,DE| SKY SPORT BUNDESLIGA 1 UHD
-http://79.124.49.242:1958/live/melisa5/5melisa/17713.ts
+#EXTINF:-1,BBC One HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18196.ts
+#EXTINF:-1,ITV FHD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18184.ts
+#EXTINF:-1,ITV HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/33229.ts
+#EXTINF:-1,ITV SD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/24973.ts
+#EXTINF:-1,ITV +1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22684.ts
+#EXTINF:-1,Syfy HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16617.ts
+#EXTINF:-1,BBC Four HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18193.ts
+#EXTINF:-1,ITV2 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18183.ts
+#EXTINF:-1,ITV2 +1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22099.ts
+#EXTINF:-1,ITV3 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18182.ts
+#EXTINF:-1,ITV4 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18181.ts
+#EXTINF:-1,ITV4 +1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22098.ts
+#EXTINF:-1,Be3
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19745.ts
+#EXTINF:-1,Fox HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16825.ts
+#EXTINF:-1,TLC
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19670.ts
+#EXTINF:-1,Alibi HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18577.ts
+#EXTINF:-1,E4 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16836.ts
+#EXTINF:-1,E4 + 1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/28313.ts
+#EXTINF:-1,More4 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18216.ts
+#EXTINF:-1,Quest
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16835.ts
+#EXTINF:-1,Quest Red
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22685.ts
+#EXTINF:-1,Challenge TV
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18919.ts
+#EXTINF:-1,CBS Reality
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16843.ts
+#EXTINF:-1,CBS Action
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16842.ts
+#EXTINF:-1,ITV BE
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19478.ts
+#EXTINF:-1,E!*
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/25874.ts
+#EXTINF:-1,E!
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18217.ts
+#EXTINF:-1,Pick tv
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19746.ts
+#EXTINF:-1,S4C
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20260.ts
+#EXTINF:-1,Drama
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18963.ts
+#EXTINF:-1,Spike HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18212.ts
+#EXTINF:-1,Home & Health
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20205.ts
+#EXTINF:-1,BBC Three HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19973.ts
+#EXTINF:-1,CBBC HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/21425.ts
+#EXTINF:-1,Food Network
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/16621.ts
+#EXTINF:-1,Viceland
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/28314.ts
+#EXTINF:-1,Blaze
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/27438.ts
+#EXTINF:-1,Dmax
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18218.ts
+#EXTINF:-1,STV
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22102.ts
+#EXTINF:-1,Uk lifetime
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20160.ts
+#EXTINF:-1,Really
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22667.ts
+#EXTINF:-1,BET Star
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22680.ts
+#EXTINF:-1,My5
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22061.ts
+#EXTINF:-1,5 Star
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/21398.ts
+#EXTINF:-1,5Star +1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/21399.ts
+#EXTINF:-1,5USA
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/21400.ts
+#EXTINF:-1,5 USA + 1
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22058.ts
+#EXTINF:-1,RTE NEWS
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20089.ts
+#EXTINF:-1,RTE 1 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20204.ts
+#EXTINF:-1,RTE 2 HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20203.ts
+#EXTINF:-1,RTE Junior
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20237.ts
+#EXTINF:-1,TV3
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20084.ts
+#EXTINF:-1,TG 4
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/18595.ts
+#EXTINF:-1,3E HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/19669.ts
+#EXTINF:-1,Utv HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20429.ts
+#EXTINF:-1,DW TV
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/22668.ts
+#EXTINF:-1,BBC News HD
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/28306.ts
+#EXTINF:-1,BBC News Arabic
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20082.ts
+#EXTINF:-1,Euro News
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/25275.ts
+#EXTINF:-1,BBC Parliament
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20115.ts
+#EXTINF:-1,BBC Alba
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/21424.ts
+#EXTINF:-1,Press TV
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/27561.ts
+#EXTINF:-1,Arise News
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20110.ts
+#EXTINF:-1,FRANCE 24.
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20112.ts
+#EXTINF:-1,CBSN News
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20113.ts
+#EXTINF:-1,Fox News
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20114.ts
+#EXTINF:-1,Al Jazeera English
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20116.ts
+#EXTINF:-1,ABC NEWS
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20117.ts
+#EXTINF:-1,NewsMax
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20119.ts
+#EXTINF:-1,CNN NEWS
+http://54.38.74.247:8080/live/niacamskype889/100sharesskype/20120.ts
+#EXTINF:-1,UK: News HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/550.ts
+#EXTINF:-1,UK: RTE News
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/431.ts
+#EXTINF:-1,UK: BBC News
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/428.ts
+#EXTINF:-1,UK: CBBC HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/430.ts
+#EXTINF:-1,UK: ITV 1
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/471.ts
+#EXTINF:-1,UK: ITV 2
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/470.ts
+#EXTINF:-1,UK: ITV 3
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/469.ts
+#EXTINF:-1,UK: ITV 4
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/468.ts
+#EXTINF:-1,UK: ITV Be
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/429.ts
+#EXTINF:-1,UK: ITV Encore
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/467.ts
+#EXTINF:-1,UK: TV3
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/434.ts
+#EXTINF:-1,UK: CITV
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/436.ts
+#EXTINF:-1,UK: CBS Reality
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/510.ts
+#EXTINF:-1,UK: BBC One HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/488.ts
+#EXTINF:-1,UK: BBC Two HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/487.ts
+#EXTINF:-1,UK: BBC Three HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/486.ts
+#EXTINF:-1,UK: BBC Four HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/485.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/426.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/427.ts
+#EXTINF:-1,UK: Nickelodeon
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/503.ts
+#EXTINF:-1,UK: Nickelodeon JR
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/423.ts
+#EXTINF:-1,UK: NickToons
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/446.ts
+#EXTINF:-1,UK: Disney XD HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/493.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/494.ts
+#EXTINF:-1,UK: Disney Chaneel HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/492.ts
+#EXTINF:-1,UK: Discovery Science
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/526.ts
+#EXTINF:-1,UK: Discovery History
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/491.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/465.ts
+#EXTINF:-1,UK: Discovery Shed
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/445.ts
+#EXTINF:-1,UK: Discovery
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/464.ts
+#EXTINF:-1,UK: National Geographic HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/499.ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/498.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/497.ts
+#EXTINF:-1,UK: History HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/496.ts
+#EXTINF:-1,UK: History 2
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/452.ts
+#EXTINF:-1,UK: Ci
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/514.ts
+#EXTINF:-1,UK: 1
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/475.ts
+#EXTINF:-1,UK: 2
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/507.ts
+#EXTINF:-1,UK: Atlantic
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/483.ts
+#EXTINF:-1,UK: E! Entertainment
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/447.ts
+#EXTINF:-1,UK: VH1
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/449.ts
+#EXTINF:-1,UK: E4
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/451.ts
+#EXTINF:-1,UK: TG4
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/422.ts
+#EXTINF:-1,UK: Syfy
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/538.ts
+#EXTINF:-1,UK: CNBC
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/466.ts
+#EXTINF:-1,UK: Dave HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/506.ts
+#EXTINF:-1,UK: RTE One
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/474.ts
+#EXTINF:-1,UK: RTE One UP
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/1568.ts
+#EXTINF:-1,UK: RTE Two
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/478.ts
+#EXTINF:-1,UK: RTE Two UP
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/1569.ts
+#EXTINF:-1,UK: Fox
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/460.ts
+#EXTINF:-1,UK: Five
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/473.ts
+#EXTINF:-1,UK: Arts 1 HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/489.ts
+#EXTINF:-1,UK: Racing
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/458.ts
+#EXTINF:-1,UK: CNN
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/454.ts
+#EXTINF:-1,UK: Dmax
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/456.ts
+#EXTINF:-1,UK: TLC
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/455.ts
+#EXTINF:-1,UK: STV
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/448.ts
+#EXTINF:-1,UK: MTV
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/1550.ts
+#EXTINF:-1,UK: MTV Rocks HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/442.ts
+#EXTINF:-1,UK: MTV Hits HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/443.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/441.ts
+#EXTINF:-1,UK: MTV Classic
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/500.ts
+#EXTINF:-1,UK: MTV Base
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/440.ts
+#EXTINF:-1,UK: Fine Living Network
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/1544.ts
+#EXTINF:-1,UK: 4Music
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/1543.ts
+#EXTINF:-1,UK: VIVA the Hits
+http://e2.iudtv.org:8080/live/ASDF/ASDF1/439.ts
+#EXTINF:-1,VOX Africa
+http://188.93.238.184:8000/live/snet/snet/11793.ts
+#EXTINF:-1,ABN TV
+http://188.93.238.184:8000/live/snet/snet/11337.ts
+#EXTINF:-1,BBC World News
+http://188.93.238.184:8000/live/snet/snet/11327.ts
+#EXTINF:-1,BEN TV
+http://188.93.238.184:8000/live/snet/snet/11341.ts
+#EXTINF:-1,CNC World
+http://188.93.238.184:8000/live/snet/snet/11853.ts
+#EXTINF:-1,Channels 24
+http://188.93.238.184:8000/live/snet/snet/11356.ts
+#EXTINF:-1,CNN HD
+http://188.93.238.184:8000/live/snet/snet/11074.ts
