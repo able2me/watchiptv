@@ -313,37 +313,6 @@ http://powertv.listenpowerapp.com/powertv/abr/powertv/720/chunks.m3u8
 http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u8
 #EXTINF:-1,1 beIN Futbol
 http://87.98.162.77:7080/playlist
-#EXTINF:-1,UK:BT_SPORT_1
-http://190.2.150.145:1978/live/22222/22222/6499.ts
-#EXTINF:-1,UK:BT_SPORT_2
-http://190.2.150.145:1978/live/22222/22222/6498.ts
-#EXTINF:-1,UK:BT_SPORT_3
-http://190.2.150.145:1978/live/22222/22222/6497.ts
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://190.2.150.145:1978/live/22222/22222/6500.ts
-#EXTINF:-1,UK:CBS_DRAMA
-http://190.2.150.145:1978/live/22222/22222/6495.ts
-#EXTINF:-1,UK:CBS_REALITY
-http://190.2.150.145:1978/live/22222/22222/6494.ts
-#EXTINF:-1,UK:CNBC
-http://190.2.150.145:1978/live/22222/22222/6493.ts
-#EXTINF:-1,UK:CNN_NEW
-http://190.2.150.145:1978/live/22222/22222/6492.ts
-#EXTINF:-1,UK:Comedy_HD
-http://190.2.150.145:1978/live/22222/22222/6491.ts
-#EXTINF:-1,UK:Disney
-http://190.2.150.145:1978/live/22222/22222/6490.ts
-#EXTINF:-1,UK:Dmax
-http://190.2.150.145:1978/live/22222/22222/6489.ts
-#EXTINF:-1,UK:EuroSport_1
-http://190.2.150.145:1978/live/22222/22222/6488.ts
-#EXTINF:-1,UK:EuroSport_2
-http://190.2.150.145:1978/live/22222/22222/6487.ts
-#EXTINF:-1,UK:Film_4
-http://190.2.150.145:1978/live/22222/22222/6486.ts
-#EXTINF:-1,UK:ITV 4
-http://190.2.150.145:1978/live/22222/22222/6484.ts
-#EXTM3U
 #EXTINF:-1,UK:5 USA
 http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17363.ts
 #EXTINF:-1,UK:ALIBI
