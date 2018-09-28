@@ -106,3 +106,255 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
 #EXTINF:0 group-title="(AFR) Africa",RTV | SD
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:0,Af| 2s Tv
+http://185.2.83.231:80/live/riadh/riadh12345/13292.ts
+#EXTINF:0,Af| 3abn
+http://185.2.83.231:80/live/riadh/riadh12345/13293.ts
+#EXTINF:0,Af| Abn tv
+http://185.2.83.231:80/live/riadh/riadh12345/13294.ts
+#EXTINF:0,Af| Adbn
+http://185.2.83.231:80/live/riadh/riadh12345/13295.ts
+#EXTINF:0,Af| Adom tv
+http://185.2.83.231:80/live/riadh/riadh12345/13296.ts
+#EXTINF:0,Af| Africa 24 news
+http://185.2.83.231:80/live/riadh/riadh12345/13297.ts
+#EXTINF:0,Af| Africa cable tv
+http://185.2.83.231:80/live/riadh/riadh12345/13298.ts
+#EXTINF:0,Af| Africa tv 1
+http://185.2.83.231:80/live/riadh/riadh12345/13299.ts
+#EXTINF:0,Af| Africa tv 2
+http://185.2.83.231:80/live/riadh/riadh12345/13300.ts
+#EXTINF:0,Af| Africa tv 3
+http://185.2.83.231:80/live/riadh/riadh12345/13301.ts
+#EXTINF:0,Af| Africa tv 4
+http://185.2.83.231:80/live/riadh/riadh12345/13302.ts
+#EXTINF:0,Af| Afro music
+http://185.2.83.231:80/live/riadh/riadh12345/13303.ts
+#EXTINF:0,Af| Ait international
+http://185.2.83.231:80/live/riadh/riadh12345/13304.ts
+#EXTINF:0,Af| Al Nassar chad TV
+http://185.2.83.231:80/live/riadh/riadh12345/20214.ts
+#EXTINF:0,Af| Alazhar touba
+http://185.2.83.231:80/live/riadh/riadh12345/13305.ts
+#EXTINF:0,Af| Almouridiyyah tv
+http://185.2.83.231:80/live/riadh/riadh12345/13306.ts
+#EXTINF:0,Af| Almouridiyyah tv en senegal
+http://185.2.83.231:80/live/riadh/riadh12345/13307.ts
+#EXTINF:0,Af| Ann 7 south africa
+http://185.2.83.231:80/live/riadh/riadh12345/13308.ts
+#EXTINF:0,Af| Asfiyahi tv
+http://185.2.83.231:80/live/riadh/riadh12345/13309.ts
+#EXTINF:0,Af| Ben tv
+http://185.2.83.231:80/live/riadh/riadh12345/13310.ts
+#EXTINF:0,Af| Blue nile
+http://185.2.83.231:80/live/riadh/riadh12345/13311.ts
+#EXTINF:0,Af| Canal 255
+http://185.2.83.231:80/live/riadh/riadh12345/13312.ts
+#EXTINF:0,Af| Channels24 tv
+http://185.2.83.231:80/live/riadh/riadh12345/13313.ts
+#EXTINF:0,Af| Cine plus africa
+http://185.2.83.231:80/live/riadh/riadh12345/13314.ts
+#EXTINF:0,Af| Crtv
+http://185.2.83.231:80/live/riadh/riadh12345/13315.ts
+#EXTINF:0,Af| Crtv TV
+http://185.2.83.231:80/live/riadh/riadh12345/20213.ts
+#EXTINF:0,Af| Dabanga sudan
+http://185.2.83.231:80/live/riadh/riadh12345/20206.ts
+#EXTINF:0,Af| Diaspora 24
+http://185.2.83.231:80/live/riadh/riadh12345/13316.ts
+#EXTINF:0,Af| Dieu tv
+http://185.2.83.231:80/live/riadh/riadh12345/13317.ts
+#EXTINF:0,Af| Digital Congo (Congo)
+http://185.2.83.231:80/live/riadh/riadh12345/20212.ts
+#EXTINF:0,Af| Dunamis tv
+http://185.2.83.231:80/live/riadh/riadh12345/13318.ts
+#EXTINF:0,Af| Ebc ethiopia
+http://185.2.83.231:80/live/riadh/riadh12345/13319.ts
+#EXTINF:0,Af| Emmanuel tv nigeria
+http://185.2.83.231:80/live/riadh/riadh12345/13320.ts
+#EXTINF:0,Af| Equinoxe tv
+http://185.2.83.231:80/live/riadh/riadh12345/13321.ts
+#EXTINF:0,Af| Ghana tv
+http://185.2.83.231:80/live/riadh/riadh12345/13322.ts
+#EXTINF:0,Af| Gtv
+http://185.2.83.231:80/live/riadh/riadh12345/13323.ts
+#EXTINF:0,Af| Gtv sports plus
+http://185.2.83.231:80/live/riadh/riadh12345/13324.ts
+#EXTINF:0,Af| Hctv
+http://185.2.83.231:80/live/riadh/riadh12345/13325.ts
+#EXTINF:0,Af| Horn cable tv
+http://185.2.83.231:80/live/riadh/riadh12345/13326.ts
+#EXTINF:0,Af| Joy News Ghana
+http://185.2.83.231:80/live/riadh/riadh12345/20198.ts
+#EXTINF:0,Af| Kedu tv
+http://185.2.83.231:80/live/riadh/riadh12345/13327.ts
+#EXTINF:0,Af| Ktn (Somali)
+http://185.2.83.231:80/live/riadh/riadh12345/20209.ts
+#EXTINF:0,Af| La tele du sahel nigeria
+http://185.2.83.231:80/live/riadh/riadh12345/13328.ts
+#EXTINF:0,Af| Lamp fall tv
+http://185.2.83.231:80/live/riadh/riadh12345/13329.ts
+#EXTINF:0,Af| Land Somalia
+http://185.2.83.231:80/live/riadh/riadh12345/20210.ts
+#EXTINF:0,Af| Love world nigeria
+http://185.2.83.231:80/live/riadh/riadh12345/13330.ts
+#EXTINF:0,Af| Ltv Ethiopia
+http://185.2.83.231:80/live/riadh/riadh12345/20211.ts
+#EXTINF:0,Af| Mana maputo
+http://185.2.83.231:80/live/riadh/riadh12345/13331.ts
+#EXTINF:0,Af| Manasat mz
+http://185.2.83.231:80/live/riadh/riadh12345/13332.ts
+#EXTINF:0,Af| Mfm tv nigeria
+http://185.2.83.231:80/live/riadh/riadh12345/13333.ts
+#EXTINF:0,Af| Mourchid tv
+http://185.2.83.231:80/live/riadh/riadh12345/13334.ts
+#EXTINF:0,Af| Music tv senegal
+http://185.2.83.231:80/live/riadh/riadh12345/13335.ts
+#EXTINF:0,Af| Nec
+http://185.2.83.231:80/live/riadh/riadh12345/20208.ts
+#EXTINF:0,Af| Nollywood french
+http://185.2.83.231:80/live/riadh/riadh12345/13336.ts
+#EXTINF:0,Af| Nollywood movies
+http://185.2.83.231:80/live/riadh/riadh12345/13337.ts
+#EXTINF:0,Af| Nollywood movies premium
+http://185.2.83.231:80/live/riadh/riadh12345/13338.ts
+#EXTINF:0,Af| Ntai (Nigeria)
+http://185.2.83.231:80/live/riadh/riadh12345/20215.ts
+#EXTINF:0,Af| Om5 TV
+http://185.2.83.231:80/live/riadh/riadh12345/20196.ts
+#EXTINF:0,Af| Ortb
+http://185.2.83.231:80/live/riadh/riadh12345/20200.ts
+#EXTINF:0,Af| Ortm tv
+http://185.2.83.231:80/live/riadh/riadh12345/13339.ts
+#EXTINF:0,Af| Rave tv (nigeria)
+http://185.2.83.231:80/live/riadh/riadh12345/13340.ts
+#EXTINF:0,Af| Rok TV
+http://185.2.83.231:80/live/riadh/riadh12345/20217.ts
+#EXTINF:0,Af| Rtb
+http://185.2.83.231:80/live/riadh/riadh12345/13341.ts
+#EXTINF:0,Af| Rtg Guinee
+http://185.2.83.231:80/live/riadh/riadh12345/20216.ts
+#EXTINF:0,Af| Rti1
+http://185.2.83.231:80/live/riadh/riadh12345/13342.ts
+#EXTINF:0,Af| Rti2
+http://185.2.83.231:80/live/riadh/riadh12345/13343.ts
+#EXTINF:0,Af| Rtnc
+http://185.2.83.231:80/live/riadh/riadh12345/13344.ts
+#EXTINF:0,Af| Rtnc (Congo)
+http://185.2.83.231:80/live/riadh/riadh12345/20207.ts
+#EXTINF:0,Af| Rts 1
+http://185.2.83.231:80/live/riadh/riadh12345/13345.ts
+#EXTINF:0,Af| Rts 2
+http://185.2.83.231:80/live/riadh/riadh12345/13346.ts
+#EXTINF:0,Af| Rwanda tv
+http://185.2.83.231:80/live/riadh/riadh12345/13347.ts
+#EXTINF:0,Af| Sen tv
+http://185.2.83.231:80/live/riadh/riadh12345/13348.ts
+#EXTINF:0,Af| Series tv
+http://185.2.83.231:80/live/riadh/riadh12345/13349.ts
+#EXTINF:0,Af| Somali africa tv4
+http://185.2.83.231:80/live/riadh/riadh12345/13350.ts
+#EXTINF:0,Af| Somali cable
+http://185.2.83.231:80/live/riadh/riadh12345/13351.ts
+#EXTINF:0,Af| Sound city tv
+http://185.2.83.231:80/live/riadh/riadh12345/13352.ts
+#EXTINF:0,Af| Southern Sudan TV
+http://185.2.83.231:80/live/riadh/riadh12345/20204.ts
+#EXTINF:0,Af| Star tv
+http://185.2.83.231:80/live/riadh/riadh12345/13353.ts
+#EXTINF:0,Af| Sudan
+http://185.2.83.231:80/live/riadh/riadh12345/20205.ts
+#EXTINF:0,Af| TV Congo
+http://185.2.83.231:80/live/riadh/riadh12345/20201.ts
+#EXTINF:0,Af| Tele congo
+http://185.2.83.231:80/live/riadh/riadh12345/13354.ts
+#EXTINF:0,Af| Teleecole
+http://185.2.83.231:80/live/riadh/riadh12345/13355.ts
+#EXTINF:0,Af| Telesud
+http://185.2.83.231:80/live/riadh/riadh12345/20202.ts
+#EXTINF:0,Af| Tfm hd
+http://185.2.83.231:80/live/riadh/riadh12345/13356.ts
+#EXTINF:0,Af| Tfm ole
+http://185.2.83.231:80/live/riadh/riadh12345/13357.ts
+#EXTINF:0,Af| Tfm regional
+http://185.2.83.231:80/live/riadh/riadh12345/13358.ts
+#EXTINF:0,Af| Tm2
+http://185.2.83.231:80/live/riadh/riadh12345/13359.ts
+#EXTINF:0,Af| Tm2 Mali
+http://185.2.83.231:80/live/riadh/riadh12345/20203.ts
+#EXTINF:0,Af| Touba monde bi
+http://185.2.83.231:80/live/riadh/riadh12345/13360.ts
+#EXTINF:0,Af| Touba tv
+http://185.2.83.231:80/live/riadh/riadh12345/13361.ts
+#EXTINF:0,Af| Tpa angola
+http://185.2.83.231:80/live/riadh/riadh12345/13362.ts
+#EXTINF:0,Af| Tv continental
+http://185.2.83.231:80/live/riadh/riadh12345/13363.ts
+#EXTINF:0,Af| Tvc news
+http://185.2.83.231:80/live/riadh/riadh12345/13364.ts
+#EXTINF:0,Af| Tvi 1 moza
+http://185.2.83.231:80/live/riadh/riadh12345/13365.ts
+#EXTINF:0,Af| Tvi 2 moza
+http://185.2.83.231:80/live/riadh/riadh12345/13366.ts
+#EXTINF:0,Af| Tvm 1
+http://185.2.83.231:80/live/riadh/riadh12345/13367.ts
+#EXTINF:0,Af| Tvm 2
+http://185.2.83.231:80/live/riadh/riadh12345/13368.ts
+#EXTINF:0,Af| Universel somali TV
+http://185.2.83.231:80/live/riadh/riadh12345/20199.ts
+#EXTINF:0,Af| Urban96 tv
+http://185.2.83.231:80/live/riadh/riadh12345/13369.ts
+#EXTINF:0,Af| Verite tv
+http://185.2.83.231:80/live/riadh/riadh12345/13370.ts
+#EXTINF:0,Af| Vox afrique french
+http://185.2.83.231:80/live/riadh/riadh12345/13371.ts
+#EXTINF:0,Af| Walf tv
+http://185.2.83.231:80/live/riadh/riadh12345/13372.ts
+#EXTINF:0,Af| Walta TV Sudan
+http://185.2.83.231:80/live/riadh/riadh12345/20197.ts
+#EXTINF:0,Af| Wazobia tv
+http://185.2.83.231:80/live/riadh/riadh12345/13373.ts
+#EXTINF:0,Af| Wisal hausa tv
+http://185.2.83.231:80/live/riadh/riadh12345/13374.ts
+#EXTINF:0,Ot| Africa24
+http://185.2.83.231:80/live/riadh/riadh12345/7039.ts
+#EXTINF:0,Ot| Cnn
+http://185.2.83.231:80/live/riadh/riadh12345/5059.ts
+#EXTINF:0,Ot| Ebc ethiopia
+http://185.2.83.231:80/live/riadh/riadh12345/980.ts
+#EXTINF:0,Ot| Eri tv eritrea
+http://185.2.83.231:80/live/riadh/riadh12345/981.ts
+#EXTINF:0,Ot| Kalsan tv somali
+http://185.2.83.231:80/live/riadh/riadh12345/877.ts
+#EXTINF:0,Ot| Kanal 4 kurd
+http://185.2.83.231:80/live/riadh/riadh12345/1063.ts
+#EXTINF:0,Ot| Sntv somali
+http://185.2.83.231:80/live/riadh/riadh12345/850.ts
+#EXTINF:0,Ot| Tchad tv
+http://185.2.83.231:80/live/riadh/riadh12345/265.ts
+#EXTINF:0,Ot| Universal somali tv
+http://185.2.83.231:80/live/riadh/riadh12345/821.ts
+#EXTINF:0,Mu| M tunisia
+http://185.2.83.231:80/live/riadh/riadh12345/5065.ts
+#EXTINF:0,Mu| M6 music
+http://185.2.83.231:80/live/riadh/riadh12345/5043.ts
+#EXTINF:0,Mu| Mtv base
+http://185.2.83.231:80/live/riadh/riadh12345/1025.ts
+#EXTINF:0,Mu| Mtv france
+http://185.2.83.231:80/live/riadh/riadh12345/946.ts
+#EXTINF:0,Mu| Non stop people hd
+http://185.2.83.231:80/live/riadh/riadh12345/1024.ts
+#EXTINF:0,Mu| Numero 23
+http://185.2.83.231:80/live/riadh/riadh12345/5051.ts
+#EXTINF:0,Mu| On tv live
+http://185.2.83.231:80/live/riadh/riadh12345/6077.ts
+#EXTINF:0,Mu| Rotana
+http://185.2.83.231:80/live/riadh/riadh12345/5062.ts
+#EXTINF:0,Mu| Rotana clip
+http://185.2.83.231:80/live/riadh/riadh12345/135.ts
+#EXTINF:0,Mu| Rotana music
+http://185.2.83.231:80/live/riadh/riadh12345/43.ts
+#EXTINF:0,Mu| Sky hits de
+http://185.2.83.231:80/live/riadh/riadh12345/13090.ts
+#EXTINF:0,Mu| Wanasa
+http://185.2.83.231:80/live/riadh/riadh12345/257.ts
