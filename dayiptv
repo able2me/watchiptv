@@ -102,3 +102,41 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1,1 CORCAS
+http://95.81.165.21/5958/index.m3u8
+#EXTINF:-1,ADTV
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:-1,ALL MUSIC
+http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:-1,Amansan TV
+rtmpt://streaming.atvgh.com:1930/live/livestream
+#EXTINF:-1,ANN7 S.Africa
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream
+#EXTINF:-1,Christian TV
+rtmp://rtmp.ottdemo.rrsat.com:1935/rrsatrtv1/rrsatrtv1
+#EXTINF:-1,Delta TV
+http://195.34.117.125:8090/live.flv
+#EXTINF:-1,DIASPORA24
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,Homebase TV
+rtmpt://streaming.atvgh.com:8000/live/livestream
+#EXTINF:-1,MAYA TV
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:-1,Mitv TV
+rtmp://38.96.175.135:1935/murhi/murhi
+#EXTINF:-1,NTA 24
+rtmp://78.129.189.30/edge3/NTA24/NTA24
+#EXTINF:-1,OGUN TV
+rtmp://77.92.76.135:1935/OGTV/livestream
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TELEBASICA
+http://162.212.176.83:8080/vicatv.m3u8
+#EXTINF:-1,TV CONTINENTAL
+rtmp://77.92.76.135:1935/tvce/livestream
+#EXTINF:-1,Tv3 rtmp
+rtmp://78.129.189.30/edge3/RLMTV/RLMTV
+#EXTINF:-1,TVC
+rtmp://77.92.76.135:1935/tvce/livestream
+#EXTINF:-1,TVC NEWS
+rtmp://77.92.76.135:1935/tvcnews/livestream
