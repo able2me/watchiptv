@@ -102,64 +102,169 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-http://diamondhttps.dnsfor.me:15800/live/me/me/15510.ts #EXTINF:-1,AF:Nollywood Movies 
-http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1199.ts #EXTINF:-1,AF:AREWA 24 NIG
-http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1160.ts #EXTINF:-1,AF:BEN TV
-#EXTINF:-1,AF: ROK TV
-http://iptvfree1.com:6969/live/Ema/Ema1234/18793.ts
-#EXTINF:-1,AF: FAME TV NIGERIA
-http://iptvfree1.com:6969/live/Ema/Ema1234/18810.ts
-#EXTINF:-1,AF: GHANA ONE
-http://iptvfree1.com:6969/live/Ema/Ema1234/18783.ts
-#EXTINF:-1,AF: NTAi ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/8193.ts
-#EXTINF:-1,AF: Nigezie TV ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/8197.ts
-#EXTINF:-1,AF: NollyWood French
-http://iptvfree1.com:6969/live/Ema/Ema1234/8196.ts
-#EXTINF:-1,AF: Nollywood Movies
-http://iptvfree1.com:6969/live/Ema/Ema1234/8195.ts
-#EXTINF:-1,AF: Kessben TV Ghana
-http://iptvfree1.com:6969/live/Ema/Ema1234/8206.ts
-#EXTINF:-1,AF: ITV ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/8212.ts
-#EXTINF:-1,AF: Joy Prime TV ( Ghana )
-http://iptvfree1.com:6969/live/Ema/Ema1234/8211.ts
-#EXTINF:-1,AF: Ben TV ( Ghana )
-http://iptvfree1.com:6969/live/Ema/Ema1234/8226.ts
-#EXTINF:-1,AF: Rok TV ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/7867.ts
-#EXTINF:-1,AF: Channels 24 TV ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/7862.ts
-#EXTINF:-1,AF: AIT International ( Nigeria )
-http://iptvfree1.com:6969/live/Ema/Ema1234/7861.ts
-#EXTINF:-1,AF: AITInt’l
-http://iptvfree1.com:6969/live/Ema/Ema1234/4333.ts
-#EXTINF:-1,AF: Joy News
-http://iptvfree1.com:6969/live/Ema/Ema1234/4402.ts
-#EXTINF:-1,AF: IL TV
-http://iptvfree1.com:6969/live/Ema/Ema1234/4331.ts
-#EXTINF:-1,AF: Gtv Sports Plus ( Ghana )
-http://iptvfree1.com:6969/live/Ema/Ema1234/4397.ts
-#EXTINF:-1,AF: NollyWood TV
-http://iptvfree1.com:6969/live/Ema/Ema1234/4400.ts
-#EXTINF:-1,AF: Adom TV
-http://iptvfree1.com:6969/live/Ema/Ema1234/4399.ts
-#EXTINF:-1,AF: GTV
-http://iptvfree1.com:6969/live/Ema/Ema1234/4398.ts
-#EXTINF:-1,AF: TV Continental Nigeria
-http://iptvfree1.com:6969/live/Ema/Ema1234/4317.ts
-#EXTINF:-1,AF: Kedu TV ( Ghana )
-http://iptvfree1.com:6969/live/Ema/Ema1234/4401.ts
-#EXTINF:-1,AF: ANN 7 South Africa
-http://iptvfree1.com:6969/live/Ema/Ema1234/8227.ts
-#EXTINF:-1,AF: IBN TV Africa
-http://iptvfree1.com:6969/live/Ema/Ema1234/8214.ts
-#EXTINF:-1,AF: Trace Africa
-http://iptvfree1.com:6969/live/Ema/Ema1234/8176.ts
-#EXTINF:-1,AF: Rave TV (Nigeria)
-http://iptvfree1.com:6969/live/Ema/Ema1234/4328.ts
-#EXTINF:-1,AF: ZTV Ghana
-http://iptvfree1.com:6969/live/Ema/Ema1234/4312.ts
-#EXTINF:-1,AF: Vox Africa
-http://iptvfree1.com:6969/live/Ema/Ema1234/4314.ts
+#EXTINF:-1,AF:Adom TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1179.ts
+#EXTINF:-1,AF:AF TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1188.ts
+#EXTINF:-1,AF:AFRICA TV 1
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1192.ts
+#EXTINF:-1,AF:AFRICA TV 2
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1191.ts
+#EXTINF:-1,AF:AFRICA TV 3
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1190.ts
+#EXTINF:-1,AF:AFRICA TV 4
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1189.ts
+#EXTINF:-1,AF:AIT NEWS TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1169.ts
+#EXTINF:-1,AF:ALMURITANYA TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1193.ts
+#EXTINF:-1,AF:ALSHOUROK SUDAN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1201.ts
+#EXTINF:-1,AF:ANGAM SUDAN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1199.ts
+#EXTINF:-1,AF:AREWA 24 NIG
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1160.ts
+#EXTINF:-1,AF:BEN TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1186.ts
+#EXTINF:-1,AF:BLUE NILE
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1197.ts
+#EXTINF:-1,AF:CANAL CVV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1170.ts
+#EXTINF:-1,AF:CBC TV 8
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1149.ts
+#EXTINF:-1,AF:CNBC AFRICA
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1176.ts
+#EXTINF:-1,AF:Congo TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1148.ts
+#EXTINF:-1,AF:D 24
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1140.ts
+#EXTINF:-1,AF:D TV SEN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1181.ts
+#EXTINF:-1,AF:DAF
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1158.ts
+#EXTINF:-1,AF:Diaspora24
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1147.ts
+#EXTINF:-1,AF:DJIBOUTI
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1194.ts
+#EXTINF:-1,AF:DOVE TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1155.ts
+#EXTINF:-1,AF:EBC 2
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1153.ts
+#EXTINF:-1,AF:EBC ETHIOPIA
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1171.ts
+#EXTINF:-1,AF:ELSHADADI ETHIO
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1167.ts
+#EXTINF:-1,AF:EMMANUEL TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1136.ts
+#EXTINF:-1,AF:ERI TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1195.ts
+#EXTINF:-1,AF:ESPACE GE
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1185.ts
+#EXTINF:-1,AF:ESTV TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1532.ts
+#EXTINF:-1,AF:ETN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1157.ts
+#EXTINF:-1,AF:FUSION PLUS TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1165.ts
+#EXTINF:-1,AF:GHTV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1152.ts
+#EXTINF:-1,AF:GOD TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1164.ts
+#EXTINF:-1,AF:HC SOM
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1528.ts
+#EXTINF:-1,AF:HCTV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1527.ts
+#EXTINF:-1,AF:HIDAAYA TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1524.ts
+#EXTINF:-1,AF:IBN 7
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1175.ts
+#EXTINF:-1,AF:IBN TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1154.ts
+#EXTINF:-1,AF:IMACT TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1156.ts
+#EXTINF:-1,AF:KALSAN TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1536.ts
+#EXTINF:-1,AF:KANA ETHIO
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1168.ts
+#EXTINF:-1,AF:KINGDOOM TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1159.ts
+#EXTINF:-1,AF:KTN TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1173.ts
+#EXTINF:-1,AF:LAGOS
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1174.ts
+#EXTINF:-1,AF:MOURIDE TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1180.ts
+#EXTINF:-1,AF:NBS UGANDA
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1163.ts
+#EXTINF:-1,AF:NEWS TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1137.ts
+#EXTINF:-1,AF:NOLLYWOOD HD
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1187.ts
+#EXTINF:-1,AF:NTV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1172.ts
+#EXTINF:-1,AF:OMDARMAN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1196.ts
+#EXTINF:-1,AF:ORTB
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1151.ts
+#EXTINF:-1,AF:ORTM MALI
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1166.ts
+#EXTINF:-1,AF:Rave TV (Nigeria)
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1143.ts
+#EXTINF:-1,AF:ROYAL TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1526.ts
+#EXTINF:-1,AF:Rsatr TV 1
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1135.ts
+#EXTINF:-1,AF:Rtb
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1150.ts
+#EXTINF:-1,AF:RTI 1
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1178.ts
+#EXTINF:-1,AF:RTI1 TV Cote D’ivoir
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1142.ts
+#EXTINF:-1,AF:RTI2 TV Cote D’ivoir
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1141.ts
+#EXTINF:-1,AF:RTS1 SEN HD
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1183.ts
+#EXTINF:-1,AF:RTV Rwanda
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1139.ts
+#EXTINF:-1,AF:SBC TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1529.ts
+#EXTINF:-1,AF:SBS TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1530.ts
+#EXTINF:-1,AF:SLNTV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1533.ts
+#EXTINF:-1,AF: https://www.tvonlinestreams.com
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1531.ts
+#EXTINF:-1,AF:SOMALI CABLE
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1534.ts
+#EXTINF:-1,AF:STAR TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1525.ts
+#EXTINF:-1,AF:Sudan 24
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1203.ts
+#EXTINF:-1,AF:SUDAN DRAMA
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1202.ts
+#EXTINF:-1,AF:SUDAN SPORT
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1198.ts
+#EXTINF:-1,AF:Sudan TAYBAH TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1200.ts
+#EXTINF:-1,AF:SUDAN TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1204.ts
+#EXTINF:-1,AF:TELE MANA MAPUTO
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1162.ts
+#EXTINF:-1,AF:TFM SENEGAL
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1182.ts
+#EXTINF:-1,AF:TPA Angola
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1138.ts
+#EXTINF:-1,AF:TV SEN
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1184.ts
+#EXTINF:-1,AF:TVC NEWS NIG
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1161.ts
+#EXTINF:-1,AF:TVGE TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1145.ts
+#EXTINF:-1,AF:UNIVERSEL TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1535.ts
+#EXTINF:-1,AF:Walf TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1146.ts
+#EXTINF:-1,AF:ZIMBO TV
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1177.ts
+#EXTINF:-1,AF:ZTV Ghana
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1144.ts
