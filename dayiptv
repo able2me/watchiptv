@@ -102,41 +102,64 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1,1 CORCAS
-http://95.81.165.21/5958/index.m3u8
-#EXTINF:-1,ADTV
-http://162.212.176.83:8080/mystream1.m3u8
-#EXTINF:-1,ALL MUSIC
-http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:-1,Amansan TV
-rtmpt://streaming.atvgh.com:1930/live/livestream
-#EXTINF:-1,ANN7 S.Africa
-rtmp://46.4.25.213/live-ann7/ann7-mid.stream
-#EXTINF:-1,Christian TV
-rtmp://rtmp.ottdemo.rrsat.com:1935/rrsatrtv1/rrsatrtv1
-#EXTINF:-1,Delta TV
-http://195.34.117.125:8090/live.flv
-#EXTINF:-1,DIASPORA24
-rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
-#EXTINF:-1,Homebase TV
-rtmpt://streaming.atvgh.com:8000/live/livestream
-#EXTINF:-1,MAYA TV
-http://162.212.176.83:8080/mayatv.m3u8
-#EXTINF:-1,Mitv TV
-rtmp://38.96.175.135:1935/murhi/murhi
-#EXTINF:-1,NTA 24
-rtmp://78.129.189.30/edge3/NTA24/NTA24
-#EXTINF:-1,OGUN TV
-rtmp://77.92.76.135:1935/OGTV/livestream
-#EXTINF:-1,SULAVISION
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,TELEBASICA
-http://162.212.176.83:8080/vicatv.m3u8
-#EXTINF:-1,TV CONTINENTAL
-rtmp://77.92.76.135:1935/tvce/livestream
-#EXTINF:-1,Tv3 rtmp
-rtmp://78.129.189.30/edge3/RLMTV/RLMTV
-#EXTINF:-1,TVC
-rtmp://77.92.76.135:1935/tvce/livestream
-#EXTINF:-1,TVC NEWS
-rtmp://77.92.76.135:1935/tvcnews/livestream
+http://diamondhttps.dnsfor.me:15800/live/me/me/15510.ts #EXTINF:-1,AF:Nollywood Movies 
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1199.ts #EXTINF:-1,AF:AREWA 24 NIG
+http://62.210.245.235:25461/live/arabcast/QBGKemuZwH/1160.ts #EXTINF:-1,AF:BEN TV
+#EXTINF:-1,AF: ROK TV
+http://iptvfree1.com:6969/live/Ema/Ema1234/18793.ts
+#EXTINF:-1,AF: FAME TV NIGERIA
+http://iptvfree1.com:6969/live/Ema/Ema1234/18810.ts
+#EXTINF:-1,AF: GHANA ONE
+http://iptvfree1.com:6969/live/Ema/Ema1234/18783.ts
+#EXTINF:-1,AF: NTAi ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/8193.ts
+#EXTINF:-1,AF: Nigezie TV ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/8197.ts
+#EXTINF:-1,AF: NollyWood French
+http://iptvfree1.com:6969/live/Ema/Ema1234/8196.ts
+#EXTINF:-1,AF: Nollywood Movies
+http://iptvfree1.com:6969/live/Ema/Ema1234/8195.ts
+#EXTINF:-1,AF: Kessben TV Ghana
+http://iptvfree1.com:6969/live/Ema/Ema1234/8206.ts
+#EXTINF:-1,AF: ITV ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/8212.ts
+#EXTINF:-1,AF: Joy Prime TV ( Ghana )
+http://iptvfree1.com:6969/live/Ema/Ema1234/8211.ts
+#EXTINF:-1,AF: Ben TV ( Ghana )
+http://iptvfree1.com:6969/live/Ema/Ema1234/8226.ts
+#EXTINF:-1,AF: Rok TV ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/7867.ts
+#EXTINF:-1,AF: Channels 24 TV ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/7862.ts
+#EXTINF:-1,AF: AIT International ( Nigeria )
+http://iptvfree1.com:6969/live/Ema/Ema1234/7861.ts
+#EXTINF:-1,AF: AITInt’l
+http://iptvfree1.com:6969/live/Ema/Ema1234/4333.ts
+#EXTINF:-1,AF: Joy News
+http://iptvfree1.com:6969/live/Ema/Ema1234/4402.ts
+#EXTINF:-1,AF: IL TV
+http://iptvfree1.com:6969/live/Ema/Ema1234/4331.ts
+#EXTINF:-1,AF: Gtv Sports Plus ( Ghana )
+http://iptvfree1.com:6969/live/Ema/Ema1234/4397.ts
+#EXTINF:-1,AF: NollyWood TV
+http://iptvfree1.com:6969/live/Ema/Ema1234/4400.ts
+#EXTINF:-1,AF: Adom TV
+http://iptvfree1.com:6969/live/Ema/Ema1234/4399.ts
+#EXTINF:-1,AF: GTV
+http://iptvfree1.com:6969/live/Ema/Ema1234/4398.ts
+#EXTINF:-1,AF: TV Continental Nigeria
+http://iptvfree1.com:6969/live/Ema/Ema1234/4317.ts
+#EXTINF:-1,AF: Kedu TV ( Ghana )
+http://iptvfree1.com:6969/live/Ema/Ema1234/4401.ts
+#EXTINF:-1,AF: ANN 7 South Africa
+http://iptvfree1.com:6969/live/Ema/Ema1234/8227.ts
+#EXTINF:-1,AF: IBN TV Africa
+http://iptvfree1.com:6969/live/Ema/Ema1234/8214.ts
+#EXTINF:-1,AF: Trace Africa
+http://iptvfree1.com:6969/live/Ema/Ema1234/8176.ts
+#EXTINF:-1,AF: Rave TV (Nigeria)
+http://iptvfree1.com:6969/live/Ema/Ema1234/4328.ts
+#EXTINF:-1,AF: ZTV Ghana
+http://iptvfree1.com:6969/live/Ema/Ema1234/4312.ts
+#EXTINF:-1,AF: Vox Africa
+http://iptvfree1.com:6969/live/Ema/Ema1234/4314.ts
