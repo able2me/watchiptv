@@ -102,15 +102,267 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1,CHANNEL TELEVISION - Nigeria
-http://51.15.5.115:8000/live/AFRICA/AFRICA/10.ts
-#EXTINF:-1,ADOM TV
-http://51.15.5.115:8000/live/AFRICA/AFRICA/6.ts
-#EXTINF:-1,JOYS NEWS
-http://51.15.5.115:8000/live/AFRICA/AFRICA/7.ts
-#EXTINF:-1,SABC News
-http://51.15.5.115:8000/live/AFRICA/AFRICA/11.ts
-#EXTINF:-1,Africanews English
-http://51.15.5.115:8000/live/AFRICA/AFRICA/13.ts
-#EXTINF:-1,Arise News
-http://51.15.5.115:8000/live/AFRICA/AFRICA/19.ts
+#EXTINF:-1,AF: Erbu Africa
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74248.ts
+#EXTINF:-1,AF: A2i TV ( Senegal )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74247.ts
+#EXTINF:-1,AF: Aci TV ( OM5 TV )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74246.ts
+#EXTINF:-1,AF: Adom TV (Ghana)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74284.ts
+#EXTINF:-1,AF: AFRICA 24
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74265.ts
+#EXTINF:-1,AF: Africa Today TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74245.ts
+#EXTINF:-1,AF: Africa TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74244.ts
+#EXTINF:-1,AF: Africa TV 2
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74243.ts
+#EXTINF:-1,AF: Africa TV 3
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74242.ts
+#EXTINF:-1,AF: Africable
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74264.ts
+#EXTINF:-1,AF: Africa wood TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74251.ts
+#EXTINF:-1,AF: AIT International ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74263.ts
+#EXTINF:-1,AF: AITInt’l
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74274.ts
+#EXTINF:-1,AF: Amazing Discoveries TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74241.ts
+#EXTINF:-1,AF: ANN 7 South Africa
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74240.ts
+#EXTINF:-1,AF: Ben TV ( Ghana )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74239.ts
+#EXTINF:-1,AF: Burkina Info ( Burkina Faso )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74262.ts
+#EXTINF:-1,AF: Canal 2 Infos Cameroun
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74238.ts
+#EXTINF:-1,AF: CANAL 225 ( BENIN )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74261.ts
+#EXTINF:-1,AF: CBC TV 8
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74297.ts
+#EXTINF:-1,AF: Channels 24 TV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74260.ts
+#EXTINF:-1,AF: Cherifa TV ( Mali )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74252.ts
+#EXTINF:-1,AF: Cinestream TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74237.ts
+#EXTINF:-1,AF: CNA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74236.ts
+#EXTINF:-1,AF: Congo TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74291.ts
+#EXTINF:-1,AF: CRTV TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74272.ts
+#EXTINF:-1,AF: D24
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74235.ts
+#EXTINF:-1,AF: DABANGA SUDAN
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74293.ts
+#EXTINF:-1,AF: DBS TV ( Cameroun )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74234.ts
+#EXTINF:-1,AF: Dunamis tv ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74233.ts
+#EXTINF:-1,AF: EBC ETHIOPIA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74275.ts
+#EXTINF:-1,AF: EBC2 TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74232.ts
+#EXTINF:-1,AF: Emmanuel TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74231.ts
+#EXTINF:-1,AF: ENN
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74259.ts
+#EXTINF:-1,AF: Equinoxe
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74271.ts
+#EXTINF:-1,AF: Eri TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74230.ts
+#EXTINF:-1,AF: Espace TV ( Guinee )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74258.ts
+#EXTINF:-1,AF: Francophonie 24
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74229.ts
+#EXTINF:-1,AF: GRTS ( Gambia )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74228.ts
+#EXTINF:-1,AF: GTV (Ghana)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74296.ts
+#EXTINF:-1,AF: Gtv Sports Plus ( Ghana )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74276.ts
+#EXTINF:-1,AF: IBN TV Africa
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74227.ts
+#EXTINF:-1,AF: IL TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74277.ts
+#EXTINF:-1,AF: Impact TV (Burkina Faso)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74226.ts
+#EXTINF:-1,AF: ITV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74225.ts
+#EXTINF:-1,AF: Joy News (Ghana)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74278.ts
+#EXTINF:-1,AF: Joy Prime TV ( Ghana )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74224.ts
+#EXTINF:-1,AF: Juice TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74223.ts
+#EXTINF:-1,AF: K24 TV ( Kenya )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74222.ts
+#EXTINF:-1,AF: K24 TV Kenya
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74221.ts
+#EXTINF:-1,AF: KALSAN TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74304.ts
+#EXTINF:-1,AF: KBC1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74220.ts
+#EXTINF:-1,AF: Kedu TV ( Ghana )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74307.ts
+#EXTINF:-1,AF: Kessben TV Ghana
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74219.ts
+#EXTINF:-1,AF: Lamp Fall TV (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74257.ts
+#EXTINF:-1,AF: LIBERATION TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74279.ts
+#EXTINF:-1,AF: Loveworld Plus TV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74218.ts
+#EXTINF:-1,AF: Maisha TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74270.ts
+#EXTINF:-1,AF: MaishaI TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74217.ts
+#EXTINF:-1,AF: ManaSat MZ ( Mozambique )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74216.ts
+#EXTINF:-1,AF: Mourchid TV (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74215.ts
+#EXTINF:-1,AF: Mouridiyah tv (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74214.ts
+#EXTINF:-1,AF: Music TV Singhal
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74213.ts
+#EXTINF:-1,AF: Ndiouroul TV ( Senegal )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74212.ts
+#EXTINF:-1,AF: Neem TV Congo
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74211.ts
+#EXTINF:-1,AF: Nigezie TV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74210.ts
+#EXTINF:-1,AF: Nikadys TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74250.ts
+#EXTINF:-1,AF: NollyWood French
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74209.ts
+#EXTINF:-1,AF: Nollywood Movies
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74208.ts
+#EXTINF:-1,AF: NollyWood TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74280.ts
+#EXTINF:-1,AF: Novelas TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74207.ts
+#EXTINF:-1,AF: NTAi ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74206.ts
+#EXTINF:-1,AF: NTV ( Uganda )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74205.ts
+#EXTINF:-1,AF: Ole Tfm
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74204.ts
+#EXTINF:-1,AF: Oromia Sudan
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74203.ts
+#EXTINF:-1,AF: Ortb TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74314.ts
+#EXTINF:-1,AF: ORTM AFRICA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74281.ts
+#EXTINF:-1,AF: ORTM TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74318.ts
+#EXTINF:-1,AF: Qacaid TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74202.ts
+#EXTINF:-1,AF: Rave TV (Nigeria)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74320.ts
+#EXTINF:-1,AF: Rok TV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74256.ts
+#EXTINF:-1,AF: Royal TV Somali
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74201.ts
+#EXTINF:-1,AF: Rtb
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74295.ts
+#EXTINF:-1,AF: RTI 1
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74282.ts
+#EXTINF:-1,AF: RTI LA PREMIERE
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74283.ts
+#EXTINF:-1,AF: RTI1 TV Cote D’ivoir
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74290.ts
+#EXTINF:-1,AF: RTI2 TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74285.ts
+#EXTINF:-1,AF: RTI2 TV ( Cote d’Ivoir )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74200.ts
+#EXTINF:-1,AF: RTI2 TV Cote D’ivoir
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74286.ts
+#EXTINF:-1,AF: RTN TV ( Gabon )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74199.ts
+#EXTINF:-1,AF: RTNC
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74269.ts
+#EXTINF:-1,AF: RTS 1 AFRICA
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74287.ts
+#EXTINF:-1,AF: RTS1 Senegal
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74289.ts
+#EXTINF:-1,AF: RTS2 (SN2) (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74288.ts
+#EXTINF:-1,AF: RTV Rwanda
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74292.ts
+#EXTINF:-1,AF: Rwanda tv
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74198.ts
+#EXTINF:-1,AF: SBC ( Somalia )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74255.ts
+#EXTINF:-1,AF: Sen TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74302.ts
+#EXTINF:-1,AF: SIKKA TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74294.ts
+#EXTINF:-1,AF: SNTV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74303.ts
+#EXTINF:-1,AF: SOMALI CABLE
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74273.ts
+#EXTINF:-1,AF: Sudan Drama
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74301.ts
+#EXTINF:-1,AF: Tafawoq
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74305.ts
+#EXTINF:-1,AF: Tchad TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74197.ts
+#EXTINF:-1,AF: TCV Cape Verde
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74196.ts
+#EXTINF:-1,AF: Tele Congo
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74195.ts
+#EXTINF:-1,AF: Tele Djibouti
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74194.ts
+#EXTINF:-1,AF: Tele Sahel ( Niger )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74193.ts
+#EXTINF:-1,AF: Tele sud
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74309.ts
+#EXTINF:-1,AF: TFM (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74298.ts
+#EXTINF:-1,AF: TFM OLE ( Senegal )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74192.ts
+#EXTINF:-1,AF: TFM Religions
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74191.ts
+#EXTINF:-1,AF: TFM SENEGAL
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74300.ts
+#EXTINF:-1,AF: Tm2 TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74312.ts
+#EXTINF:-1,AF: Touba Mondebi
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74190.ts
+#EXTINF:-1,AF: TOUBA TV (Senegal)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74254.ts
+#EXTINF:-1,AF: TPA Angola
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74299.ts
+#EXTINF:-1,AF: Trace Africa
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74189.ts
+#EXTINF:-1,AF: TV Continental Nigeria
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74306.ts
+#EXTINF:-1,AF: TV Mana
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74188.ts
+#EXTINF:-1,AF: TV Mana-Maputo
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74187.ts
+#EXTINF:-1,AF: TV3 Live (Ghana)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74253.ts
+#EXTINF:-1,AF: TVC News ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74186.ts
+#EXTINF:-1,AF: Tvs1 TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74308.ts
+#EXTINF:-1,AF: TVT International ( Togo )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74268.ts
+#EXTINF:-1,AF: Universal TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74311.ts
+#EXTINF:-1,AF: UNIVERSEL SOMALI TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74310.ts
+#EXTINF:-1,AF: Vox Africa
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74317.ts
+#EXTINF:-1,AF: Walf TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74315.ts
+#EXTINF:-1,AF: WAP TV ( Nigeria )
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74249.ts
+#EXTINF:-1,AF: Wazobia TV
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74316.ts
+#EXTINF:-1,AF: ZTV Ghana (Ghana IPTV)
+http://bclivezone.xyz:25461/live/Gaga/Gaga/74319.ts
