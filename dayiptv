@@ -102,17 +102,7 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:0 group-title="(AFR) Africa",PT RTP | SD
-http://163.172.222.83:8100/live/amir/123456789/3248.m3u8
 #EXTINF:0 group-title="(AFR) Africa",PT TV-MIRMAR | SD
 http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
-#EXTINF:0 group-title="(AFR) Africa",RTP | SD
-http://94.23.21.201:8080/live/ilidio/ilidio/518.m3u8
-#EXTINF:0 group-title="(AFR) Africa",RTP (1+) | SD
-http://painel.soeu.kim:8080/live/castro/castro/518.m3u8
 #EXTINF:0 group-title="(AFR) Africa",RTV | SD
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-#EXTINF:0 group-title="(AFR) Africa",SLNTV | SD
-http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TPA | SD
-http://194.88.107.95:6204/live/Abas/Abas/8798.m3u8
