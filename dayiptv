@@ -168,3 +168,13 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,ROK
+http://217.33.10.154:8000/play/a020/index.m3u8
+#EXTINF:-1,BEN
+http://217.33.10.154:8000/play/a01k/index.m3u8
+#EXTINF:-1,ABN TV
+http://217.33.10.154:8000/play/a00l/index.m3u8
+#EXTINF:-1,AIT Int’l
+http://217.33.10.154:8000/play/a00j/index.m3u8
+#EXTINF:-1,TVT International
+http://217.33.10.154:8000/play/a00m/index.m3u8
