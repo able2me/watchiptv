@@ -34,12 +34,6 @@ http://163.172.222.83:8100/live/amir/123456789/34.m3u8
 http://194.88.107.95:6204/live/Abas/Abas/8332.m3u8
 #EXTINF:0 group-title="(CZ) Czech Republic",RETRO MUSIC TV (1+) | SD (CZ)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE AFRICA | SD (FR)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE KITOKO | SD (FR)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:0 group-title="(GR) Greece",1MUSIC CHANNEL | SD (GR)
 http://1music.hu/1music.m3u8
 #EXTINF:0 group-title="(IN) India",CAPCO MUSIC | SD (IN)
@@ -108,3 +102,69 @@ http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 #EXTINF:-1,DIASPORA24
 rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,trace_tropical 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/1/prog_index.m3u8
+#EXTINF:-1,trace_africa 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+#EXTINF:-1,trace_toca 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/1/prog_index.m3u8
+#EXTINF:-1,trace_naija 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
+#EXTINF:-1,trace_mziki 320
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8﻿﻿
+#EXTINF:-1,trace_kitoko 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
+#EXTINF:-1,trace_tropical 424
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/2/prog_index.m3u8
+#EXTINF:-1,trace_africa 424
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/2/prog_index.m3u8
+#EXTINF:-1,trace_toca 424
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/2/prog_index.m3u8
+#EXTINF:-1,trace_naija 424
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/2/prog_index.m3u8
+#EXTINF:-1,trace_mziki 424
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/2/prog_index.m3u8﻿﻿
+#EXTINF:-1,trace_kitoko 424
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/2/prog_index.m3u8
+#EXTINF:-1,trace_tropical 640
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/3/prog_index.m3u8
+#EXTINF:-1,trace_africa 640
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/3/prog_index.m3u8
+#EXTINF:-1,trace_toca 640
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/3/prog_index.m3u8
+#EXTINF:-1,trace_naija 640
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/3/prog_index.m3u8
+#EXTINF:-1,trace_mziki 640
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/3/prog_index.m3u8﻿﻿
+#EXTINF:-1,trace_kitoko 640
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/3/prog_index.m3u8
+#EXTINF:-1,trace_tropical 848
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
+#EXTINF:-1,trace_africa 848
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
+#EXTINF:-1,trace_toca 848
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
+#EXTINF:-1,trace_naija 848
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
+#EXTINF:-1,trace_mziki 848
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8﻿﻿
+#EXTINF:-1,trace_kitoko 848
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
+#EXTINF:-1,trace_tropical 960
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+#EXTINF:-1,trace_africa 960
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
+#EXTINF:-1,trace_toca 960
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1,trace_naija 960
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/5/prog_index.m3u8
+#EXTINF:-1,trace_mziki 960
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8﻿﻿
+#EXTINF:-1,trace_kitoko 960
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
+#EXTINF:0 group-title="(FR) France",TRACE AFRICA | SD (FR)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:0 group-title="(FR) France",TRACE KITOKO | SD (FR)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
