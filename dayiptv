@@ -168,3 +168,72 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTM3U
+#EXTINF:-1,AF:Ashoroqq (Sudan)
+http://190.2.152.168:9000/live/1234/1234567/12791.ts
+#EXTINF:-1,AF:Dabanga (Sudan)
+http://190.2.152.168:9000/live/1234/1234567/12790.ts
+#EXTINF:-1,AF:Sudan TV (Somalia)
+http://190.2.152.168:9000/live/1234/1234567/12789.ts
+#EXTINF:-1,AF:ETV (Somalia)
+http://190.2.152.168:9000/live/1234/1234567/12785.ts
+#EXTINF:-1,AF:Somaliland Nationa TV (Somalia)
+http://190.2.152.168:9000/live/1234/1234567/12784.ts
+#EXTINF:-1,AF:UNIVERSAL TV (Somalia)
+http://190.2.152.168:9000/live/1234/1234567/12787.ts
+#EXTINF:-1,AF:Walf_TV_Senegal
+http://190.2.152.168:9000/live/1234/1234567/12780.ts
+#EXTINF:-1,AF:Music_TV_Senegal
+http://190.2.152.168:9000/live/1234/1234567/12776.ts
+#EXTINF:-1,AF:SEN_TV_Senegal
+http://190.2.152.168:9000/live/1234/1234567/12779.ts
+#EXTINF:-1,AF:NTA TV Nigeria
+http://190.2.152.168:9000/live/1234/1234567/12768.ts
+#EXTINF:-1,AF:Adom_Ghana
+http://190.2.152.168:9000/live/1234/1234567/12769.ts
+#EXTINF:-1,AF:Burkina Info
+http://190.2.152.168:9000/live/1234/1234567/12767.ts
+#EXTINF:-1,AF:Wazobia TV
+http://190.2.152.168:9000/live/1234/1234567/12764.ts
+#EXTINF:-1,AF:ORTM_Mali
+http://190.2.152.168:9000/live/1234/1234567/12774.ts
+#EXTINF:-1,AF:Africa TV 1
+http://190.2.152.168:9000/live/1234/1234567/12763.ts
+#EXTINF:-1,AF:TVC
+http://190.2.152.168:9000/live/1234/1234567/12756.ts
+#EXTINF:-1,AF:a21 tv
+http://190.2.152.168:9000/live/1234/1234567/14710.ts
+#EXTINF:-1,AF:cb24
+http://190.2.152.168:9000/live/1234/1234567/14742.ts
+#EXTINF:-1,AF:Chosen  tv
+http://190.2.152.168:9000/live/1234/1234567/14730.ts
+#EXTINF:-1,AF:dbm
+http://190.2.152.168:9000/live/1234/1234567/14691.ts
+#EXTINF:-1,AF:DiaSpora 24 TV
+http://190.2.152.168:9000/live/1234/1234567/14705.ts
+#EXTINF:-1,AF:Dove TV
+http://190.2.152.168:9000/live/1234/1234567/14729.ts
+#EXTINF:-1,AF:dunamisgospel
+http://190.2.152.168:9000/live/1234/1234567/14728.ts
+#EXTINF:-1,AF:en tv
+http://190.2.152.168:9000/live/1234/1234567/14712.ts
+#EXTINF:-1,AF:Impact Tele Live
+http://190.2.152.168:9000/live/1234/1234567/14719.ts
+#EXTINF:-1,AF:impacttele
+http://190.2.152.168:9000/live/1234/1234567/14740.ts
+#EXTINF:-1,AF:kalsan tv
+http://190.2.152.168:9000/live/1234/1234567/14684.ts
+#EXTINF:-1,AF:manasat
+http://190.2.152.168:9000/live/1234/1234567/14732.ts
+#EXTINF:-1,AF:my pcc
+http://190.2.152.168:9000/live/1234/1234567/14737.ts
+#EXTINF:-1,AF:reba tv
+http://190.2.152.168:9000/live/1234/1234567/14685.ts
+#EXTINF:-1,AF:rtv
+http://190.2.152.168:9000/live/1234/1234567/14735.ts
+#EXTINF:-1,AF:sbc
+http://190.2.152.168:9000/live/1234/1234567/14689.ts
+#EXTINF:-1,AF:TVC Entertainment
+http://190.2.152.168:9000/live/1234/1234567/14723.ts
+#EXTINF:-1,AF:ubn
+http://190.2.152.168:9000/live/1234/1234567/14713.ts
