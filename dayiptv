@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:0 group-title="(UK) United Kingdom",EURONEWS | SD (UK)
+http://61.58.60.230:9000/live/129.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE NEWS NOW | SD (UK)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY NEWS | SD (UK)
+#EXTINF:0 group-title="(US) United States",ABC (1+) | SD (US)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0 group-title="(US) United States",BLOOMBERG TV | SD (US)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 group-title="(US) United States",BOSTON 25 NEWS MASSACHUSETTS | SD (US)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:0 group-title="(US) United States",CNEWS | SD (US)
+http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
+#EXTINF:0 group-title="(US) United States",CNN | HD (US)
+http://194.88.107.95:6204/live/Abas/Abas/10428.m3u8
+#EXTINF:0 group-title="(US) United States",FACTV COMMUNITY | SD (US)
+http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 group-title="(US) United States",FACTV GOVERNMENT | SD (US)
+http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 group-title="(WW) World Wide",BBC NEWS | SD (WW)
+http://jabber.divan.tv:8009/tv.m3u8
+#EXTINF:0 group-title="(WW) World Wide",CNBC | SD (WW)
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BERERE MUSIC | SD (AR)
+http://163.172.222.83:8100/live/amir/123456789/2982.m3u8
+#EXTINF:0 group-title="(AR) Arabia",HIT MUSIC CHANNEL | SD (AR)
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MELODY CLASSIC | SD (AR)
+http://163.172.222.83:8100/live/amir/123456789/2695.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MUSIC | SD (AR)
+http://163.172.222.83:8100/live/amir/123456789/34.m3u8
+#EXTINF:0 group-title="(CZ) Czech Republic",RETRO MUSIC TV | SD (CZ)
+http://194.88.107.95:6204/live/Abas/Abas/8332.m3u8
+#EXTINF:0 group-title="(CZ) Czech Republic",RETRO MUSIC TV (1+) | SD (CZ)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 group-title="(GR) Greece",1MUSIC CHANNEL | SD (GR)
+http://1music.hu/1music.m3u8
+#EXTINF:0 group-title="(IN) India",CAPCO MUSIC | SD (IN)
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0 group-title="(IN) India",JHANJAR MUSIC | SD (IN)
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0 group-title="(MX) Mexico",MELODY CHANNEL | SD (MX)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 group-title="(MX) Mexico",RADIO 88 STEREO | SD (MX)
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ZOL FM | SD (MX)
+http://ss6.domint.net:1948/zol_str/vzol/chunklist_w745366436.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MTV (1+) | SD (PT)
+http://142.44.215.45:25461/live/11953983104/S6AU1f120f/101856.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MUSIC BRAZIL | SD (EX-YU)
+http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
+#EXTINF:0 group-title="(UA) Ukraine",MUSIC BOX | SD (UA)
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0 group-title="(UA) Ukraine",O TV MUSIC | SD (UA)
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:0 group-title="(UA) Ukraine",TV FM | SD (UA)
+http://193.238.110.158:8080/hq.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA | SD (AR)
+http://163.172.222.83:8100/live/amir/123456789/31.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA EGY | SD (EGY)
+http://185.53.163.220:2015/live/280690/280690/34837.m3u8
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 1 | SD (BE)
+http://163.172.222.83:8100/live/amir/123456789/2396.m3u8
+#EXTINF:0 group-title="(BE) Belgium",CINEMA 2 | SD (BE)
+http://163.172.222.83:8100/live/amir/123456789/2397.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISNEY CINEMAGIC | SD (DE)
+http://194.88.107.95:6204/live/Abas/Abas/12270.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE CINEMALU | SD (IN)
+http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="(MX) Mexico",TROLLS 2016 | SD (MX)
+https://bobmovies.net/hl/Trolls20161080pBluRayx264DTSJYK.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TELECINE ACTION | HD (PT)
+http://painel1.diamanteiptv.top:25461/live/11953983104/S6AU1f120f/101769.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TELECINE PIPOCA | HD (PT)
+http://painel1.diamanteiptv.top:25461/live/11953983104/S6AU1f120f/101759.m3u8
+#EXTINF:0 group-title="(PT) Portugal",TELECINE PIPOCA (1+) | HD (PT)
+http://painel1.diamanteiptv.top:25461/live/11953983104/S6AU1f120f/101760.m3u8
+#EXTINF:0 group-title="(SP) Spain",M DCINE | SD (SP)
+http://163.172.222.83:8100/live/amir/123456789/641.m3u8
+#EXTINF:0 group-title="(SP) Spain",PARAMOUNT | SD (SP)
+http://163.172.222.83:8100/live/amir/123456789/2352.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES THRILLER | HD (UK)
+http://185.53.163.220:2015/live/280690/280690/22742.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 2 | SD (UK)
+http://185.53.163.220:2015/live/280690/280690/7694.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | SD (UK)
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA (1+) | SD (UK)
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="(US) United States",FOX PREMIUM CINEMA | SD (US)
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES | SD (US)
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 group-title="(US) United States",FOX PREMIUM MOVIES UAE | SD (US)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:0 group-title="(AFR) Africa",PT TV-MIRMAR | SD
 http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
 #EXTINF:0 group-title="(AFR) Africa",RTV | SD
@@ -71,13 +168,4 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,ROK
-http://217.33.10.154:8000/play/a020/index.m3u8
-#EXTINF:-1,BEN
-http://217.33.10.154:8000/play/a01k/index.m3u8
-#EXTINF:-1,ABN TV
-http://217.33.10.154:8000/play/a00l/index.m3u8
-#EXTINF:-1,AIT Int’l
-http://217.33.10.154:8000/play/a00j/index.m3u8
-#EXTINF:-1,TVT International
-http://217.33.10.154:8000/play/a00m/index.m3u8
+
