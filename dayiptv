@@ -168,4 +168,69 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,AF: EBRU AFRICA
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/2066.ts
+#EXTINF:-1,AF: NTV - KENYA
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/2067.ts
+#EXTINF:-1,AF: Francophonie Tv
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/131.ts
+#EXTINF:-1,AF: Rwanda TV
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/81.ts
+#EXTINF:-1,AF: CANAL 3  WAAMA - BENIN
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/133.ts
+#EXTINF:-1,AF: Africa TV1
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/114.ts
+#EXTINF:-1,AF: Africa TV2
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/181.ts
+#EXTINF:-1,AF: Africa TV3
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/176.ts
+#EXTINF:-1,AF: Africa TV4
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/152.ts
+#EXTINF:-1,AF: CHANNEL 24 - NIGERIA
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/97.ts
+#EXTINF:-1,AF: Biafra 1 - Nigeria
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/150.ts
+#EXTINF:-1,AF: Biafra 2 - Nigeria
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/159.ts
+#EXTINF:-1,AF: Biafra TV 3 - Nigeria
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/149.ts
+#EXTINF:-1,AF: Biafra TV 4 - Nigeria
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/275.ts
+#EXTINF:-1,AF: NTAI - NiGERIA
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/148.ts
+#EXTINF:-1,AF: ADOM - Ghana
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/258.ts
+#EXTINF:-1,AF: GBC 24 - GHANA*
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/156.ts
+#EXTINF:-1,AF: GEC - Ghana
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/3.ts
+#EXTINF:-1,AF: TVS News Nigeria
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/145.ts
+#EXTINF:-1,AF: Diasporas24
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/259.ts
+#EXTINF:-1,AF: KTN NEWS - Kenya
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/192.ts
+#EXTINF:-1,AF : TELE TCHAD
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/273.ts
+#EXTINF:-1,AF: CRTV NEWS - CAM*
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/1.ts
+#EXTINF:-1,AF: CDIRECT TV
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/5.ts
+#EXTINF:-1,AF: TVM1* MOZAMBIQUE
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/146.ts
+#EXTINF:-1,AF: Tvm2 - Mozambique
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/157.ts
+#EXTINF:-1,AF: ATV* GUINEE
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/1759.ts
+#EXTINF:-1,AF : AFRICANEWS EN*
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/184.ts
+#EXTINF:-1,AF:  AFRICABLE
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/41.ts
+#EXTINF:-1,AF: GHTV Abroad
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/96.ts
+#EXTINF:-1,AF: GH CANADA
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/1821.ts
+#EXTINF:-1,AF: STADAFRK - SPORT
+http://51.15.0.17:25461/live/SELLIPTV/CCCAM/704.ts
+
 
