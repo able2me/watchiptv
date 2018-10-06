@@ -168,11 +168,3 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:395,Sky Sport Austria HD
-rtp://@239.2.24.61:8208
-#EXTINF:396,KIT TV HD
-rtp://@239.2.24.52:8208
-#EXTINF:397,Sky Sport News HD
-rtp://@239.2.24.30:8208
-#EXTINF:398,LAOLA1.tv HD
-rtp://@239.2.24.50:8208
