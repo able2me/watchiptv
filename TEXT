@@ -1,129 +1,1167 @@
 #EXTM3U
-#EXTINF:-1,DE: Das Erste HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/800.ts
-#EXTINF:-1,DE: ZDF HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/801.ts
-#EXTINF:-1,DE: RTL HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/802.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/803.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/804.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/805.ts
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/806.ts
-#EXTINF:-1,DE: VOX HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/807.ts
-#EXTINF:-1,DE: Kabel 1 Full HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/808.ts
-#EXTINF:-1,DE: Sixx HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/809.ts
-#EXTINF:-1,DE: TLC HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/810.ts
-#EXTINF:-1,DE: Pro 7 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/811.ts
-#EXTINF:-1,DE: Pro 7 MAXX HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/812.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/813.ts
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/814.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/815.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/816.ts
-#EXTINF:-1,DE: Sky Select 1 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/818.ts
-#EXTINF:-1,DE: Sky Select 2 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/819.ts
-#EXTINF:-1,DE: Sky Select 3 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/820.ts
-#EXTINF:-1,DE: SKY Select 4 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/821.ts
-#EXTINF:-1,DE: SKY Select 5 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/822.ts
-#EXTINF:-1,DE: Sky Select 6 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/823.ts
-#EXTINF:-1,DE: Sky Select 7 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/824.ts
-#EXTINF:-1,DE: Sky Select 8 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/825.ts
-#EXTINF:-1,DE: Sky Select 9 SD/HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/826.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/827.ts
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/828.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/829.ts
-#EXTINF:-1,DE: Sky Cinema Nostalgie
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/832.ts
-#EXTINF:-1,DE: Sky Krimi
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/833.ts
-#EXTINF:-1,DE: Sky Emotion
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/834.ts
-#EXTINF:-1,DE: National Geographic HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/835.ts
-#EXTINF:-1,DE: NatGeo Wild HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/836.ts
-#EXTINF:-1,DE: History HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/837.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/838.ts
-#EXTINF:-1,DE: Discovery HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/839.ts
-#EXTINF:-1,DE: DMAX HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/840.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/841.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/842.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/843.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD [ON MATCHDAY]
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/844.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD [ON MATCHDAY]
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/845.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD [ON MATCHDAY]
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/846.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/847.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/850.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/851.ts
-#EXTINF:-1,DE: Fox HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/852.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/854.ts
-#EXTINF:-1,DE: Kinowelt TV HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/855.ts
-#EXTINF:-1,DE: Heimat Kanal
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/856.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/857.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/858.ts
-#EXTINF:-1,DE: TNT Film
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/859.ts
-#EXTINF:-1,DE: Universal HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/860.ts
-#EXTINF:-1,DE: 13th Street HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/861.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/863.ts
-#EXTINF:-1,DE: Romance TV HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/864.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/865.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/866.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/867.ts
-#EXTINF:-1,DE: Disney XD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/868.ts
-#EXTINF:-1,DE: Super RTL HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/869.ts
-#EXTINF:-1,DE: Kika HD
-http://astra4915.startdedicated.net:8000/live/nlines-reshare/uVt9DZoJ2vC1Pl9XQuZwiYtk-8lt8kHyqERRyVXRo9HIl8uGn3/870.ts
+#EXTINF:-1,group-title=
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1.ts
+#EXTINF:-1,RTK 1 TOKSOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/3.ts
+#EXTINF:-1,RTK 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2.ts
+#EXTINF:-1,RTK 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/4.ts
+#EXTINF:-1,RTK 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/5.ts
+#EXTINF:-1,RTK 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/6.ts
+#EXTINF:-1,RTSH
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/7.ts
+#EXTINF:-1,RTV 21 HD TOKSOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/8.ts
+#EXTINF:-1,RTV 21 SAT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/9.ts
+#EXTINF:-1,KTV HD TOKSOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/10.ts
+#EXTINF:-1,KTV HD SAT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/11.ts
+#EXTINF:-1,ALSAT M HD TOKSOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/12.ts
+#EXTINF:-1,TV SHENJA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/15.ts
+#EXTINF:-1,TV ERA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/16.ts
+#EXTINF:-1,RTV 21 MKD HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/17.ts
+#EXTINF:-1,RTV 21 MKD HD (reserv)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/18.ts
+#EXTINF:-1,RTV 21 JUNIOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/21.ts
+#EXTINF:-1,RTV 21 NEWSBIZ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/23.ts
+#EXTINF:-1,RTV 21 MIX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/22.ts
+#EXTINF:-1,RTV 21 PLUS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/24.ts
+#EXTINF:-1,RTV  21 POPULLORE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/25.ts
+#EXTINF:-1,TV KLAN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/26.ts
+#EXTINF:-1,TV KLAN TOKSOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/27.ts
+#EXTINF:-1,KLAN KOSOVA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/28.ts
+#EXTINF:-1,KLAN KOSOVA HD (reserv)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/29.ts
+#EXTINF:-1,KLAN PLUS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/30.ts
+#EXTINF:-1,KLAN PLUS HD (reservÃƒÂ«)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/31.ts
+#EXTINF:-1,TOP CHANNEL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/32.ts
+#EXTINF:-1,TOP CHANNEL (reserv)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/33.ts
+#EXTINF:-1,RTSH 1 TOKSOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/34.ts
+#EXTINF:-1,RTSH 24
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/37.ts
+#EXTINF:-1,RTSH SHQIP
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/39.ts
+#EXTINF:-1,RTSH FILM
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/38.ts
+#EXTINF:-1,RTSH PLUS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/44.ts
+#EXTINF:-1,RTSH MUZIKE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/40.ts
+#EXTINF:-1,RTSH GJIROKASTRA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/41.ts
+#EXTINF:-1,RTSH FEMIJE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/45.ts
+#EXTINF:-1,RTSH SPORT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/46.ts
+#EXTINF:-1,VIZION + HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/47.ts
+#EXTINF:-1,T7 NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/48.ts
+#EXTINF:-1,FAX NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/49.ts
+#EXTINF:-1,TOP NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/50.ts
+#EXTINF:-1,ORA NEWS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/51.ts
+#EXTINF:-1,ABC NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/52.ts
+#EXTINF:-1,NEWS 24 AL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/53.ts
+#EXTINF:-1,KANALI 7 NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/54.ts
+#EXTINF:-1,ARTA NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/55.ts
+#EXTINF:-1,TV TRIBUNA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/56.ts
+#EXTINF:-1,DUKAGJINI TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/57.ts
+#EXTINF:-1,T HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/58.ts
+#EXTINF:-1,EUROFILM
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/59.ts
+#EXTINF:-1,FILM AKSION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/238.ts
+#EXTINF:-1,FILM THRILLER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/60.ts
+#EXTINF:-1,FILM STINET
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/61.ts
+#EXTINF:-1,FILM NJÃ‹ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/62.ts
+#EXTINF:-1,FILM DY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/64.ts
+#EXTINF:-1,FILM DY HD (reservÃƒÂ«)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/65.ts
+#EXTINF:-1,FILM KOMEDI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/66.ts
+#EXTINF:-1,FILM HITS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/67.ts
+#EXTINF:-1,FILM DRAMÃƒâ€¹
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/68.ts
+#EXTINF:-1,FILM AUTOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/69.ts
+#EXTINF:-1,FAMILY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/70.ts
+#EXTINF:-1,SHQIPTV WESTERN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/105.ts
+#EXTINF:-1,SHQIPTV TOM & JERRY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/112.ts
+#EXTINF:-1,SHQIPTV STUPCAT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/111.ts
+#EXTINF:-1,SHQIPTV MIMI HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/110.ts
+#EXTINF:-1,SHQIPTV JETA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/108.ts
+#EXTINF:-1,SHQIPTV HUMOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/109.ts
+#EXTINF:-1,SHQIPTV HORROR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/104.ts
+#EXTINF:-1,SHQIPTV FANTASY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/100.ts
+#EXTINF:-1,SHQIPTV DRAMA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/99.ts
+#EXTINF:-1,SKY AKSION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/115.ts
+#EXTINF:-1,SKY DRAME
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/116.ts
+#EXTINF:-1,SKY KOMEDI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/113.ts
+#EXTINF:-1,SKY MAX
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/114.ts
+#EXTINF:-1,SKY HISTORI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/117.ts
+#EXTINF:-1,SKY SHKENCE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/119.ts
+#EXTINF:-1,EXP HISTORI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/122.ts
+#EXTINF:-1,EXP SHKENCÃƒâ€¹
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/120.ts
+#EXTINF:-1,EXP NATYRA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/121.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD AL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/123.ts
+#EXTINF:-1,RTV SHARRI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/124.ts
+#EXTINF:-1,MY MUSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/125.ts
+#EXTINF:-1,BBF MUSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/126.ts
+#EXTINF:-1,TV TETOVA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/127.ts
+#EXTINF:-1,RROKUM TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/128.ts
+#EXTINF:-1,SUPER SONIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/129.ts
+#EXTINF:-1,CHANNEL ONE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/131.ts
+#EXTINF:-1,TV MITROVICA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/132.ts
+#EXTINF:-1,JUG TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/133.ts
+#EXTINF:-1,DASMA TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/135.ts
+#EXTINF:-1,TV OPOJA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/136.ts
+#EXTINF:-1,TV BESA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/137.ts
+#EXTINF:-1,TV 2 GOSTIVAR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/138.ts
+#EXTINF:-1,RTV PRESHEVA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/140.ts
+#EXTINF:-1,RTV BUJANOVC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/139.ts
+#EXTINF:-1,BALKANIKA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/141.ts
+#EXTINF:-1,ZJARR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/142.ts
+#EXTINF:-1,STV FOLK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/143.ts
+#EXTINF:-1,TV KOHA TETOVÃƒâ€¹
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/144.ts
+#EXTINF:-1,FOLK +
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/145.ts
+#EXTINF:-1,FIRST CHANNEL 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/146.ts
+#EXTINF:-1,CLICK TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/147.ts
+#EXTINF:-1,TV GLOBI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/148.ts
+#EXTINF:-1,CLUB TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/149.ts
+#EXTINF:-1,DRITA TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/150.ts
+#EXTINF:-1,TRING 3+
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/151.ts
+#EXTINF:-1,TRING 3+ (reserv)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/152.ts
+#EXTINF:-1,TRING JOLLY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/164.ts
+#EXTINF:-1,TRING SHQIP
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/154.ts
+#EXTINF:-1,TRING ACION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/155.ts
+#EXTINF:-1,TRING FANTASY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/159.ts
+#EXTINF:-1,TRING SUPER HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/162.ts
+#EXTINF:-1,TRING SMILE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/153.ts
+#EXTINF:-1,TRING LIFE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/157.ts
+#EXTINF:-1,TRING PLANET
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/156.ts
+#EXTINF:-1,TRING HISTORY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/158.ts
+#EXTINF:-1,TRING WORLD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/160.ts
+#EXTINF:-1,TRING LIVING HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/163.ts
+#EXTINF:-1,FOX AL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/165.ts
+#EXTINF:-1,FOX CRIME AL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/167.ts
+#EXTINF:-1,FOX LIFE AL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/166.ts
+#EXTINF:-1,group-title="GERMANY" ,>>>>>>>GERMANY<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/168.ts
+#EXTINF:-1,RTL HD (backup)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/169.ts
+#EXTINF:-1,RTL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/237.ts
+#EXTINF:-1,RTL SD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/265.ts
+#EXTINF:-1,RTL II HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/266.ts
+#EXTINF:-1,RTL II FHD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/267.ts
+#EXTINF:-1,RTL PASSION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/268.ts
+#EXTINF:-1,RTL NITRO HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/269.ts
+#EXTINF:-1,RTL LIVING
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/270.ts
+#EXTINF:-1,RTL CRIME HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/271.ts
+#EXTINF:-1,RTL PLUS DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/272.ts
+#EXTINF:-1,PROSIEBEN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/273.ts
+#EXTINF:-1,PROSIEBEN SCHWEIZ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/274.ts
+#EXTINF:-1,PROSIEBEN FUN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/275.ts
+#EXTINF:-1,PROSIEBEN MAXX
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/276.ts
+#EXTINF:-1,DMAX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/277.ts
+#EXTINF:-1,DMAX SD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/278.ts
+#EXTINF:-1,SAT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/279.ts
+#EXTINF:-1,SAT.1 EMOTIONS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/280.ts
+#EXTINF:-1,SAT.1 GOLD HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/281.ts
+#EXTINF:-1,SERVUS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/282.ts
+#EXTINF:-1,TLC DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/285.ts
+#EXTINF:-1,ZDF HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/284.ts
+#EXTINF:-1,ZDF INFO HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/286.ts
+#EXTINF:-1,ZDF NEO HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/287.ts
+#EXTINF:-1,WDR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/288.ts
+#EXTINF:-1,VOX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/289.ts
+#EXTINF:-1,3 SAT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/290.ts
+#EXTINF:-1,DAS ERSTE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/291.ts
+#EXTINF:-1,KABEL EINS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/292.ts
+#EXTINF:-1,KABEL EINS CLASSIC HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/293.ts
+#EXTINF:-1,KABEL EINS DOKU
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/294.ts
+#EXTINF:-1,ORF 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/295.ts
+#EXTINF:-1,ORF 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/296.ts
+#EXTINF:-1,ORF 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/876.ts
+#EXTINF:-1,PHOENIX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/299.ts
+#EXTINF:-1,NTV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/300.ts
+#EXTINF:-1,WELT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/301.ts
+#EXTINF:-1,FOX HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/302.ts
+#EXTINF:-1,DELUXE MUSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/325.ts
+#EXTINF:-1,TAGESSCHAU HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/303.ts
+#EXTINF:-1,ZEE ON
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/307.ts
+#EXTINF:-1,VIVA/COMEDY CENTRAL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/308.ts
+#EXTINF:-1,ROMANCE TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/306.ts
+#EXTINF:-1,ARTE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/309.ts
+#EXTINF:-1,SIXX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/310.ts
+#EXTINF:-1,AXN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/311.ts
+#EXTINF:-1,PLANET HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/304.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/305.ts
+#EXTINF:-1,DISCOVERY CHANNEL DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/312.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/313.ts
+#EXTINF:-1,NAT GEO WILD HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/314.ts
+#EXTINF:-1,HISTORY CHANNEL DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/315.ts
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/316.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/319.ts
+#EXTINF:-1,E! ENTERTAINM HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/318.ts
+#EXTINF:-1,TNT SERIE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/320.ts
+#EXTINF:-1,TNT COMEDY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/321.ts
+#EXTINF:-1,TNT FILM HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/322.ts
+#EXTINF:-1,13th STREET HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/323.ts
+#EXTINF:-1,SKY SYFY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/324.ts
+#EXTINF:-1,SKY 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/326.ts
+#EXTINF:-1,SKY ARTS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/338.ts
+#EXTINF:-1,SKY CINEMA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/339.ts
+#EXTINF:-1,SKY CINEMA +1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/340.ts
+#EXTINF:-1,SKY CINEMA +24 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/341.ts
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/342.ts
+#EXTINF:-1,SKY CINEMA ACTION DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/343.ts
+#EXTINF:-1,SKY CINEMA COMEDY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/345.ts
+#EXTINF:-1,SKY CINEMA HITS HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/344.ts
+#EXTINF:-1,SKY CINEMA EMOTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/346.ts
+#EXTINF:-1,SKY CINEMA ATLANTIC DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/347.ts
+#EXTINF:-1,SKY CINEMA NOSTALGIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/348.ts
+#EXTINF:-1,SKY KRIMI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/349.ts
+#EXTINF:-1,SKY SELECT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/350.ts
+#EXTINF:-1,SKY SELECT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/351.ts
+#EXTINF:-1,SKY SELECT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/352.ts
+#EXTINF:-1,SKY SELECT 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/353.ts
+#EXTINF:-1,SKY SELECT 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/354.ts
+#EXTINF:-1,SKY SELECT 6 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/355.ts
+#EXTINF:-1,SKY SELECT 7 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/356.ts
+#EXTINF:-1,SKY SELECT 8 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/357.ts
+#EXTINF:-1,group-title="SWITZERLAND" ,>>>>>>>SWITZERLAND<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/359.ts
+#EXTINF:-1,3+ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/360.ts
+#EXTINF:-1,4+ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/361.ts
+#EXTINF:-1,5+ HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/362.ts
+#EXTINF:-1,SRF 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/364.ts
+#EXTINF:-1,SRF INFO HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/363.ts
+#EXTINF:-1,SRF ZWEI HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/365.ts
+#EXTINF:-1,SWISS 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/367.ts
+#EXTINF:-1,TELE 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/371.ts
+#EXTINF:-1,TELE ZÃœRI HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/368.ts
+#EXTINF:-1,TELE BASEL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/369.ts
+#EXTINF:-1,TVO SWISS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/373.ts
+#EXTINF:-1,TELECLUB CINEMA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/877.ts
+#EXTINF:-1,TELECLUB ACTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/872.ts
+#EXTINF:-1,TELECLUB EMOTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/871.ts
+#EXTINF:-1,group-title="TURKYE" ,>>>>>>>TURKYE<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/388.ts
+#EXTINF:-1,ATV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/374.ts
+#EXTINF:-1,ATV HD (reservÃƒÂ«)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/375.ts
+#EXTINF:-1,ATV Avrupa
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/376.ts
+#EXTINF:-1,FOX HD TURK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/377.ts
+#EXTINF:-1,SHOW TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/379.ts
+#EXTINF:-1,SHOW TV (Reserv)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/380.ts
+#EXTINF:-1,SHOW TV TÃœRK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/381.ts
+#EXTINF:-1,STAR TURK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/382.ts
+#EXTINF:-1,STAR TURK (reservÃƒÂ«)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/383.ts
+#EXTINF:-1,EURO STAR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/384.ts
+#EXTINF:-1,KANAL 7 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/385.ts
+#EXTINF:-1,KANAL D
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/386.ts
+#EXTINF:-1,BEYAZ TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/411.ts
+#EXTINF:-1,NTV HABER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/412.ts
+#EXTINF:-1,24 TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1739.ts
+#EXTINF:-1,360 TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1740.ts
+#EXTINF:-1,A2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1741.ts
+#EXTINF:-1,TV 8 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/413.ts
+#EXTINF:-1,TV 8.5
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/414.ts
+#EXTINF:-1,TRT 4K
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/416.ts
+#EXTINF:-1,TRT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/415.ts
+#EXTINF:-1,TRT HABER HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1744.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1745.ts
+#EXTINF:-1,TRT MÃœZIK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1749.ts
+#EXTINF:-1,TRT COCUK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1748.ts
+#EXTINF:-1,TGRT HABER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1746.ts
+#EXTINF:-1,CNN TÃœRK UHD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1756.ts
+#EXTINF:-1,HABER TURK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1743.ts
+#EXTINF:-1,POWER TURK HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1753.ts
+#EXTINF:-1,POWER HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1752.ts
+#EXTINF:-1,NR1 TURK TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1750.ts
+#EXTINF:-1,KRAL TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1754.ts
+#EXTINF:-1,TVNET
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1742.ts
+#EXTINF:-1,DREAM TURK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1751.ts
+#EXTINF:-1,KRAL POP TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1738.ts
+#EXTINF:-1,SEMERKAND HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1757.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD TR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1759.ts
+#EXTINF:-1,NAT GEO WILD TR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1760.ts
+#EXTINF:-1,NAT GEO PEOPLE HD TR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1761.ts
+#EXTINF:-1,HISTORY CHANNEL TR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1762.ts
+#EXTINF:-1,BLOOMBERGHT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1758.ts
+#EXTINF:-1,MOVIESMART PREMIUM HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1763.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1764.ts
+#EXTINF:-1,MOVIESMART PLATIN HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1765.ts
+#EXTINF:-1,MOVIESMART PLATIN 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1766.ts
+#EXTINF:-1,MOVIESMART ACTION HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1768.ts
+#EXTINF:-1,MOVIESMART FEST HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1767.ts
+#EXTINF:-1,MOVIESMART FAMILY HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1770.ts
+#EXTINF:-1,MOVIESMART CLASSIC HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1769.ts
+#EXTINF:-1,group-title="SERBIAN" ,>>>>>>>SERBIAN<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/417.ts
+#EXTINF:-1,RTS1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/420.ts
+#EXTINF:-1,RTS 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/421.ts
+#EXTINF:-1,RTS 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/422.ts
+#EXTINF:-1,B92
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/424.ts
+#EXTINF:-1,DM SAT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/426.ts
+#EXTINF:-1,NOVA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/423.ts
+#EXTINF:-1,HAPPY TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/425.ts
+#EXTINF:-1,PINK 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/427.ts
+#EXTINF:-1,PINK 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/428.ts
+#EXTINF:-1,PINK 3 INFO
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/429.ts
+#EXTINF:-1,PINK PLUS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/430.ts
+#EXTINF:-1,PINK SERIJE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/433.ts
+#EXTINF:-1,PINK SOAP
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/432.ts
+#EXTINF:-1,PINK THRILLER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/431.ts
+#EXTINF:-1,PINK PEDIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/434.ts
+#EXTINF:-1,PINK M
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/435.ts
+#EXTINF:-1,PINK BH
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/448.ts
+#EXTINF:-1,PINK FOLK 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/438.ts
+#EXTINF:-1,PINK FOLK 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/439.ts
+#EXTINF:-1,PINK EXTRA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/440.ts
+#EXTINF:-1,PINK MUSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/445.ts
+#EXTINF:-1,PINK HITS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/457.ts
+#EXTINF:-1,PINK MOVIES 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/488.ts
+#EXTINF:-1,PINK ACTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/449.ts
+#EXTINF:-1,PINK ZABAVA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/441.ts
+#EXTINF:-1,PINK WESTERN
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/442.ts
+#EXTINF:-1,PINK REALITY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/443.ts
+#EXTINF:-1,PINK PREMIUM
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/444.ts
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/437.ts
+#EXTINF:-1,PINK HORROR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/436.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/452.ts
+#EXTINF:-1,PINK ROMANCE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/454.ts
+#EXTINF:-1,PINK FILM
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/446.ts
+#EXTINF:-1,PINK COMEDY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/447.ts
+#EXTINF:-1,PINK CLASSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/456.ts
+#EXTINF:-1,PINK LOL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/459.ts
+#EXTINF:-1,PINK KUVAR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/451.ts
+#EXTINF:-1,PINK HAHA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/458.ts
+#EXTINF:-1,PINK KIDS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/450.ts
+#EXTINF:-1,group-title="CROATIA" ,>>>>>>>CROATIA<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/418.ts
+#EXTINF:-1,HRT 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/460.ts
+#EXTINF:-1,HRT 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/461.ts
+#EXTINF:-1,HRT 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/462.ts
+#EXTINF:-1,HRT 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/463.ts
+#EXTINF:-1,RTL HR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/464.ts
+#EXTINF:-1,RTL 2 HR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/465.ts
+#EXTINF:-1,HBO 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/467.ts
+#EXTINF:-1,HBO 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/468.ts
+#EXTINF:-1,HBO 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/469.ts
+#EXTINF:-1,RTL CRIME HR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/466.ts
+#EXTINF:-1,CINESTAR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/472.ts
+#EXTINF:-1,CINEMAX 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/470.ts
+#EXTINF:-1,CINEMAX 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/471.ts
+#EXTINF:-1,CINESTAR ACTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/473.ts
+#EXTINF:-1,CINESTAR FANTASY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/474.ts
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/475.ts
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/476.ts
+#EXTINF:-1,group-title="BOSNIA" ,>>>>>>>BOSNIA<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/419.ts
+#EXTINF:-1,BN SAT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/477.ts
+#EXTINF:-1,BH TV 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/478.ts
+#EXTINF:-1,HAYAT TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/479.ts
+#EXTINF:-1,HAYAT PLUS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/480.ts
+#EXTINF:-1,HAYAT FOLK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/481.ts
+#EXTINF:-1,HAYATÃ‚Â MUSIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/482.ts
+#EXTINF:-1,OBN
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/483.ts
+#EXTINF:-1,TV DOMA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/484.ts
+#EXTINF:-1,FACE TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/485.ts
+#EXTINF:-1,AL JAZEERA BALKAN
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/486.ts
+#EXTINF:-1,HAYATOVIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/487.ts
+#EXTINF:-1,group-title="MAKEDONIA" ,>>>>>>>MAKEDONIA<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/387.ts
+#EXTINF:-1,MRT 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/389.ts
+#EXTINF:-1,MRT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/390.ts
+#EXTINF:-1,MRT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/391.ts
+#EXTINF:-1,LESKOVAC TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/405.ts
+#EXTINF:-1,KANAL 5 PLUS HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/398.ts
+#EXTINF:-1,Kanal 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/393.ts
+#EXTINF:-1,HUGO TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/399.ts
+#EXTINF:-1,ALFA TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/395.ts
+#EXTINF:-1,24 Vesti HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/392.ts
+#EXTINF:-1,TV+ KUMANOVA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/406.ts
+#EXTINF:-1,TELMA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/396.ts
+#EXTINF:-1,SONCE TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/402.ts
+#EXTINF:-1,SKY FOLK HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/401.ts
+#EXTINF:-1,SITEL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/394.ts
+#EXTINF:-1,SITEL 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/400.ts
+#EXTINF:-1,SUTEL TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/397.ts
+#EXTINF:-1,PLANET TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/404.ts
+#EXTINF:-1,HBO HD MK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/407.ts
+#EXTINF:-1,HBO 2 HD MK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/408.ts
+#EXTINF:-1,group-title="ARABIA & EGYPT" ,>>>>>>>ARABIA & EGYPT<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1959.ts
+#EXTINF:-1,group-title="FRANÃƒâ€¡AIS" ,>>>>>>>FRANÃƒâ€¡AIS<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2110.ts
+#EXTINF:-1,TF1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2101.ts
+#EXTINF:-1,FRANCE 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2111.ts
+#EXTINF:-1,FRANCE 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2112.ts
+#EXTINF:-1,FRANCE 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2113.ts
+#EXTINF:-1,FRANCE 5
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2114.ts
+#EXTINF:-1,FRANCE O
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2115.ts
+#EXTINF:-1,group-title="ITALIAN" ,>>>>>>>ITALIAN<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/642.ts
+#EXTINF:-1,RAI 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/634.ts
+#EXTINF:-1,RAI 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/635.ts
+#EXTINF:-1,RAI 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/636.ts
+#EXTINF:-1,RAI 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/637.ts
+#EXTINF:-1,RAI 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/638.ts
+#EXTINF:-1,RAI PREMIUM HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/648.ts
+#EXTINF:-1,RAI MOVIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/646.ts
+#EXTINF:-1,RAI STORIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/649.ts
+#EXTINF:-1,RAI SCUOLA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1782.ts
+#EXTINF:-1,RAI GULP
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1783.ts
+#EXTINF:-1,RAI NEWS 24
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/647.ts
+#EXTINF:-1,RAI YOYO
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/650.ts
+#EXTINF:-1,ITALIA 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/641.ts
+#EXTINF:-1,ITALIA 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/643.ts
+#EXTINF:-1,RETE 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/639.ts
+#EXTINF:-1,CIELO
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/644.ts
+#EXTINF:-1,CANALE 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/640.ts
+#EXTINF:-1,REAL TIME HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/651.ts
+#EXTINF:-1,LA 7 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/645.ts
+#EXTINF:-1,FOX HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/678.ts
+#EXTINF:-1,FOX LIFE IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/679.ts
+#EXTINF:-1,FOX CRIME IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/680.ts
+#EXTINF:-1,FOX COMEDY IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/681.ts
+#EXTINF:-1,FOX ANIMANTION IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/684.ts
+#EXTINF:-1,RSI LA1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/682.ts
+#EXTINF:-1,RSI LA 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/683.ts
+#EXTINF:-1,MEDIASET EXTRA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/685.ts
+#EXTINF:-1,DMAX IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/686.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/687.ts
+#EXTINF:-1,NAT GEO WILD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/688.ts
+#EXTINF:-1,NAT GEO POEPLE IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/689.ts
+#EXTINF:-1,DISNEY CHANNEL IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/691.ts
+#EXTINF:-1,DISNEY XD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/692.ts
+#EXTINF:-1,SKY CINEMA UNO IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1771.ts
+#EXTINF:-1,SKY CINEMA UNO +1 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1779.ts
+#EXTINF:-1,SKY CINEMA +24 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1780.ts
+#EXTINF:-1,SKY CINEMA CULT HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1781.ts
+#EXTINF:-1,SKY CINEMA COMEDY IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1774.ts
+#EXTINF:-1,SKY CINEMA ATLANTIC IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1775.ts
+#EXTINF:-1,SKY CINEMA PASSION IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1773.ts
+#EXTINF:-1,SKY CINEMA FAMILY IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1772.ts
+#EXTINF:-1,SKY CINEMA HITS IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1778.ts
+#EXTINF:-1,SKY CINEMA MAX IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1777.ts
+#EXTINF:-1,SKY CINEMA CLASSICS IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1776.ts
+#EXTINF:-1,PREMIUM CINEMA HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1784.ts
+#EXTINF:-1,PREMIUM CINEMA +24
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1786.ts
+#EXTINF:-1,PREMIUM CINEMA 2 +24
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1787.ts
+#EXTINF:-1,PREMIUM ACTION HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1788.ts
+#EXTINF:-1,PREMIUM ACTION +24
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1789.ts
+#EXTINF:-1,PREMIUM CRIME
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1792.ts
+#EXTINF:-1,PREMIUM CINEMA COMEDY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1790.ts
+#EXTINF:-1,PREMIUM CINEMA EMOTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1791.ts
+#EXTINF:-1,PREMIUM CINEMA ENERGY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1793.ts
+#EXTINF:-1,PREMIUM JOI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1794.ts
+#EXTINF:-1,PREMIUM STORIES
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1795.ts
+#EXTINF:-1,PRIMAFILA 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1796.ts
+#EXTINF:-1,PRIMAFILA 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1797.ts
+#EXTINF:-1,PRIMAFILA 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1798.ts
+#EXTINF:-1,PRIMAFILA 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1799.ts
+#EXTINF:-1,PRIMAFILA 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1800.ts
+#EXTINF:-1,PRIMAFILA 6 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1801.ts
+#EXTINF:-1,PRIMAFILA 7 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1802.ts
+#EXTINF:-1,PRIMAFILA 8 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1803.ts
+#EXTINF:-1,PRIMAFILA 9 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1804.ts
+#EXTINF:-1,DISCOVERY CHANNEL NL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2151.ts
+#EXTINF:-1,group-title="SPORT" ,>>>>>>>SPORT<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/493.ts
+#EXTINF:-1,SUPER SPORT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/489.ts
+#EXTINF:-1,SUPER SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/490.ts
+#EXTINF:-1,SUPER SPORT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/491.ts
+#EXTINF:-1,SUPER SPORT 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/492.ts
+#EXTINF:-1,SUPER SPORT 1 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/517.ts
+#EXTINF:-1,SUPER SPORT 2 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/518.ts
+#EXTINF:-1,SUPER SPORT 3 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/519.ts
+#EXTINF:-1,SUPER SPORT 4 HD backup
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/520.ts
+#EXTINF:-1,SUPER SPORT KOSOVA 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/521.ts
+#EXTINF:-1,SUPER SPORT KOSOVA 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/522.ts
+#EXTINF:-1,TRING SPORT NEWS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/524.ts
+#EXTINF:-1,TRING SPORT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/525.ts
+#EXTINF:-1,TRING SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/526.ts
+#EXTINF:-1,TRING SPORT 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/527.ts
+#EXTINF:-1,TRING SPORT 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/528.ts
+#EXTINF:-1,K SPORT 1
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/841.ts
+#EXTINF:-1,K SPORT 2
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/842.ts
+#EXTINF:-1,K SPORT 3
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/843.ts
+#EXTINF:-1,K SPORT 4
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/844.ts
+#EXTINF:-1,SPORT TV +HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/529.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/530.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/531.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/532.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/533.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/534.ts
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/846.ts
+#EXTINF:-1,SKY SPORT NEWS DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/845.ts
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/847.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/848.ts
+#EXTINF:-1,SKY SPORT 3 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/849.ts
+#EXTINF:-1,SKY SPORT 4 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/850.ts
+#EXTINF:-1,SKY SPORT 5 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/851.ts
+#EXTINF:-1,SKY SPORT 6 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/852.ts
+#EXTINF:-1,SKY SPORT 7 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/853.ts
+#EXTINF:-1,SKY SPORT 8 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/854.ts
+#EXTINF:-1,SKY SPORT 9 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/855.ts
+#EXTINF:-1,SKY SPORT 10 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/856.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/866.ts
+#EXTINF:-1,SKY BUNDESLIGA 2 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/858.ts
+#EXTINF:-1,SKY BUNDESLIGA 3 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/859.ts
+#EXTINF:-1,SKY BUNDESLIGA 4 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/860.ts
+#EXTINF:-1,SKY BUNDESLIGA 5 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/861.ts
+#EXTINF:-1,SKY BUNDESLIGA 6 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/862.ts
+#EXTINF:-1,SKY BUNDESLIGA 7 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/863.ts
+#EXTINF:-1,SKY BUNDESLIGA 8 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/864.ts
+#EXTINF:-1,SKY BUNDESLIGA 9 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/865.ts
+#EXTINF:-1,SKY BUNDESLIGA 10 (MATCHTIME)
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/857.ts
+#EXTINF:-1,EUROSPORT 1 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/867.ts
+#EXTINF:-1,EUROSPORT 2 HD DE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/868.ts
+#EXTINF:-1,MOTORVISION TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/869.ts
+#EXTINF:-1,TELECLUB SPORT 1 SD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/870.ts
+#EXTINF:-1,SPORT +1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/873.ts
+#EXTINF:-1,ORF SPORT + HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/875.ts
+#EXTINF:-1,FC BAYERN TV HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/874.ts
+#EXTINF:-1,SPORT 1 US HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/878.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/887.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/883.ts
+#EXTINF:-1,SKY SPORT ARENA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/879.ts
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/880.ts
+#EXTINF:-1,SKY SPORTS MIX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/884.ts
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/886.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/882.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/881.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/885.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/939.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/940.ts
+#EXTINF:-1,BT SPORTS 3HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/941.ts
+#EXTINF:-1,BT SPORTS ESPN
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/942.ts
+#EXTINF:-1,SKY SPORT 1 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/967.ts
+#EXTINF:-1,SKY SPORT 2 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/968.ts
+#EXTINF:-1,SKY SPORT 3 HD ITA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/969.ts
+#EXTINF:-1,SKY SPORT 24 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/970.ts
+#EXTINF:-1,PREMIUM SPORT 1 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/971.ts
+#EXTINF:-1,PREMIUM SPORT 2 HD IT
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/972.ts
+#EXTINF:-1,ARENA SPORT 1 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1033.ts
+#EXTINF:-1,ARENA SPORT 2 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1034.ts
+#EXTINF:-1,ARENA SPORT 3 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1035.ts
+#EXTINF:-1,ARENA SPORT 4 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1036.ts
+#EXTINF:-1,ARENA SPORT 5 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1037.ts
+#EXTINF:-1,ARENA SPORT 1 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1038.ts
+#EXTINF:-1,ARENA SPORT 2 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1039.ts
+#EXTINF:-1,ARENA SPORT 3 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1040.ts
+#EXTINF:-1,ARENA SPORT 4 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1041.ts
+#EXTINF:-1,ARENA SPORT 5 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1042.ts
+#EXTINF:-1,ARENA SPORT 6 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1043.ts
+#EXTINF:-1,SPORT KLUB 1 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1044.ts
+#EXTINF:-1,SPORT KLUB 2 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1045.ts
+#EXTINF:-1,SPORT KLUB 3 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1046.ts
+#EXTINF:-1,SPORT KLUB 4 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1047.ts
+#EXTINF:-1,SPORT KLUB 5 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1048.ts
+#EXTINF:-1,BEIN SPORT HABER
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1050.ts
+#EXTINF:-1,BEIN SPORT 1 HD TÃƒÅ“RK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1051.ts
+#EXTINF:-1,BEIN SPORT 2 HD TÃœRK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1052.ts
+#EXTINF:-1,BEIN SPORT 3 HD TÃƒÅ“RK
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1053.ts
+#EXTINF:-1,TIVIBU SPOR 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1054.ts
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1055.ts
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1056.ts
+#EXTINF:-1,TIVIBU SPOR 4 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1057.ts
+#EXTINF:-1,TRT SPOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1059.ts
+#EXTINF:-1,A SPOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1060.ts
+#EXTINF:-1,SPORT SMART HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1061.ts
+#EXTINF:-1,S SPORT HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1062.ts
+#EXTINF:-1,FENERBAHCE TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1058.ts
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2150.ts
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2145.ts
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2146.ts
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2147.ts
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2148.ts
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2149.ts
+#EXTINF:-1,BEIN SPORT NEWS HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2165.ts
+#EXTINF:-1,BEIN SPORT 1 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.ts
+#EXTINF:-1,BEIN SPORT 2 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.ts
+#EXTINF:-1,BEIN SPORT 3 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.ts
+#EXTINF:-1,BEIN SPORT 4 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.ts
+#EXTINF:-1,BEIN SPORT 5 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.ts
+#EXTINF:-1,BEIN SPORT 6 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.ts
+#EXTINF:-1,BEIN SPORT 7 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.ts
+#EXTINF:-1,BEIN SPORT 8 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2162.ts
+#EXTINF:-1,BEIN SPORT 9 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.ts
+#EXTINF:-1,AD SPORT 1 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2179.ts
+#EXTINF:-1,AD SPORT 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2180.ts
+#EXTINF:-1,BEIN LA LIGA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2170.ts
+#EXTINF:-1,DIGI SPORT 1 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2166.ts
+#EXTINF:-1,DIGI SPORT 2 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2167.ts
+#EXTINF:-1,DIGI SPORT 3 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2168.ts
+#EXTINF:-1,DIGI SPORT 4 HD RUSSIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2169.ts
+#EXTINF:-1,group-title="RELIGION" ,>>>>>>>RELIGION<<<<<<<
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/633.ts
+#EXTINF:-1,MAKKAH LIVE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/631.ts
+#EXTINF:-1,MEDINA LIVE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/632.ts
+#EXTINF:-1,RTV PENDIMI
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1656.ts
+#EXTINF:-1,RTV ISLAM
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1657.ts
+#EXTINF:-1,PEACE TV SHQIP
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1658.ts
+#EXTINF:-1,KS ISLAM TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/96.ts
+#EXTINF:-1,TIP TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1641.ts
+#EXTINF:-1,TRING TRING
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/161.ts
+#EXTINF:-1,DIGI JUNIOR
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1645.ts
+#EXTINF:-1,CUFO
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1644.ts
+#EXTINF:-1,BANG BANG
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1643.ts
+#EXTINF:-1,BABY TV
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1646.ts
+#EXTINF:-1,NICKELODEON
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1648.ts
+#EXTINF:-1,SUPER RTL HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1647.ts
+#EXTINF:-1,KIKA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1649.ts
+#EXTINF:-1,TOGGO PLUS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1650.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1651.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1652.ts
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1653.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1654.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1655.ts
+#EXTINF:-1,CORAL REEF AQUARIUM COLLECTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2090.ts
