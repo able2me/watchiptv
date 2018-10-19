@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1,AR_Bn_Sport_1_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/528.ts
-#EXTINF:-1,AR_Bn_Sport_2_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/529.ts
-#EXTINF:-1,AR_Bn_Sport_3_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/530.ts
-#EXTINF:-1,AR_Bn_Sport_4_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/531.ts
-#EXTINF:-1,AR_Bn_Sport_5_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/532.ts
-#EXTINF:-1,AR_Bn_Sport_6_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/533.ts
-#EXTINF:-1,AR_Bn_Sport_7_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/534.ts
-#EXTINF:-1,AR_Bn_Sport_8_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/535.ts
-#EXTINF:-1,AR_Bn_Sport_9_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/536.ts
-#EXTINF:-1,AR_Bn_Sport_10_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/537.ts
-#EXTINF:-1,AR_Bn_Sport_11_B2
-http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/717.ts
+#EXTINF:-1,Eurosport 1 HD FR
+http://clientportal.link:8080/live/abc123/321cba/2013.ts
+#EXTINF:-1,Eurosport 2 HD FR
+http://clientportal.link:8080/live/abc123/321cba/7572.ts
+#EXTINF:-1,SFR Sport 1 HD FR
+http://clientportal.link:8080/live/abc123/321cba/13182.ts
+#EXTINF:-1,SFR Sport 2 HD FR
+http://clientportal.link:8080/live/abc123/321cba/2251.ts
+#EXTINF:-1,SFR Sport 3 HD FR
+http://clientportal.link:8080/live/abc123/321cba/13148.ts
+#EXTINF:-1,SFR Sport 5 HD FR
+http://clientportal.link:8080/live/abc123/321cba/13151.ts
