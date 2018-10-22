@@ -1,28 +1,71 @@
 #EXTM3U
-#EXTINF:-1,Star 
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,NTV 
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,KanalD 
-http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:-1,TEVE 2 
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-#EXTINF:-1,TRT 1 
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
-#EXTINF:-1,DMAX 
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,TLC 
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,UçanKuş 
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1,24 TV 
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,ShowMax 
-https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
-#EXTINF:-1,Tivibu Spor 
-http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Kral PoP 
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1,Kral TV 
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-
+#EXTINF: ll
+https://www.youtube.com/watch?v=YIDEmE_Boqw.mp4
+#EXTINF:- ll AXN HD
+http://145.129.238.137:8000/play/a045
+#EXTINF: BBC Earth HD
+http://145.129.238.137:8000/play/a06c
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BBC HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll BBC HD
+http://145.129.238.137:8000/play/a06b
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll CI Polsat HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll CI Polsat HD
+http://145.129.238.137:8000/play/a049
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Cinemax 2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Cinemax 2 HD
+http://145.129.238.137:8000/play/a046
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Cinemax HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Cinemax HD
+http://145.129.238.137:8000/play/a03t
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll FOX HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll FOX HD
+http://145.129.238.137:8000/play/a047
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Fox Comedy HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Fox Comedy HD
+http://145.129.238.137:8000/play/a040
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll HBO2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll HBO2 HD
+http://145.129.238.137:8000/play/a05i
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll HBO3 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll HBO3 HD
+http://145.129.238.137:8000/play/a05j
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll History HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll History HD
+http://145.129.238.137:8000/play/a048
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll KINO POLSKA" tvg-logo="", ll www.iptv-m3u-playlist.com ll KINO POLSKA
+http://145.129.238.137:8000/play/a03s
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Kino Polska Muzyka" tvg-logo="", ll www.iptv-m3u-playlist.com ll Kino Polska Muzyka
+http://145.129.238.137:8000/play/a059
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Nat Geo Wild HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Nat Geo Wild HD
+http://145.129.238.137:8000/play/a03u
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat 2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat 2 HD
+http://145.129.238.137:8000/play/a06o
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Cafe HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Cafe HD
+http://145.129.238.137:8000/play/a06n
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Doku HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Doku HD
+http://145.129.238.137:8000/play/a04a
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Film" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Film
+http://145.129.238.137:8000/play/a06k
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat HD
+http://145.129.238.137:8000/play/a06l
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat News 2" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat News 2
+http://145.129.238.137:8000/play/a06j
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat News HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat News HD
+http://145.129.238.137:8000/play/a06p
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Play HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Play HD
+http://145.129.238.137:8000/play/a06m
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Sport" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Sport
+http://145.129.238.137:8000/play/a06h
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Sport Extra" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Sport Extra
+http://145.129.238.137:8000/play/a06i
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Sport Extra HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Sport Extra HD
+http://145.129.238.137:8000/play/a044
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Sport HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Sport HD
+http://145.129.238.137:8000/play/a03z
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Viasat History HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Viasat History HD
+http://145.129.238.137:8000/play/a041
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Sportklub HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Sportklub HD
+http://145.129.238.137:8000/play/a06d
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Super Polsat" tvg-logo="", ll www.iptv-m3u-playlist.com ll Super Polsat
+http://145.129.238.137:8000/play/a06q
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TV4" tvg-logo="", ll www.iptv-m3u-playlist.com ll TV4
+http://145.129.238.137:8000/play/a06g
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TVP 2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll TVP 2 HD
+http://145.129.238.137:8000/play/a042
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TVP 3" tvg-logo="", ll www.iptv-m3u-playlist.com ll TVP 3
+http://145.129.238.137:8000/play/a03x
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TVP HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll TVP HD
+http://145.129.238.137:8000/play/a03v
+#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll TVP INFO HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll TVP INFO HD
+http://145.129.238.137:8000/play/a03w
