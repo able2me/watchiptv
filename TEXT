@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF: ll
-https://www.youtube.com/watch?v=YIDEmE_Boqw.mp4
-#EXTINF:- ll AXN HD
+#EXTINF:-1 tvg-name=" AXN HD" tvg-logo="", AXN HD
 http://145.129.238.137:8000/play/a045
-#EXTINF: BBC Earth HD
+#EXTINF:-1 tvg-name=" BBC Earth HD", BBC Earth HD
 http://145.129.238.137:8000/play/a06c
 #EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll BBC HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll BBC HD
 http://145.129.238.137:8000/play/a06b
@@ -31,7 +29,7 @@ http://145.129.238.137:8000/play/a059
 http://145.129.238.137:8000/play/a03u
 #EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat 2 HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat 2 HD
 http://145.129.238.137:8000/play/a06o
-#EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Cafe HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Cafe HD
+#EXTINF:-1 tvg-name="  Polsat Cafe HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Cafe HD
 http://145.129.238.137:8000/play/a06n
 #EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Polsat Doku HD" tvg-logo="", ll www.iptv-m3u-playlist.com ll Polsat Doku HD
 http://145.129.238.137:8000/play/a04a
